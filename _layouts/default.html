@@ -40,7 +40,6 @@
 <header>
   <h1 href="{{ "/" | relative_url }}" class="title">{{ site.title | escape }}</h1>
   {% include menu.html menu=pages %}
-  <h1 class="title">{{ site.title | default: site.github.repository_name }}</h1>
 </header>
 
 {{ content }}
