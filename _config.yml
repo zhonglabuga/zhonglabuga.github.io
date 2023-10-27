@@ -26,7 +26,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "News.md",title: "News"}
   - {file: "Collaborator.md",title: "Collaborator"}
   - {file: "Contact.md",title: "Contact"}
-  - {file: "README.md"}
+  #- {file: "README.md"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   #- {title: Mail, icon: envelope, url: "mailto:niklasbuschmann@users.noreply.github.com"}
