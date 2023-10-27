@@ -1,6 +1,6 @@
 title: "Wenxuan Zhong Lab"
-author: "Blog Author"
-description: "Made with <b style=\"color: #f45;\">&lt;3</b>"
+author: "Wenxuan Zhong"
+description: "University of Georgia"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
@@ -16,7 +16,7 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "index.html"}
+  - {file: "index.html",title: From Math to Science}
   - {file: "README.md"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
