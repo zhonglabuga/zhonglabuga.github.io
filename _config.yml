@@ -18,6 +18,14 @@ minimal: false             # use a dark header
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.html", title: "From Math to Science"}
   - {file: "Research.md",title: "Research"}
+  - {file: "Publication.md",title: "Publication"}
+  - {file: "Grants.md",title: "Grants"}
+  - {file: "People.md",title: "People"}
+  - {file: "Software.md",title: "Software"}
+  - {file: "Events.md",title: "Events"}
+  - {file: "News.md",title: "News"}
+  - {file: "Collaborator.md",title: "Collaborator"}
+  - {file: "Contact.md",title: "Contact"}
   - {file: "README.md"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
