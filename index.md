@@ -3,7 +3,7 @@ layout: default
 title: "From Math to Science"
 mathjax: true
 layout: page
-image: /assets/assets/lab_image.jpg
+image: /assets/lab_image.jpg
 ---
 ![]({{page.image| relative_url}})
 # Welcome to the Zhong Lab at the University of Georgia
