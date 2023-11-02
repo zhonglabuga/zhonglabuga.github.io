@@ -3,8 +3,9 @@ layout: default
 title: "From Math to Science"
 mathjax: true
 layout: page
+image: /assets/assets/lab_image.jpg
 ---
-![Swiss Alps](https://github.com/TaoWang-UGA/TaoWang-UGA.github.io/blob/master/assets/lab_image.jpg)
+![]({{page.image| relative_url}})
 # Welcome to the Zhong Lab at the University of Georgia
 Our research focuses on statistical methodology and theory development to face the striking new phenomena that emerged under the big data regime. Over the past few years, Dr. Zhong has established diverse extramurally funded research programs to overcome the computational and theoretical challenges that arise from big data analysis. Basic statistical researches are successfully applied in modern genomic, epigenetic, metagenomics, text-mining, chemical sensing, and brain imaging research.
 More specifically, our research focuses on those research thrusts:
