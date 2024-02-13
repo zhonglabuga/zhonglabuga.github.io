@@ -27,3 +27,6 @@ Meng. C., Yu, J., Chen, Y., Zhong, W., and Ma, P. (2021) Smoothing splines appro
 * Cheng, H., Yu, J., Wang, Z., Ma, P., Guo, C., Wang, B., <b>Zhong, W.</b>, Xu, B.(2021) Details of single-molecule force spectroscopy data decoded by network-based automatic clustering algorithm, _Journal of Physical Chemistry Part B_.
 * <b>Zhong, W.</b>, Liu, Y. and Zeng, P., (2021) A model-free variable screening method based on leverage score. _The Journal of the American Statistical Association_.
 * Kaushal, R., Peng, L., Singh, S. K., Zhang, M., Zhang, X., Vílchez, J. I., Wang, Z., He, D., Yang, Y., Lv, S., Xu, Z., Morcillo, R. J., Wang, W., Huang, W., Paré, P.W., Song, C., Zhu, J., Liu, R., <b>Zhong, W.</b>, Ma, P., Zhang, H. (2021) Dicer-Like proteins influence Arabidopsis root microbiota independent of RNA-directed DNA methylation, Microbiome.
+
+# 2020
+* Meng, C., Yu, J., Zhang, J., <b>Zhong, W.</b>, and Ma, P. (2020) Sufficient dimension reduction for classification using principal optimal transport direction, NeurIPS 2020.
