@@ -30,3 +30,4 @@ Meng. C., Yu, J., Chen, Y., Zhong, W., and Ma, P. (2021) Smoothing splines appro
 
 # 2020
 * Meng, C., Yu, J., Zhang, J., <b>Zhong, W.</b>, and Ma, P. (2020) Sufficient dimension reduction for classification using principal optimal transport direction, NeurIPS 2020.
+* Meng. C., Xie, R., Mandal, A., Zhang, X., Zhong, W., and Ma, P. (2020) LowCon: A design-based subsampling approach in a misspecified linear model, Journal of Computational and Graphical Statistics.
