@@ -77,7 +77,10 @@ Additionally:
 ## Download
 * SSClust3.1
 ## Running SSClust
-* SSClust is run from the R command line by typing: source("SSClust.R")
+* SSClust is run from the R command line by typing:
+```
+source("SSClust.R")
+```
 
 **Note**: The master control text file SSClust.R must be edited before running SSClust.It includes the location of your input data, number of clusters, number of RCEM chains to run, and RCEM threshold.SSClust is run repeatedly, each time increasing the number of clusters specified, until a minimum BIC score is achieved. For further details consult the [SSClust Manual](https://uofi.app.box.com/s/grjrnu0qn68mfrtxrgwt) and [Ma et al. 2006](https://uofi.app.box.com/s/be2h33o04e76kn5i47wq).
 </details>
