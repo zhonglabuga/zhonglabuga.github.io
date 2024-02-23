@@ -1,5 +1,12 @@
+---
+layout: default
+title: "Software"
+mathjax: true
+layout: page
+---
+
 <details>
-<summary>How do I dropdown?</summary>
+<summary>MotifExpress</summary>
 <br>
 This is how you dropdown.
 </details>
