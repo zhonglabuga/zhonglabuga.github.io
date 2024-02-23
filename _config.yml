@@ -39,3 +39,6 @@ comments:
 
 plugins:
   - jekyll-remote-theme
+
+theme: jekyll-theme-minimal
+include: Software.md
