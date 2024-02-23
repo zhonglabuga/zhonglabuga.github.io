@@ -6,10 +6,14 @@ layout: page
 ---
 
 <details>
-<summary> MotifExpress</summary>
+<summary> 
+  
+  # MotifExpress
+
+</summary>
 <br>
 
-# MotifExpress
+
 
 </details>
 
