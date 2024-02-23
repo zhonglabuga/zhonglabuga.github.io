@@ -43,15 +43,7 @@ Downloads:
 
 | Item |Link |
 |-----|--------|
-|Reference manual:|COP.pdf|
-|Package source:  |COP_1.0-2.tar.gz|
-
-
-Reference manual:	COP.pdf
-Package source:	COP_1.0-2.tar.gz
-Windows binaries:	r-devel: COP_1.0-2.zip, r-release: COP_1.0-2.zip, r-oldrel: COP_1.0-2.zip
-OS X Snow Leopard binaries:	r-release: COP_1.0-2.tgz, r-oldrel: COP_1.0-2.tgz
-OS X Mavericks binaries:	r-release: COP_1.0-2.tgz
-Old sources:	COP archive
+|Reference manual:|[COP.pdf](https://cran.r-project.org/src/contrib/Archive/COP/)|
+|Package source:  |[COP_1.0-2.tar.gz](https://cran.r-project.org/src/contrib/Archive/COP/)|
 
 </details>
