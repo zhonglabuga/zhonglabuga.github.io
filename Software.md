@@ -31,7 +31,7 @@ Download MotifExpress [here](https://uofi.app.box.com/s/n1y3p3e4ntgcwjd9b8j2).
 <details>
 <summary> 
   
-<b>Correlation Pursuit</b>
+# Correlation Pursuit
 
 </summary>
 <br>
