@@ -2,7 +2,6 @@
 layout: default
 title: "Software"
 mathjax: true
-layout: page
 ---
 
 <details>
