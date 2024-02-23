@@ -24,6 +24,8 @@ MotifExpress was designed for win32 systems, and requires a number of prerequisi
   * impute — download from BioConductor
   * samr — download from BioConductor
 
+Download MotifExpress here.
+
 </details>
 
 
