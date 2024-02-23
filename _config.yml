@@ -21,7 +21,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "Publication.md",title: "Publication"}
   - {file: "Grants.md",title: "Grants"}
   - {file: "People.md",title: "People"}
-  - {file: "Software.md",title: "Software"}
+  - {file: "_posts/2017-01-01-advanced-examples.md",title: "Software"}
   - {file: "Events.md",title: "Events"}
   - {file: "News.md",title: "News"}
   - {file: "Collaborator.md",title: "Collaborator"}
