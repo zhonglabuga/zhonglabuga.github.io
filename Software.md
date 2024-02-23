@@ -63,5 +63,22 @@ Smoothing Spline Clustering is a statistical method for clustering time-series g
 Smoothing Spline Clustering provides clusters of similarly expressed genes using a statistically rigorous, biologically based, data-driven method. Importantly, SSC provides the number of gene clusters in a given dataset without an a priori specification of the genes that belong to each cluster, a mean curve for each cluster describing the average expression profile of each cluster, and associated 95% confidence bands.
 Example of an SSC cluster from D. melanogaster developmental data 1 showing mean expression curve and 95% confidence bands
 ![](/assets/flycurve.jpg)
+
+## Why Use Smoothing Spline Clustering?
+The big advantage of Smoothing Spline Clustering over other clustering algorithms is that you do not have to specify a priori the number of clusters in your dataset or specify the expected functional forms (curves) of genes in the data. SSC achieves this by modeling the natural properties of gene expression over time, taking into account gene-specific differences in gene expression within a cluster of similarly expressed genes, the effects of experimental measurement error, and missing data. Furthermore, SSC provides a visual summary of each cluster’s gene expression function and goodness-of-fit as shown above.
+Additionally:
+* SSClust is easy to install and use.
+* SSClust is free and open-source.
+* You don’t have to sign up to get it.
+* It’s published in a peer-reviewed journal.
+## Availability
+* SSClust is freely available as a stand-alone package utilizing R
+* SSClust is free and open-source academic software released under the GNU General Public License.
+## Download
+* SSClust3.1
+## Running SSClust
+SSClust is run from the R command line by typing:
+source("SSClust.R")
+**Note**: The master control text file SSClust.R must be edited before running SSClust.It includes the location of your input data, number of clusters, number of RCEM chains to run, and RCEM threshold.SSClust is run repeatedly, each time increasing the number of clusters specified, until a minimum BIC score is achieved. For further details consult the [SSClust Manual](https://uofi.app.box.com/s/grjrnu0qn68mfrtxrgwt) and [Ma et al. 2006](https://uofi.app.box.com/s/be2h33o04e76kn5i47wq).
 </details>
 
