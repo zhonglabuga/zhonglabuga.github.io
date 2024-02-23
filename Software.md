@@ -40,7 +40,7 @@ Download MotifExpress [here](https://uofi.app.box.com/s/n1y3p3e4ntgcwjd9b8j2).
 Correlation Pursuit (COP) is the package for selecting variables for SDR models via correlation pursuit. Unlike linear stepwise regression, COP does not impose a special form of relationship (such as linear) between the response variable and the predictor variables. The COP procedure selects variables that attain the maximum correlation between the transformed response and the linear combination of the variables. Various asymptotic properties of the COP procedure are established and, in particular, its variable selection performance under a diverging number of predictors and sample size is investigated. The excellent empirical performance of the COP procedure in comparison with existing methods is demonstrated in *“Correlation pursuit: forward stepwise variable selection for index models”*.
 Downloads:
 
-|Name |Quantity|
+|Reference manual: |Quantity|
 |-----|--------|
 |Apple|3       |
 |Egg  |12      |
