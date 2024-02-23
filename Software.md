@@ -1,6 +1,5 @@
 ---
 title: "Software"
-layout: page
 ---
 
 <details>
