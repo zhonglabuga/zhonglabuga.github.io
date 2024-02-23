@@ -47,3 +47,21 @@ Downloads:
 |Package source:  |[COP_1.0-2.tar.gz](https://cran.r-project.org/src/contrib/Archive/COP/)|
 
 </details>
+
+<details>
+<summary> 
+  
+# Smoothing Spline Clustering
+
+</summary>
+<br>
+
+## What is Smoothing Spline Clustering?
+Smoothing Spline Clustering is a statistical method for clustering time-series gene expression data. In particular, Smoothing Spline Clustering is useful for clustering genes in microarray experiments performed over several time points, for example, over the course of development, a drug treatment, or other temporally based experiments.
+
+## What can Smoothing Spline Clustering tell me?
+Smoothing Spline Clustering provides clusters of similarly expressed genes using a statistically rigorous, biologically based, data-driven method. Importantly, SSC provides the number of gene clusters in a given dataset without an a priori specification of the genes that belong to each cluster, a mean curve for each cluster describing the average expression profile of each cluster, and associated 95% confidence bands.
+Example of an SSC cluster from D. melanogaster developmental data 1 showing mean expression curve and 95% confidence bands
+
+</details>
+
