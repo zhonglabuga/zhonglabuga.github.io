@@ -86,7 +86,7 @@ Additionally:
 <details>
 <summary> 
   
-# (MetaGen)[https://github.com/BioAlgs/MetaGen]
+# [MetaGen](https://github.com/BioAlgs/MetaGen)
 
 </summary>
 <br>
