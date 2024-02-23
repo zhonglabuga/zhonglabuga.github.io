@@ -19,6 +19,10 @@ MotifExpress1 is a tool for rapidly discovering cis-regulatory motifs by correla
 MotifExpress was designed for win32 systems, and requires a number of prerequisites to function. You should download them first if you do not have them:
 * Python 2.5+
   * Numpy
+* R 2.6.2
+  * abind — download from inside R
+  * impute — download from BioConductor
+  * samr — download from BioConductor
 
 </details>
 
