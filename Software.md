@@ -62,6 +62,6 @@ Smoothing Spline Clustering is a statistical method for clustering time-series g
 ## What can Smoothing Spline Clustering tell me?
 Smoothing Spline Clustering provides clusters of similarly expressed genes using a statistically rigorous, biologically based, data-driven method. Importantly, SSC provides the number of gene clusters in a given dataset without an a priori specification of the genes that belong to each cluster, a mean curve for each cluster describing the average expression profile of each cluster, and associated 95% confidence bands.
 Example of an SSC cluster from D. melanogaster developmental data 1 showing mean expression curve and 95% confidence bands
-
+![](/assets/flycurve.jpg)
 </details>
 
