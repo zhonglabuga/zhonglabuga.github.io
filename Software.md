@@ -7,14 +7,14 @@ mathjax: true
 <details>
 <summary> 
   
-**MotifExpress**
+<b>MotifExpress</b>
 
 </summary>
 <br>
 
 MotifExpress1 is a tool for rapidly discovering cis-regulatory motifs by correlating sequence to expression data. It will discover motifs whose presence is best correlated with changes in genome-wide gene expression from a control state to an experimental state. It uses expression data as measured by microarray or RNA-seq, and repeatmasked sequence data from regions relevant to the genes whose expression has been measured.
 
-**-Installing MotifExpress**
+<b>-Installing MotifExpress</b>
 MotifExpress was designed for win32 systems, and requires a number of prerequisites to function. You should download them first if you do not have them:
 * Python 2.5+
   * Numpy
@@ -31,7 +31,7 @@ Download MotifExpress [here](https://uofi.app.box.com/s/n1y3p3e4ntgcwjd9b8j2).
 <details>
 <summary> 
   
-**Correlation Pursuit**
+<b>Correlation Pursuit</b>
 
 </summary>
 <br>
