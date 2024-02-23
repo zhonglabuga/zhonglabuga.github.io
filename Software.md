@@ -41,8 +41,17 @@ Correlation Pursuit (COP) is the package for selecting variables for SDR models 
 Downloads:
 
 
+|Name |Quantity|
 |-----|--------|
-|Reference manual: |3       |
-|Egg  |12      |
+|Reference manual:|COP.pdf|
+|Package source:  |COP_1.0-2.tar.gz|
+
+
+Reference manual:	COP.pdf
+Package source:	COP_1.0-2.tar.gz
+Windows binaries:	r-devel: COP_1.0-2.zip, r-release: COP_1.0-2.zip, r-oldrel: COP_1.0-2.zip
+OS X Snow Leopard binaries:	r-release: COP_1.0-2.tgz, r-oldrel: COP_1.0-2.tgz
+OS X Mavericks binaries:	r-release: COP_1.0-2.tgz
+Old sources:	COP archive
 
 </details>
