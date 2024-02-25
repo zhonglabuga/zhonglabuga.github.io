@@ -3,14 +3,7 @@ layout: page
 title: "Software"
 mathjax: true
 ---
-
-<details>
-<summary> 
-  
 # MotifExpress
-
-</summary>
-<br>
 
 MotifExpress1 is a tool for rapidly discovering cis-regulatory motifs by correlating sequence to expression data. It will discover motifs whose presence is best correlated with changes in genome-wide gene expression from a control state to an experimental state. It uses expression data as measured by microarray or RNA-seq, and repeatmasked sequence data from regions relevant to the genes whose expression has been measured.
 
@@ -24,8 +17,6 @@ MotifExpress was designed for win32 systems, and requires a number of prerequisi
   * samr — download from BioConductor
 
 Download MotifExpress [here](https://uofi.app.box.com/s/n1y3p3e4ntgcwjd9b8j2).
-
-</details>
 
 
 <details>
