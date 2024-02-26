@@ -4,7 +4,7 @@ title: "People"
 permalink: /people/
 ---
 
-# Our Team
+# People
 
 <div class="team-member">
   <img src="/assets/Wenxuan_Zhong.jpeg" alt="Wenxuan_Zhong">
