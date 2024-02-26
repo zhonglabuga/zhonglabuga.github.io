@@ -18,10 +18,11 @@ MotifExpress was designed for win32 systems, and requires a number of prerequisi
 
 Download MotifExpress [here](https://uofi.app.box.com/s/n1y3p3e4ntgcwjd9b8j2).
 
+***
 
 <details>
 <summary> 
-  
+
 # Correlation Pursuit
 
 </summary>
