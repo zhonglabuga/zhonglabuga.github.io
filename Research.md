@@ -4,7 +4,7 @@ title: "Research"
 mathjax: true
 ---
 # Metagenomics
-<img src="/assets/leveraging.png" alt="Metagenomics" width="400px" height="auto"/>
+<img src="/assets/metagene.png" alt="Metagenomics" width="400px" height="auto"/>
 
 # Leveraging
 <img src="/assets/leveraging.png" alt="Leveraging" width="400px" height="auto"/>
