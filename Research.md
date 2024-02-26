@@ -4,17 +4,17 @@ title: "Research"
 mathjax: true
 ---
 # Metagenomics
-![](assets/metagene.png){width=400 height=400}
+![](assets/metagene.png)
 
 # Leverageing
-![](assets/leveraging.png){width=400 height=400}
+![](assets/leveraging.png)
 
 # Brain Image
-![](assets/brain_image.jpeg){width=400 height=400}
+![](assets/brain_image.jpeg)
 
 # Epigenetics
-![](assets/epigenetica1.jpg){width=400 height=400}
+![](assets/epigenetica1.jpg)
 
 # Geophysics
-![](assets/geography.png){width=400 height=400}
+![](assets/geography.png)
 
