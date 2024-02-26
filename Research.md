@@ -5,7 +5,7 @@ mathjax: true
 ---
 # Metagenomics
 
-<img src="assets/metagene.png" width="200" height="200" />
+<img src="assets/metagene.png" width="400" height="400" />
 
 # Leverageing
 ![](assets/leveraging.png =x250)
