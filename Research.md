@@ -4,4 +4,4 @@ title: "Research"
 mathjax: true
 ---
 # Metagenomics
-![](assets/)
+![](assets/metagene.png)
