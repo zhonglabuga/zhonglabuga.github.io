@@ -4,7 +4,8 @@ title: "Research"
 mathjax: true
 ---
 # Metagenomics
-![](assets/metagene.png =x250)
+
+<img src="assets/metagene.png" width="200" height="200" />
 
 # Leverageing
 ![](assets/leveraging.png =x250)
