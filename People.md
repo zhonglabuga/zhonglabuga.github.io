@@ -8,7 +8,7 @@ permalink: /people/
 ## Principle Investigator
 
 <div class="team-member">
-    <img src="/assets/Wenxuan_Zhong.jpeg" alt="Wenxuan_Zhong">
+    <img src="/assets/Wenxuan_Zhong.jpeg" alt="Wenxuan Zhong">
     <div class="description">
         <h3>Professor Wenxuan Zhong</h3>
         <p>Principal Investigator</p>
