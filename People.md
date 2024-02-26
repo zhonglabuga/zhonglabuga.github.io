@@ -12,6 +12,6 @@ permalink: /people/
     <div class="description">
         <h3>Professor Wenxuan Zhong</h3>
         <p>Principal Investigator</p>
-        
+        <!-- More description if necessary -->
     </div>
 </div>
