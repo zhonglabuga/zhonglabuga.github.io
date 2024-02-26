@@ -7,7 +7,7 @@ mathjax: true
 ![](assets/metagene.png)
 
 # Leverageing
-<img src="assets/leveraging.png" alt="leveraging" width="200"/>
+<img src="assets/leveraging.png" alt="leveraging" width="400"/>
 
 # Brain Image
 ![](assets/brain_image.jpeg)
