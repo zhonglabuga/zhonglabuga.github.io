@@ -8,3 +8,9 @@ mathjax: true
 
 # Leverageing
 ![](assets/leveraging.png)
+# Brain Image
+![](assets/brain_image.jpeg)
+# Epigenetics
+![](assets/epigenetica1.jpg)
+# Geophysics
+![](assets/geography.png)
