@@ -40,36 +40,28 @@
   text-align: center;
 }
 
-team-member {
-        display: flex;
-        align-items: center;
-        margin-bottom: 20px;
-        /* Ensure the team member is a flex container with row direction */
-        flex-direction: row;
-    }
-
-.team-member img {
-        width: 100px; /* Adjust the image size as needed */
-        height: auto;
-        margin-right: 20px;
-        border-radius: 50%; /* Makes the image circular */
-        /* Prevent the image from shrinking smaller than its size */
-        flex-shrink: 0;
-    }
-
-.team-member .description {
-        /* Allows the description to fill the remaining space */
-        flex-grow: 1;
-    }
-
-.team-member h3 {
-        margin: 0;
-        font-size: 1.5em;
-    }
-
-.team-member p {
-        margin: 0;
-    }
+ .team-section {
+            width: 100%;
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: space-around;
+        }
+        
+        .team-member {
+            flex: 1; /* Grow to the available space */
+            margin: 10px;
+            box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2); /* Optional: adds a shadow around the card */
+            text-align: center;
+        }
+        
+        .team-member img {
+            width: 100%; /* Make image fill the container */
+            height: auto;
+        }
+        
+        .description {
+            padding: 15px;
+        }
   
 </style>
   
