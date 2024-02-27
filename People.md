@@ -167,3 +167,53 @@ permalink: /people/
         <!-- More description if necessary -->
     </div>
 </div>
+
+<div class="team-member" style="display: flex; align-items: center;">
+    <img src="/assets/Xiaoxiao_Sun.jpg" alt="Xiaoxiao_Sun" style="width: 400px;">
+    <div class="description" style="margin-left: 20px;">
+        <h3>Dr. Xiaoxiao Sun</h3>
+        <p><b>Current Position:</b> Assistant Professor</p>
+        <p>Department of Mathematics</p>
+        <p>University of Arizona</p>
+        <p>Email: xiaosun@email.arizona.edu</p>
+        <p><a href="https://www.u.arizona.edu/~xiaosun/">Personal Website</a></p>
+        <!-- More description if necessary -->
+    </div>
+</div>
+
+<div class="team-member" style="display: flex; align-items: center;">
+    <img src="/assets/Xin_Xing.jpeg" alt="Xin Xing" style="width: 400px;">
+    <div class="description" style="margin-left: 20px;">
+        <h3>Dr. Xin Xing</h3>
+        <p><b>Current Position:</b> Assistant Professor</p>
+        <p>Department of Statistics</p>
+        <p>Virginia Tech</p>
+        <p>Email: xinxing@vt.edu</p>
+        <p><a href="https://xin-xing.github.io/">Personal Website</a></p>
+        <!-- More description if necessary -->
+    </div>
+</div>
+
+<div class="team-member" style="display: flex; align-items: center;">
+    <img src="/assets/Rui_Xie.jpeg" alt="Rui Xie" style="width: 400px;">
+    <div class="description" style="margin-left: 20px;">
+        <h3>Dr. Rui Xie</h3>
+        <p><b>Current Position:</b> Assistant Professor</p>
+        <p>University of Central Florida</p>
+        <p>Email: rui.xie@ucf.edu</p>
+        <p><a href="https://ruixie7.github.io/">Personal Website</a></p>
+        <!-- More description if necessary -->
+    </div>
+</div>
+
+<div class="team-member" style="display: flex; align-items: center;">
+    <img src="/assets/Xinlian_Zhang.jpeg" alt="Xinlian Zhang" style="width: 400px;">
+    <div class="description" style="margin-left: 20px;">
+        <h3>Dr. Xinlian Zhang</h3>
+        <p><b>Current Position:</b> Assistant Professor</p>
+        <p>University of California San Diego</p>
+        <p>Email: xizhang@ucsd.edu</p>
+        <p><a href="https://xinlianzhang209650595.wordpress.com/">Personal Website</a></p>
+        <!-- More description if necessary -->
+    </div>
+</div>
