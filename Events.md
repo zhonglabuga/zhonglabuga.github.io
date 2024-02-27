@@ -11,7 +11,7 @@ title: "Events"
 #### Talk by Dr. Shiyu Wang on "Model learning in Latent Class analysis: A higher-order hidden Markov model with covariates".<br>
 
 <div style="float: right; margin-right: 10px;">
-  <img src="/assets/shiyu_talk_2.jpeg" alt="shiyu_talk2" style="width: 200px;"/>
+  <img src="/assets/shiyu_talk_2.jpeg" alt="shiyu_talk2" style="width: 400px;"/>
 </div>
 
 #### **»** Abstract
@@ -20,7 +20,7 @@ The cognitive diagnostic model (CDM) is a type of restricted latent class model 
 <div style="clear: both;"></div>
 
 <div style="float: right; margin-right: 10px;">
-  <img src="/assets/shiyu_talk3.jpeg" alt="shiyu_talk3" style="width: 200px;"/>
+  <img src="/assets/shiyu_talk3.jpeg" alt="shiyu_talk3" style="width: 400px;"/>
 </div>
 
 #### **»** Short Bio
@@ -37,7 +37,7 @@ Dr. Shiyu Wang is an Assistant Professor of the Quantitative Methodology Program
 <div style="clear: both;"></div>
 
 <div style="float: right; margin-right: 10px;">
-  <img src="/assets/weihua_talk.png" alt="weihua_talk" style="width: 200px;"/>
+  <img src="/assets/weihua_talk.png" alt="weihua_talk" style="width: 400px;"/>
 </div>
 
 #### **»** Abstract
