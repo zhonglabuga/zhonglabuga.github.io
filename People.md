@@ -89,3 +89,64 @@ permalink: /people/
         <!-- More description if necessary -->
     </div>
 </div>
+
+## Former and Affiliated Members
+
+<div class="team-member" style="display: flex; align-items: center;">
+    <img src="/assets/Jun_Yu.png" alt="Jun_Yu" style="max-width: 50%;">
+    <div class="description" style="margin-left: 20px;">
+        <h3>Jun Yu</h3>
+        <p>Email: yujunbeta@bit.edu.cn</p>
+        <!-- More description if necessary -->
+    </div>
+</div>
+
+<div class="team-member" style="display: flex; align-items: center;">
+    <img src="/assets/Jianbin_Chen.png" alt="Jianbin_Chen.png" style="max-width: 50%;">
+    <div class="description" style="margin-left: 20px;">
+        <h3>Jianbin Chen</h3>
+        <p>Email: yujunbeta@bit.edu.cn</p>
+        <!-- More description if necessary -->
+    </div>
+</div>
+
+<div class="team-member" style="display: flex; align-items: center;">
+    <img src="/assets/Jianbin_Chen.png" alt="Jianbin_Chen" style="max-width: 50%;">
+    <div class="description" style="margin-left: 20px;">
+        <h3>Jianbin Chen</h3>
+        <p>Email: jianbinchen602@gmail.com</p>
+        <!-- More description if necessary -->
+    </div>
+</div>
+
+<div class="team-member" style="display: flex; align-items: center;">
+    <img src="/assets/Mengrui_Zhang.jpeg" alt="Mengrui_Zhang" style="max-width: 50%;">
+    <div class="description" style="margin-left: 20px;">
+        <h3>Dr. Mengrui Zhang</h3>
+        <p>Email: Mengrui.Zhang@uga.edu </p>
+        <!-- More description if necessary -->
+    </div>
+</div>
+
+<div class="team-member" style="display: flex; align-items: center;">
+    <img src="/assets/Ye_Wang.jpeg" alt="Ye_Wang" style="max-width: 50%;">
+    <div class="description" style="margin-left: 20px;">
+        <h3>Dr. Ye Wang</h3>
+        <p>Email: ywang927@uga.edu</p>
+        <!-- More description if necessary -->
+    </div>
+</div>
+
+<div class="team-member" style="display: flex; align-items: center;">
+    <img src="/assets/Meng_Cheng.jpeg" alt="Meng_Cheng" style="max-width: 50%;">
+    <div class="description" style="margin-left: 20px;">
+        <h3>Dr. MengCheng</h3>
+        <p>Institute of Statistics and Big Data</p>
+        <p>Renmin University of China</p>
+        <p>Email: chengmeng@ruc.edu.cn</p>
+        <p>{Personal Website](http://isbd.ruc.edu.cn/English/Faculty/7dfa5e42f9e4422ba9e55a0e4b33b092.htm)<p>
+        <!-- More description if necessary -->
+    </div>
+</div>
+
+
