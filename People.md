@@ -154,3 +154,16 @@ permalink: /people/
         <!-- More description if necessary -->
     </div>
 </div>
+
+<div class="team-member" style="display: flex; align-items: center;">
+    <img src="/assets/Yiwen_Liu.jpeg" alt="Yiwen_Liu" style="width: 400px;">
+    <div class="description" style="margin-left: 20px;">
+        <h3>Dr. Yiwen Liu</h3>
+        <p><b>Current Position:</b> Visiting Assistant Professor</p>
+        <p>Department of Mathematics</p>
+        <p>University of Arizona</p>
+        <p>Email: yiwenliu@math.arizona.edu</p>
+        <p><a href="https://www.u.arizona.edu/~yiwenliu/">Personal Website</a></p>
+        <!-- More description if necessary -->
+    </div>
+</div>
