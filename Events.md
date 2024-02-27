@@ -40,3 +40,8 @@ Dr. Shiyu Wang is an Assistant Professor of the Quantitative Methodology Program
 
 #### **»** Abstract
 The exponential random graph model (ERGM) has become a valuable tool for modeling social networks. In particular, ERGM provides great flexibility to account for both covariates effects on tie formations and endogenous network formation processes. However, there are both conceptual and computational issues for fitting ERGMs on big networks. Dr. An describes a framework and a series of methods (based on existent algorithms) to address these issues. He also outlines the advantages and disadvantages of the methods and the conditions to which they are most applicable. Selected methods are illustrated through examples.
+
+#### **»** Short Bio
+Dr. Weihua An is an Assistant Professor of Sociology and Quantitative Theory and Methods at Emory University. His main research areas are network analysis and causal inference. In network analysis, he studies theories and applications that treat social networks as a medium for social influence and a platform for social surveillance. In causal inference, he studies matching and propensity score methods, instrumental variable methods, and causal inference with treatment diffusion. His research also connects the two areas by examining causality in networks and employing networks to improve causal inference.
+
+Dr. Weihua An’s [personal webpage](https://sites.google.com/view/weihuaan/home.)
