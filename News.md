@@ -3,12 +3,11 @@ layout: page
 title: "News"
 ---
 ## Xinlian won 2020 Graduate Student Excellence-in-Research Award
-### Thursday, Apr 23, 2020
+Thursday, Apr 23, 2020
 Xinlian won 2020 Graduate Student Excellence-in-Research Award.  We are so incredibly proud of Her. Congratulations!
 
 ## Cheng won 2019 ASA Student Paper Award of the Section on Nonparametric Statistics .
-### Friday, Apr 26, 2019
-
+Friday, Apr 26, 2019
 Congratulations to Cheng Meng for his paper has been selected as one of the winners of this year’s ASA student paper competition, from the Section on Nonparametric Statistics. We are so incredibly proud of him. Congratulations again!
 
 Xinlian won 2019 Best Senior PhD Award.
