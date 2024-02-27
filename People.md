@@ -93,6 +93,19 @@ permalink: /people/
 ## Former and Affiliated Members
 
 <div class="team-member" style="display: flex; align-items: center;">
+    <img src="/assets/Huimin_Cheng.jpeg" alt="Huimin_Cheng" style="width: 400px;">
+    <div class="description" style="margin-left: 20px;">
+        <h3>Dr. Huimin Cheng</h3>
+        <p><b>Current Position:</b> Assistant Professor</p>
+        <p>Department of Biostatistics</p>
+        <p>Boston University</p>
+        <p>Email: huimin23@bu.edu</p>
+        <p><a href="https://sites.google.com/view/huimincheng/home/">Personal Website</a></p>
+        <!-- More description if necessary -->
+    </div>
+</div>
+
+<div class="team-member" style="display: flex; align-items: center;">
     <img src="/assets/Jun_Yu.png" alt="Jun_Yu" style="width: 400px;">
     <div class="description" style="margin-left: 20px;">
         <h3>Jun Yu</h3>
