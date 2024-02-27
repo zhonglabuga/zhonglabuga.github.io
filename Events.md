@@ -2,13 +2,14 @@
 layout: page
 title: "Events"
 ---
-### Invited Talk, 12th October 2017
 
 <div style="float: left; margin-right: 10px;">
   <img src="/assets/shiyu_talk.png" alt="shiyu_talk" style="width: 200px;"/>
 </div>
 
+### Invited Talk, 12th October 2017
 #### Talk by Dr. Shiyu Wang on "Model learning in Latent Class analysis: A higher-order hidden Markov model with covariates". <br>
+
 <div style="clear: both;"></div>
 
 <div style="float: right; margin-right: 10px;">
@@ -28,12 +29,12 @@ The cognitive diagnostic model (CDM) is a type of restricted latent class model 
 Dr. Shiyu Wang is an Assistant Professor of the Quantitative Methodology Program, the Department of Educational Psychology at the University of Georgia.  She is also the adjunct Assistant Professor of Statistics at UGA. Before moving to this position, she got her PhD in statistics from the University of Illinois at Urbana-Champaign. Dr Wang’s primary research interests lie broadly in multivariate latent variable methodology for the measurement of complex traits and behaviors with application to educational and psychological assessment. Her current research interests are centered on two areas: statistical inference in latent variable modeling and adaptive testing, including item response theory, cognitive diagnostic modeling, computerized adaptive testing, and multistage adaptive testing.
 
 *** 
-### Invited Talk, 29th September 2017
 
 <div style="float: left; margin-right: 10px;">
   <img src="/assets/weihua.png" alt="weihua" style="width: 200px;"/>
 </div>
 
+### Invited Talk, 29th September 2017
 #### Talk by Dr. Weihua An on “Fitting ERGMs on Big Networks”. <br>
 <div style="clear: both;"></div>
 
