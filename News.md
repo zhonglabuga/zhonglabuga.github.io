@@ -55,3 +55,6 @@ Congratulations to Ye Wang, Xin Xing, and Xinlian Zhang!  Ye received the Best T
   <figcaption>Xin receiving the Best Senior Student Award from Last Award winner Xiaoxiao.</figcaption>
 </figure>
 
+<figure style="text-align:center;">
+  <img src="/assets/group_TA.jpeg" alt="group_TA" style="width:60%; margin:auto;">
+</figure>
