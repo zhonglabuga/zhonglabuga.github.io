@@ -58,3 +58,11 @@ Congratulations to Ye Wang, Xin Xing, and Xinlian Zhang!  Ye received the Best T
 <figure style="text-align:center;">
   <img src="/assets/group_TA.jpeg" alt="group_TA" style="width:60%; margin:auto;">
 </figure>
+
+### Professor Wenxuan Zhong’s Research, Microbiome Analysis Tool——MetaGen, was Featured in UGA Today.
+Monday, January 22, 2018<br>
+
+A new computational tool developed by Professor Wenxuan Zhong and her team at the University of Georgia shows promise for further understanding and identifying the complicated makeup of the microbiome. With the creation of this new big data tool, researchers will help identify differences in patterns of microbes that may lead to a better understanding of chronic diseases such as diabetes and obesity.
+<figure style="text-align:center;">
+  <img src="/assets/zhong_metagene.jpeg" alt="zhong_metagene" style="width:60%; margin:auto;">
+</figure>
