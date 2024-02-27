@@ -12,7 +12,7 @@ title: "Events"
 <div style="clear: both;"></div>
 
 <div style="float: right; margin-right: 10px;">
-  <img src="/assets/shiyu_talk_2.jpeg" alt="shiyu_talk2" style="width: 400px;"/>
+  <img src="/assets/shiyu_talk_2.jpeg" alt="shiyu_talk2" style="width: 200px;"/>
 </div>
 
 #### **»** Abstract
@@ -37,7 +37,7 @@ Dr. Shiyu Wang is an Assistant Professor of the Quantitative Methodology Program
 <div style="clear: both;"></div>
 
 <div style="float: right; margin-right: 10px;">
-  <img src="/assets/weihua_talk.png" alt="weihua_talk" style="width: 400px;"/>
+  <img src="/assets/weihua_talk.png" alt="weihua_talk" style="width: 200px;"/>
 </div>
 
 #### **»** Abstract
