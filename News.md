@@ -62,7 +62,24 @@ Congratulations to Ye Wang, Xin Xing, and Xinlian Zhang!  Ye received the Best T
 ### Professor Wenxuan Zhong’s Research, Microbiome Analysis Tool——MetaGen, was Featured in UGA Today.
 Monday, January 22, 2018<br>
 
-A new computational tool developed by Professor Wenxuan Zhong and her team at the University of Georgia shows promise for further understanding and identifying the complicated makeup of the microbiome. With the creation of this new big data tool, researchers will help identify differences in patterns of microbes that may lead to a better understanding of chronic diseases such as diabetes and obesity.
+A new computational tool developed by Professor Wenxuan Zhong and her team at the University of Georgia shows promise for further understanding and identifying the complicated makeup of the microbiome. With the creation of this new big data tool, researchers will help identify differences in patterns of microbes that may lead to a better understanding of chronic diseases such as diabetes and obesity.<br>
+[Click here to read more. ](https://news.uga.edu/microbiome-analysis-tool-will-help-scientists-understand-chronic-disease-environment/) 
+
 <figure style="text-align:center;">
   <img src="/assets/zhong_metagene.jpeg" alt="zhong_metagene" style="width:60%; margin:auto;">
+</figure>
+
+### Xiaoxiao Sun Receives Award from ASA Statistical Computing and Statistical Graphics Student Paper Competition
+Tuesday, January 16, 2018 <br>
+
+Congratulations to Xiaoxiao Sun on his paper, “An asympirical smoothing parameters selection approach for SS-ANOVA models in large samples”, which has been selected as one of the winners of this year’s ASA student paper competition, from the Section on Statistical Computing. We are so incredibly proud of him. Congratulations again!
+
+### Rui Xie received the Best Poster Award at the Georgia Statistics Day 2017
+Rui Xie, Ph.D. Graduate Student and BDAL Research Assistant, was chosen to receive the Best Poster Award for his poster titled, “Online Sequential Leveraging Sampling Method for Streaming Time Series Data” at the Georgia Statistics Day 2017 held at Emory University on October 9, 2017.
+<figure style="text-align:center;">
+  <img src="/assets/GSD_20171.jpeg" alt="GSD_20171" style="width:60%; margin:auto;">
+</figure>
+
+<figure style="text-align:center;">
+  <img src="/assets/GSD_20172.jpeg" alt="GSD_20172" style="width:60%; margin:auto;">
 </figure>
