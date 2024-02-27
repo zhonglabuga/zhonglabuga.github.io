@@ -136,7 +136,7 @@ permalink: /people/
         <p>Institute of Statistics and Big Data</p>
         <p>Renmin University of China</p>
         <p>Email: chengmeng@ruc.edu.cn</p>
-        <p>[Personal Website](http://isbd.ruc.edu.cn/English/Faculty/7dfa5e42f9e4422ba9e55a0e4b33b092.htm)<p>
+        <p><a href="http://isbd.ruc.edu.cn/English/Faculty/7dfa5e42f9e4422ba9e55a0e4b33b092.htm">Personal Website</a></p>
         <!-- More description if necessary -->
     </div>
 </div>
