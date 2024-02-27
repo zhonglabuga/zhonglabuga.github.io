@@ -22,5 +22,21 @@ The cognitive diagnostic model (CDM) is a type of restricted latent class model 
 <div style="float: right; margin-right: 10px;">
   <img src="/assets/shiyu_talk3.jpeg" alt="shiyu_talk3" style="width: 200px;"/>
 </div>
+
 #### **»** Short Bio
 Dr. Shiyu Wang is an Assistant Professor of the Quantitative Methodology Program, the Department of Educational Psychology at the University of Georgia.  She is also the adjunct Assistant Professor of Statistics at UGA. Before moving to this position, she got her PhD in statistics from the University of Illinois at Urbana-Champaign. Dr Wang’s primary research interests lie broadly in multivariate latent variable methodology for the measurement of complex traits and behaviors with application to educational and psychological assessment. Her current research interests are centered on two areas: statistical inference in latent variable modeling and adaptive testing, including item response theory, cognitive diagnostic modeling, computerized adaptive testing, and multistage adaptive testing.
+
+*** 
+### Invited Talk, 29th September 2017
+<div style="float: left; margin-right: 10px;">
+  <img src="/assets/weihua.png" alt="weihua" style="width: 200px;"/>
+</div>
+
+#### Talk by Dr. Weihua An on “Fitting ERGMs on Big Networks”.
+
+<div style="float: right; margin-right: 10px;">
+  <img src="/assets/weihua_talk.png" alt="weihua_talk" style="width: 200px;"/>
+</div>
+
+#### **»** Abstract
+The exponential random graph model (ERGM) has become a valuable tool for modeling social networks. In particular, ERGM provides great flexibility to account for both covariates effects on tie formations and endogenous network formation processes. However, there are both conceptual and computational issues for fitting ERGMs on big networks. Dr. An describes a framework and a series of methods (based on existent algorithms) to address these issues. He also outlines the advantages and disadvantages of the methods and the conditions to which they are most applicable. Selected methods are illustrated through examples.
