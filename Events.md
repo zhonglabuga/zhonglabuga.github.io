@@ -8,8 +8,7 @@ title: "Events"
   <img src="/assets/shiyu_talk.png" alt="shiyu_talk" style="width: 200px;"/>
 </div>
 
-#### Talk by Dr. Shiyu Wang on "Model learning in Latent Class analysis: A higher-order hidden Markov model with covariates".
-<div style="clear: both;"></div>
+#### Talk by Dr. Shiyu Wang on "Model learning in Latent Class analysis: A higher-order hidden Markov model with covariates".<br>
 
 <div style="float: right; margin-right: 10px;">
   <img src="/assets/shiyu_talk_2.jpeg" alt="shiyu_talk2" style="width: 200px;"/>
@@ -29,11 +28,12 @@ Dr. Shiyu Wang is an Assistant Professor of the Quantitative Methodology Program
 
 *** 
 ### Invited Talk, 29th September 2017
+
 <div style="float: left; margin-right: 10px;">
   <img src="/assets/weihua.png" alt="weihua" style="width: 200px;"/>
 </div>
 
-#### Talk by Dr. Weihua An on “Fitting ERGMs on Big Networks”.
+#### Talk by Dr. Weihua An on “Fitting ERGMs on Big Networks”. <br>
 <div style="clear: both;"></div>
 
 <div style="float: right; margin-right: 10px;">
