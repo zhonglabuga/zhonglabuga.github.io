@@ -133,6 +133,7 @@ permalink: /people/
     <img src="/assets/Cheng_Meng.jpeg" alt="Cheng_Meng" style="width: 400px;">
     <div class="description" style="margin-left: 20px;">
         <h3>Dr. Cheng Meng</h3>
+        <p><b>Current Position:</b> Assistant Professor</p>
         <p>Institute of Statistics and Big Data</p>
         <p>Renmin University of China</p>
         <p>Email: chengmeng@ruc.edu.cn</p>
@@ -141,4 +142,15 @@ permalink: /people/
     </div>
 </div>
 
-
+<div class="team-member" style="display: flex; align-items: center;">
+    <img src="/assets/Jingyi_Zhang.jpeg" alt="Jingyi_Zhang" style="width: 400px;">
+    <div class="description" style="margin-left: 20px;">
+        <h3>Dr. Jingyi Zhang</h3>
+        <p><b>Current Position:</b> Assistant Professor</p>
+        <p>Center for Statistical Science</p>
+        <p>Tsinghua University</p>
+        <p>Email: jingyizhang@tsinghua.edu.cn</p>
+        <p><a href="https://tsing.v-dk.com/teambuilder/faculty/jingyi-zhang/">Personal Website</a></p>
+        <!-- More description if necessary -->
+    </div>
+</div>
