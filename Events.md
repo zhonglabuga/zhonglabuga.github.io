@@ -11,7 +11,7 @@ title: "Events"
 #### Talk by Dr. Shiyu Wang on "Model learning in Latent Class analysis: A higher-order hidden Markov model with covariates".
 
 <div style="float: right; margin-right: 10px;">
-  <img src="/assets/shiyu_talk2.jpeg" alt="shiyu_talk2" style="width: 200px;"/>
+  <img src="/assets/shiyu_talk_2.jpeg" alt="shiyu_talk2" style="width: 200px;"/>
 </div>
 
 #### **»** Abstract
