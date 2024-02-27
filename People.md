@@ -5,7 +5,7 @@ permalink: /people/
 ---
 
 ## Principle Investigator
-
+*** 
 <div class="team-member" style="display: flex; align-items: center;">
     <img src="/assets/Wenxuan_Zhong.jpeg" alt="Wenxuan Zhong" style="max-width: 50%;">
     <div class="description" style="margin-left: 20px;">
@@ -16,6 +16,7 @@ permalink: /people/
 </div>
 
 ## Ph.D. Students
+*** 
 <div class="team-member" style="display: flex; align-items: center;">
     <img src="/assets/yongkai.jpeg" alt="Yongkai" style="max-width: 50%;">
     <div class="description" style="margin-left: 20px;">
