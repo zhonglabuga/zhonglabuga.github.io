@@ -71,3 +71,12 @@ permalink: /people/
         <!-- More description if necessary -->
     </div>
 </div>
+
+<div class="team-member" style="display: flex; align-items: center;">
+    <img src="/assets/Jiazhang_Cai.jpeg" alt="Jiazhang_Cai" style="max-width: 50%;">
+    <div class="description" style="margin-left: 20px;">
+        <h3>Yufang Liu</h3>
+        <p>Email: jc27544@uga.edu</p>
+        <!-- More description if necessary -->
+    </div>
+</div>
