@@ -4,6 +4,7 @@ title: "Software"
 mathjax: true
 ---
 # MotifExpress
+***
 
 MotifExpress1 is a tool for rapidly discovering cis-regulatory motifs by correlating sequence to expression data. It will discover motifs whose presence is best correlated with changes in genome-wide gene expression from a control state to an experimental state. It uses expression data as measured by microarray or RNA-seq, and repeatmasked sequence data from regions relevant to the genes whose expression has been measured.
 
@@ -18,11 +19,11 @@ MotifExpress was designed for win32 systems, and requires a number of prerequisi
 
 Download MotifExpress [here](https://uofi.app.box.com/s/n1y3p3e4ntgcwjd9b8j2).
 
-***
 
 
 
 # Correlation Pursuit
+***
 
 Correlation Pursuit (COP) is the package for selecting variables for SDR models via correlation pursuit. Unlike linear stepwise regression, COP does not impose a special form of relationship (such as linear) between the response variable and the predictor variables. The COP procedure selects variables that attain the maximum correlation between the transformed response and the linear combination of the variables. Various asymptotic properties of the COP procedure are established and, in particular, its variable selection performance under a diverging number of predictors and sample size is investigated. The excellent empirical performance of the COP procedure in comparison with existing methods is demonstrated in *“Correlation pursuit: forward stepwise variable selection for index models”*.
 Downloads:
@@ -33,10 +34,10 @@ Downloads:
 |Reference manual:|[COP.pdf](https://cran.r-project.org/src/contrib/Archive/COP/)|
 |Package source:  |[COP_1.0-2.tar.gz](https://cran.r-project.org/src/contrib/Archive/COP/)|
 
-***
+
   
 # Smoothing Spline Clustering
-
+***
 
 ## What is Smoothing Spline Clustering?
 Smoothing Spline Clustering is a statistical method for clustering time-series gene expression data. In particular, Smoothing Spline Clustering is useful for clustering genes in microarray experiments performed over several time points, for example, over the course of development, a drug treatment, or other temporally based experiments.
@@ -66,6 +67,6 @@ source("SSClust.R")
 
 **Note**: The master control text file SSClust.R must be edited before running SSClust.It includes the location of your input data, number of clusters, number of RCEM chains to run, and RCEM threshold.SSClust is run repeatedly, each time increasing the number of clusters specified, until a minimum BIC score is achieved. For further details consult the [SSClust Manual](https://uofi.app.box.com/s/grjrnu0qn68mfrtxrgwt) and [Ma et al. 2006](https://uofi.app.box.com/s/be2h33o04e76kn5i47wq).
 
-***
-# [MetaGen](https://github.com/BioAlgs/MetaGen)
 
+# [MetaGen](https://github.com/BioAlgs/MetaGen)
+***
