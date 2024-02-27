@@ -33,6 +33,8 @@ Downloads:
 |-----|--------|
 |Reference manual:|[COP.pdf](https://cran.r-project.org/src/contrib/Archive/COP/)|
 |Package source:  |[COP_1.0-2.tar.gz](https://cran.r-project.org/src/contrib/Archive/COP/)|
+
+
 <br/><br/>
 
   
