@@ -73,10 +73,19 @@ permalink: /people/
 </div>
 
 <div class="team-member" style="display: flex; align-items: center;">
-    <img src="/assets/Jiazhang_Cai.jpeg" alt="Jiazhang_Cai" style="max-width: 50%;">
+    <img src="/assets/YuFang_Liu.jpeg" alt="YuFang_Liu" style="max-width: 50%;">
     <div class="description" style="margin-left: 20px;">
         <h3>Yufang Liu</h3>
-        <p>Email: jc27544@uga.edu</p>
+        <p>Email: @uga.edu</p>
+        <!-- More description if necessary -->
+    </div>
+</div>
+
+<div class="team-member" style="display: flex; align-items: center;">
+    <img src="/assets/Tao_Wang.jpeg" alt="Tao_Wang" style="max-width: 50%;">
+    <div class="description" style="margin-left: 20px;">
+        <h3>Tao Wang</h3>
+        <p>Email: tw95546@uga.edu</p>
         <!-- More description if necessary -->
     </div>
 </div>
