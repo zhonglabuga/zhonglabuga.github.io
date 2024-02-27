@@ -138,13 +138,13 @@ permalink: /people/
 </div>
 
 <div class="team-member" style="display: flex; align-items: center;">
-    <img src="/assets/Meng_Cheng.jpeg" alt="Meng_Cheng" style="max-width: 50%;">
+    <img src="/assets/Cheng_Meng.jpeg" alt="Cheng_Meng" style="max-width: 50%;">
     <div class="description" style="margin-left: 20px;">
-        <h3>Dr. MengCheng</h3>
+        <h3>Dr. Cheng Meng</h3>
         <p>Institute of Statistics and Big Data</p>
         <p>Renmin University of China</p>
         <p>Email: chengmeng@ruc.edu.cn</p>
-        <p>{Personal Website](http://isbd.ruc.edu.cn/English/Faculty/7dfa5e42f9e4422ba9e55a0e4b33b092.htm)<p>
+        <p>[Personal Website](http://isbd.ruc.edu.cn/English/Faculty/7dfa5e42f9e4422ba9e55a0e4b33b092.htm)<p>
         <!-- More description if necessary -->
     </div>
 </div>
