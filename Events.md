@@ -5,7 +5,7 @@ title: "Events"
 ### Invited Talk, 12th October 2017
 
 <div style="float: left; margin-right: 10px;">
-  <img src="shiyu_talk.png" alt="shiyu_talk" style="width: 200px;"/>
+  <img src="/assets/shiyu_talk.png" alt="shiyu_talk" style="width: 200px;"/>
 </div>
 
 #### Talk by Dr. Shiyu Wang on "Model learning in Latent Class analysis: A higher-order hidden Markov model with covariates".
