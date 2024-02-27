@@ -113,7 +113,28 @@ Bridges, PSC’s new National Science Foundation-funded computing system, has se
 
 ### Cheng Meng Won Gold Medal in Men’s 50 m Backstroke
 <figure style="text-align:center;">
-  <img src="/assets/Meng_swim.jpeg" alt="Meng_swim" style="width:60%; margin:auto;">
+  <img src="/assets/Meng_swim.jpeg" alt="Meng_swim" style="width:40%; margin:auto;">
 </figure>
 
 At the 9th National Games of College Students in China, Cheng Meng won the gold medal in Men’s 50-meter backstroke. Cheng became the first student at Tsinghua University who was nominated as the National Master in swimming.
+
+### Xinlian Zhang was awarded the Best Beginning Ph.D. student by the Department of Statistics in 2016
+<figure style="text-align:center;">
+  <img src="/assets/Xinlian_Zhang.jpeg" alt="Xinlian_Zhang" style="width:60%; margin:auto;">
+</figure>
+The Best Beginning Ph.D. student is awarded annually to one starting Ph.D. student in the department. The awardee is selected based on faculty member nomination, followed by a detailed evaluation of CV, transcript, TA performance, etc. We are proud of you, Xinlian!
+
+### Yiwen Liu won the Best UGA Poster Award for the 2015 GA Statistics Day 
+Georgia Statistics Day is to promote interdisciplinary research within the flagship institutions of the state of Georgia. This conference will enable junior researchers in the Southeast region of the United States, including graduate students, to present their work, to see state-of-the-art developments in research on statistics and related scientific areas, and interact with some of the key players in the area. Georgia Statistics Day puts emphasis on mentoring junior researchers and on the interaction between senior and junior researchers.2015 Georgia Statistics Day, which was hosted by the University of Georgia on October 30, 2015. Professor Robert Tibshirani was the first keynote speaker of this annual event. Congratulations to Yiwen!
+
+### Xin Xing is awarded the Best Beginning Ph.D. student by the Department of Statistics in 2015! 
+The Best Beginning Ph.D. student is awarded annually to one starting Ph.D. student in the department. The awardee is selected based on faculty member nomination, followed by a detailed and broad evaluation of CV, transcript, TA performance, etc.
+
+Congratulations to Xin!
+
+### Dr. WENXUAN ZHONG RECEIVES $1.44 MILLION NIH GRANT
+<figure style="text-align:center;">
+  <img src="/assets/Wenxuan_Zhong.jpeg" alt="Wenxuan_Zhong" style="width:60%; margin:auto;">
+</figure>
+DNA methylation has been newly discovered as a key controller in gene transcription. Aberrant DNA methylation changes can cause a number of human diseases such as developmental diseases (ICF syndrome, Prader-Willi, and Angelman syndromes, etc), aging related diseases (i.e. Alzheimer’s disease), heart disease, diabetes, and autoimmune diseases. Moreover, a large amount of evidence implicated that DNA methylation is a key player in cancer development. Dr. Zhong will develop a suite of statistical models to broaden our understanding of how methylation patterns are established and maintained during normal development and under different environmental conditions.
+[Click here to read more.](https://news.uga.edu/144-million-nih-grant-link-between-epigenetics-cancer-1014/)
