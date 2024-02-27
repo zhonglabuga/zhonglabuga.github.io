@@ -4,7 +4,6 @@ title: "People"
 permalink: /people/
 ---
 
-# People
 ## Principle Investigator
 
 <div class="team-member" style="display: flex; align-items: center;">
