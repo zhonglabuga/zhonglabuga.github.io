@@ -46,6 +46,6 @@ Friday, April 13, 2018<br>
 Congratulations to Ye Wang, Xin Xing, and Xinlian Zhang!  Ye received the Best Teaching Assistant Award, Xin received the Best Senior Student Award, and Xinlian received the Dissertation Completion Award! We are so incredibly proud of them. Congratulations again!
 
 <figure style="text-align:center;">
-  <img src="/path/to/image.png" alt="Ye receiving Best TA Award" style="width:60%; margin:auto;">
+  <img src="/assets/Ye_Wang_TA.jpeg" alt="Ye receiving Best TA Award" style="width:60%; margin:auto;">
   <figcaption>Ye receiving Best TA Award.</figcaption>
 </figure>
