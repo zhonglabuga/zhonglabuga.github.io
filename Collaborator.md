@@ -65,7 +65,7 @@ title: "Collaborator"
         <p><b>Department of Biochemistry and Molecular Biology</b></p>
         <p><b>University of Georgia</b></p>
     </div>
-    <img src="/assets/Collaborators/Xu_Ying.jpg." alt="XuYing" style="width: 300px;">
+    <img src="/assets/Collaborators/Xu_Ying.png" alt="XuYing" style="width: 300px;">
 </div>
 
 ***
