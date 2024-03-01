@@ -28,11 +28,22 @@ title: "Collaborator"
 
 <div class="team-member" style="display: flex; align-items: center; justify-content: space-between;">
     <div class="description" style="margin-left: 20px;">
+        <h3>Mary Ann Moran</h3>
+        <p><b>Department of Marine Science</b></p>
+        <p><b>University of Georgia</b></p>
+    </div>
+    <img src="/assets/Collaborators/maryann.jpg" alt="maryann" style="width: 300px;">
+</div>
+
+***
+
+<div class="team-member" style="display: flex; align-items: center; justify-content: space-between;">
+    <div class="description" style="margin-left: 20px;">
         <h3>Bob Schmitz</h3>
         <p><b>Department of Genetics</b></p>
         <p><b>University of Georgia</b></p>
     </div>
-    <img src="/assets/Collaborators/Bob.jpg" alt="maryann" style="width: 300px;">
+    <img src="/assets/Collaborators/Bob.png" alt="Bob" style="width: 300px;">
 </div>
 
 ***
