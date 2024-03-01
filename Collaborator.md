@@ -14,6 +14,7 @@ title: "Collaborator"
 </div>
 
 ***
+
 <div class="team-member" style="display: flex; align-items: center; justify-content: space-between;">
     <div class="description" style="margin-left: 20px;">
         <h3>Russell Malmberg</h3>
@@ -22,6 +23,7 @@ title: "Collaborator"
     </div>
     <img src="/assets/Collaborators/russell_malmberg.png" alt="TM_L" style="width: 300px;">
 </div>
+
 ***
 
 <div class="team-member" style="display: flex; align-items: center; justify-content: space-between;">
@@ -32,7 +34,9 @@ title: "Collaborator"
     </div>
     <img src="/assets/Collaborators/Bob.jpg" alt="maryann" style="width: 300px;">
 </div>
+
 ***
+
 <div class="team-member" style="display: flex; align-items: center; justify-content: space-between;">
     <div class="description" style="margin-left: 20px;">
         <h3>Huidong Shi</h3>
@@ -41,6 +45,7 @@ title: "Collaborator"
     </div>
     <img src="/assets/Collaborators/shiHuidong.jpg" alt="shiHuidong" style="width: 300px;">
 </div>
+
 ***
 
 <div class="team-member" style="display: flex; align-items: center; justify-content: space-between;">
@@ -51,6 +56,7 @@ title: "Collaborator"
     </div>
     <img src="/assets/Collaborators/XuYing.jpg." alt="XuYing" style="width: 300px;">
 </div>
+
 ***
 
 <div class="team-member" style="display: flex; align-items: center; justify-content: space-between;">
@@ -61,6 +67,7 @@ title: "Collaborator"
     </div>
     <img src="/assets/Collaborators/junliu.jpeg" alt="junliu" style="width: 300px;">
 </div>
+
 ***
 
 <div class="team-member" style="display: flex; align-items: center; justify-content: space-between;">
