@@ -8,7 +8,7 @@ Postdoctoral positions in computational biology/bioinformatics are available imm
 
 # Contact Information
 
-|            |                                   |
+
 |------------|-----------------------------------|
 | **Name**   | Wenzhuan Zhong                    |
 | **Email**  | wenzhuan@uga.edu                  |
