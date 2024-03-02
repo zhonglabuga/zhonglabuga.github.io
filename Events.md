@@ -3,7 +3,7 @@ layout: page
 title: "Events"
 ---
 
-<div style="float: left; margin-right: 20px;">
+<div style="float: left; margin-right: 10px;">
   <img src="/assets/shiyu_talk.png" alt="shiyu_talk" style="width: 200px;"/>
 </div>
 
@@ -12,7 +12,7 @@ title: "Events"
 
 <div style="clear: both;"></div>
 
-<div style="float: right; margin-right: 20px;">
+<div style="float: right; margin-right: 10px;">
   <img src="/assets/shiyu_talk_2.jpeg" alt="shiyu_talk2" style="width: 400px;"/>
 </div>
 
@@ -21,7 +21,7 @@ The cognitive diagnostic model (CDM) is a type of restricted latent class model 
 
 <div style="clear: both;"></div>
 
-<div style="float: right; margin-right: 20px;">
+<div style="float: right; margin-right: 10px;">
   <img src="/assets/shiyu_talk3.jpeg" alt="shiyu_talk3" style="width: 400px;"/>
 </div>
 
@@ -30,7 +30,7 @@ Dr. Shiyu Wang is an Assistant Professor of the Quantitative Methodology Program
 
 *** 
 
-<div style="float: left; margin-right: 20px;">
+<div style="float: left; margin-right: 10px;">
   <img src="/assets/weihua.png" alt="weihua" style="width: 200px;"/>
 </div>
 
@@ -38,7 +38,7 @@ Dr. Shiyu Wang is an Assistant Professor of the Quantitative Methodology Program
 #### Talk by Dr. Weihua An on “Fitting ERGMs on Big Networks”. <br>
 <div style="clear: both;"></div>
 
-<div style="float: right; margin-right: 20px;">
+<div style="float: right; margin-right: 10px;">
   <img src="/assets/weihua_talk.png" alt="weihua_talk" style="width: 400px;"/>
 </div>
 
