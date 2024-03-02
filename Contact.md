@@ -7,8 +7,7 @@ title: "Contact"
 Postdoctoral positions in computational biology/bioinformatics are available immediately. These positions require excellent programming skills using C and Perl/Python and a firm knowledge of bioinformatics and statistics.
 
 # Contact Information
-
-
+|            |                                   |
 |------------|-----------------------------------|
 | **Name**   | Wenzhuan Zhong                    |
 | **Email**  | wenzhuan@uga.edu                  |
