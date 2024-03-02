@@ -9,11 +9,9 @@ Postdoctoral positions in computational biology/bioinformatics are available imm
 
 # Contact Information
 
-| Name         | Wenzhuan Zhong    |
-|--------------|-------------------|
-| Email        | wenzhuan@uga.edu  |
-| Address      | 539 Brooks Hall   |
-|              | 310, Herty Drive  |
-|              | Athens, GA 30605  |
-| Tel          | (706) 542-0120    |
+| Name    | Wenzhuan Zhong       |
+|---------|----------------------|
+| Email   | wenzhuan@uga.edu     |
+| Address | 539 Brooks Hall<br>310, Herty Drive<br>Athens, GA 30605 |
+| Tel     | (706) 542-0120       |
 
