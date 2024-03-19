@@ -91,7 +91,7 @@ permalink: /people/
 </div>
 
 ## Former and Affiliated Members
-
+*** 
 <div class="team-member" style="display: flex; align-items: center;">
     <img src="/assets/Huimin_Cheng.jpeg" alt="Huimin_Cheng" style="width: 400px;">
     <div class="description" style="margin-left: 20px;">
