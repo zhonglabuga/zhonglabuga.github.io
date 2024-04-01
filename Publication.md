@@ -10,6 +10,12 @@ layout: page
 * Xing, X., Shang, Z., Du, P., Ma, P., <b>Zhong, W.</b>, and Liu, J. (2023) Minimax Nonparametric Multi-sample Test under Smoothing, _Statistica Sinica_.
 * Zhang, M., Chen, Y., Yu, D., <b>Zhong, W.</b>, Zhang, J., and Ma, P. (2023) Elucidating Dynamic Cell Lineages and Gene Networks in Time-Course Single Cell Differentiation, _Artificial Intelligence in the Life Sciences_.
 * Wu, S., Cheng, H., Cai, J., Ma, P., and <b>Zhong, W.</b>. (2023) Subsampling in Large Graphs Using Ricci Curvature, _International Conference on Learning Representations_.
+* He, Y. C., Martinez, L., Ge, Y., Feng, Y., Chen, Y. W.,
+ Tan, J. B., Westbrook, A., Li, C. W.,
+Cheng,  W.,  Ling, F.,  Cheng, H. M.,
+ Wu, S. S., <b>Zhong, W.</b> X.,
+ Handel, A.,  Huang, H.,  Sun, J. M., and Shen, Y. (2023).
+Social mixing and network characteristics of COVID-19 patients before and after widespread interventions: A population-based study.  _Epidemiology and Infection_, 151, e141.
 # 2022
 * Zhang, J., Ma, P., <b>Zhong, W.</b>, & Meng, C. (2022). Projection-based techniques for high-dimensional optimal transport problems, _Wiley Interdisciplinary Reviews: Computational Statistics_, e1587.
 * Yu, J., Cheng, H., Zhang, J., Li, F., <b>Zhong, W.</b>, Ye, J., Song, W., and Ma, P.(2022) CONGO^2: Colored-node graph square model for anomaly detection and localization in smart grids, _IEEE Internet of Things Journal_, in press.
