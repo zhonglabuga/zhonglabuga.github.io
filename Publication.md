@@ -4,6 +4,9 @@ title: "Publication"
 mathjax: true
 layout: page
 ---
+# 2024
+* Liu, Y., Chen, Y., Lu, H., <b>Zhong, W.<b>, Yuan, G., and Ma, P. (2024) Orthogonal Multimodality Integration and Clustering in Single-cell Data, BMC Bioinformatics.
+
 # 2023
 * Han, Y.,  Yu, J., Zhang, N., Meng, C.,  Ma, P., <b>Zhong, W.</b>, and  Zou, C. (2023) Leverage classifier: another look at support vector machine, _Statistica Sinica_. 
 * Wu, S., Fang L., Zhang, J., Sriram, T. N., Coshatt, S. J., Zahiri, F., Mantooth, A., Ye, J., <b>Zhong, W.</b>, Ma, P., Song, W. (2023) Unsupervised Anomaly Detection and Diagnosis in Power Electronic Networks: Informative Leverage and Multivariate Functional Clustering Approaches, _IEEE Transactions on Smart Grid_.
