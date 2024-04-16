@@ -6,7 +6,7 @@ layout: page
 ---
 # 2024
 * Liu, Y., Chen, Y., Lu, H., <b>Zhong, W.</b>, Yuan, G., and Ma, P. (2024) Orthogonal Multimodality Integration and Clustering in Single-cell Data, BMC Bioinformatics.
-* Wang, Z., Cheng, H., <b>Zhong, W.</b>, Ma, P., and Murdie, A. (2024) [Shifting Sands: How Change-Point and Community Detection Can Enrich our Understanding of International Politics, International Interactions](https://www.tandfonline.com/doi/full/10.1080/03050629.2024.2307934), International Interactions.
+* Wang, Z., Cheng, H., <b>Zhong, W.</b>, Ma, P., and Murdie, A. (2024) [Shifting Sands: How Change-Point and Community Detection Can Enrich our Understanding of International Politics](https://www.tandfonline.com/doi/full/10.1080/03050629.2024.2307934), International Interactions.
 
 # 2023
 * Han, Y.,  Yu, J., Zhang, N., Meng, C.,  Ma, P., <b>Zhong, W.</b>, and  Zou, C. (2023) Leverage classifier: another look at support vector machine, _Statistica Sinica_. 
