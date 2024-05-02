@@ -7,10 +7,11 @@ layout: page
 # 2024
 * Liu, Y., Chen, Y., Lu, H., <b>Zhong, W.</b>, Yuan, G., and Ma, P. (2024) [Orthogonal Multimodality Integration and Clustering in Single-cell Data](https://link.springer.com/content/pdf/10.1186/s12859-024-05773-y.pdf), BMC Bioinformatics.
 * Wang, Z., Cheng, H., <b>Zhong, W.</b>, Ma, P., and Murdie, A. (2024) [Shifting Sands: How Change-Point and Community Detection Can Enrich our Understanding of International Politics](https://www.tandfonline.com/doi/full/10.1080/03050629.2024.2307934), International Interactions.
+* Fang, L. & Chen, Y., <b>Zhong, W.</b> & Ma, Ping. (2024) Bayesian Knowledge Distillation: A Bayesian Perspective of Distillation with Uncertainty Quantification, in _ICML_ 2024, accepted.
 
 # 2023
 * Han, Y.,  Yu, J., Zhang, N., Meng, C.,  Ma, P., <b>Zhong, W.</b>, and  Zou, C. (2023) Leverage classifier: another look at support vector machine, _Statistica Sinica_. 
-* Wu, S., Fang L., Zhang, J., Sriram, T. N., Coshatt, S. J., Zahiri, F., Mantooth, A., Ye, J., <b>Zhong, W.</b>, Ma, P., Song, W. (2023) Unsupervised Anomaly Detection and Diagnosis in Power Electronic Networks: Informative Leverage and Multivariate Functional Clustering Approaches, _IEEE Transactions on Smart Grid_.
+* Wu, S., Fang, L., Zhang, J., Sriram, T. N., Coshatt, S. J., Zahiri, F., Mantooth, A., Ye, J., <b>Zhong, W.</b>, Ma, P., Song, W. (2023) Unsupervised Anomaly Detection and Diagnosis in Power Electronic Networks: Informative Leverage and Multivariate Functional Clustering Approaches, _IEEE Transactions on Smart Grid_.
 * Xing, X., Shang, Z., Du, P., Ma, P., <b>Zhong, W.</b>, and Liu, J. (2023) Minimax Nonparametric Multi-sample Test under Smoothing, _Statistica Sinica_.
 * Zhang, M., Chen, Y., Yu, D., <b>Zhong, W.</b>, Zhang, J., and Ma, P. (2023) Elucidating Dynamic Cell Lineages and Gene Networks in Time-Course Single Cell Differentiation, _Artificial Intelligence in the Life Sciences_.
 * Wu, S., Cheng, H., Cai, J., Ma, P., and <b>Zhong, W.</b>. (2023) Subsampling in Large Graphs Using Ricci Curvature, _International Conference on Learning Representations_.
