@@ -20,13 +20,13 @@ layout: page
 Cheng,  W.,  Ling, F.,  Cheng, H. M.,
  Wu, S. S., Zhong, W. X.,
  Handel, A.,  Huang, H.,  Sun, J. M., and Shen, Y. (2023).
-Social mixing and network characteristics of COVID-19 patients before and after widespread interventions: A population-based study.  _Epidemiology and Infection_, 151, e141.
+[Social mixing and network characteristics of COVID-19 patients before and after widespread interventions: A population-based study](https://pubmed.ncbi.nlm.nih.gov/37577939/).  _Epidemiology and Infection_, 151, e141.
 # 2022
-* Zhang, J., Ma, P., Zhong, W., & Meng, C. (2022). Projection-based techniques for high-dimensional optimal transport problems, _Wiley Interdisciplinary Reviews: Computational Statistics_, e1587.
-* Yu, J., Cheng, H., Zhang, J., Li, F., Zhong, W., Ye, J., Song, W., and Ma, P.(2022) CONGO^2: Colored-node graph square model for anomaly detection and localization in smart grids, _IEEE Internet of Things Journal_, in press.
-* Zhang, J., Meng, C., Yu, J., Zhang, M., Zhong, W., and Ma, P. (2022) An optimal transport approach for selecting a representative subsample, _Journal of Computational and Graphical Statistics_, accepted.
+* Zhang, J., Ma, P., Zhong, W., & Meng, C. (2022). [Projection-based techniques for high-dimensional optimal transport problems](https://arxiv.org/pdf/2212.00354), _Wiley Interdisciplinary Reviews: Computational Statistics_, e1587.
+* Yu, J., Cheng, H., Zhang, J., Li, F., Zhong, W., Ye, J., Song, W., and Ma, P.(2022) [CONGO^2: Colored-node graph square model for anomaly detection and localization in smart grids](https://sensorweb.engr.uga.edu/wp-content/uploads/2022/01/yu2022congo.pdf), _IEEE Internet of Things Journal_, in press.
+* Zhang, J., Meng, C., Yu, J., Zhang, M., Zhong, W., and Ma, P. (2022) [An optimal transport approach for selecting a representative subsample](https://www.tandfonline.com/doi/full/10.1080/10618600.2022.2084404), _Journal of Computational and Graphical Statistics_, accepted.
 # 2021
-* Ganzen L., Ko M. J,  Zhang M., Xie R., Chen Y., Zhang L., James R., Mumm J., Van Rijn R., Zhong, W., Pang C., Zhang M., Tsujikawa M., Leung Y. F. (2021) Drug Screening with Zebrafish Visual Behavior Identifies Carvedilol as a Potential Treatment for Retinitis Pigmentosa. _Scientific Reports_;11(1):1-4.
+* Ganzen L., Ko M. J,  Zhang M., Xie R., Chen Y., Zhang L., James R., Mumm J., Van Rijn R., Zhong, W., Pang C., Zhang M., Tsujikawa M., Leung Y. F. (2021) [Drug Screening with Zebrafish Visual Behavior Identifies Carvedilol as a Potential Treatment for Retinitis Pigmentosa](https://pubmed.ncbi.nlm.nih.gov/34075074/#:~:text=Our%20screening%20identified%20a%20beta,like%20human%20Y79%20cell%20line.). _Scientific Reports_;11(1):1-4.
 Meng. C., Yu, J., Chen, Y., Zhong, W., and Ma, P. (2021) Smoothing splines approximation using Hilbert curve basis selection, _Journal of Computational and Graphical Statistics_, arXiv:2109.11727.
 
 * Zhang, X., Datta, G., Ma, P., and Zhong, W.. (2021) Bayesian spline smoothing with ambiguous penalties, _Canadian Journal of Statistics_, 0319-5724.
