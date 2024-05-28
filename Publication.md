@@ -53,43 +53,41 @@ Cheng,  W.,  Ling, F.,  Cheng, H. M.,
 * Xie, R., Wang, Z., Bai, R., Zhong, W. and Ma, P.(2019). [Online decentralized leverage score sampling for streaming multidimensional time series](https://proceedings.mlr.press/v89/xie19a.html). _AISTATS_ 2019.
 
 # 2018
-* Liu, Y., Xing, X., and Zhong, W.(2018). Sufficient dimension reduction for tensor data, Handbook of Big Data Analytics, Springer Handbooks of Computational Statistics, _Springer_.
-* Zhang, J., Jin, H., Ye, W., Sun, X., Zhong, W., and Ma, P., Smoothing Spline ANOVA Models and Their Applications in Complex and Massive Datasets, Handbook of Big Data Analytics. Springer Handbooks of Computational Statistics, _InTechOpen_.
+* Liu, Y., Xing, X., and Zhong, W.(2018). [Sufficient dimension reduction for tensor data, Handbook of Big Data Analytics](https://link.springer.com/chapter/10.1007/978-3-319-18284-1_13), Springer Handbooks of Computational Statistics, _Springer_.
+* Zhang, J., Jin, H., Ye, W., Sun, X., Zhong, W., and Ma, P., [Smoothing Spline ANOVA Models and Their Applications in Complex and Massive Datasets](https://www.intechopen.com/chapters/61455), Handbook of Big Data Analytics. Springer Handbooks of Computational Statistics, _InTechOpen_.
 # 2017
-* Xing, X., Liu J. S., and Zhong, W. (2017). MetaGen: reference-free learning with multiple metagenomic samples. _Genome biology_, 18(1), 187.
-* Zhang, L., Zhang, X., Zhang G., Pang, C., Leung, Y., Zhang, M., and Zhong, W. (2017). Expression profiling of the retina of pde6c, a zebrafish model of retinal degeneration. _Scientific data_, 4, 170182.
-* Ma, P., Zhong, W..(2017) New Statistics for Smelling Out Disease, _Scientia_.
-* Liu, Y., Ma, P., Cassidy, P. A., Carmer, R., Zhang, G., Venkatraman, P., Brown, P. A., Pang, C.P., Zhong, W., Zhang, M., and Leung, Y. F.(2017) Statistical Analysis of Zebrafish Locomotor Behaviour by Generalized Linear Mixed Models. _Scientific Reports_, 7(1), 2937.
+* Xing, X., Liu J. S., and Zhong, W. (2017). [MetaGen: reference-free learning with multiple metagenomic samples](https://www.researchgate.net/publication/320198516_MetaGen_Reference-free_learning_with_multiple_metagenomic_samples). _Genome biology_, 18(1), 187.
+* Zhang, L., Zhang, X., Zhang G., Pang, C., Leung, Y., Zhang, M., and Zhong, W. (2017). [Expression profiling of the retina of pde6c, a zebrafish model of retinal degeneration](https://www.nature.com/articles/sdata2017182). _Scientific data_, 4, 170182.
+* Ma, P., Zhong, W..(2017) [New Statistics for Smelling Out Disease](https://www.scientia.global/wp-content/uploads/2017/09/Wenxuan-Zhong.pdf), _Scientia_.
+* Liu, Y., Ma, P., Cassidy, P. A., Carmer, R., Zhang, G., Venkatraman, P., Brown, P. A., Pang, C.P., Zhong, W., Zhang, M., and Leung, Y. F.(2017) [Statistical Analysis of Zebrafish Locomotor Behaviour by Generalized Linear Mixed Models](https://www.nature.com/articles/s41598-017-02822-w). _Scientific Reports_, 7(1), 2937.
 # 2016
-* Ma, P., Zhang, N., Huang, J. Z., and Zhong, W.(2016) Adaptive Basis Selection for Exponential Family Smoothing Splines with Application in Joint Modeling of Multiple Sequencing Samples. arXiv preprint arXiv:1702.01875.
-* Sun, X., Dalpiaz, D., Wu, D., Liu, J. S., Zhong, W., and Ma, P.(2016)Statistical inference for time course RNA-Seq data using a negative binomial mixed-effect model. _BMC bioinformatics_, 17(1), 324.
+* Ma, P., Zhang, N., Huang, J. Z., and Zhong, W.(2016) [Adaptive Basis Selection for Exponential Family Smoothing Splines with Application in Joint Modeling of Multiple Sequencing Samples](https://www.jstor.org/stable/26384099), _Statistica Sinica_.
+* Sun, X., Dalpiaz, D., Wu, D., Liu, J. S., Zhong, W., and Ma, P.(2016) [Statistical inference for time course RNA-Seq data using a negative binomial mixed-effect model](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-016-1180-9). _BMC bioinformatics_, 17(1), 324.
 # 2014
-* Zhang Y., Askim J., Zhong W., Orlean P., and Suslick K., Identification of pathogenic fungi with an optoelectronic nose. _Analyst_, 139(8), 1922-1928.
+* Zhang Y., Askim J., Zhong W., Orlean P., and Suslick K., [Identification of pathogenic fungi with an optoelectronic nose](https://pubmed.ncbi.nlm.nih.gov/24570999/#:~:text=We%20report%20here%20an%20optoelectronic,grown%20on%20standard%20agar%20medium.). _Analyst_, 139(8), 1922-1928.
 * Zhong, W. and Suslick, K., Penalized classification for matrix predictors with application to colorimetric sensor arrays. _Technometrics_,  doi 10.1080/00401706.2014.965347.
-* Seok SM, Fu T, Choi SE, Li Y, Zhu R, Kumar, S, Sun X, Yoon G, Kang Y, Zhong W, Ma, J, Kemper B, and J. K. Kemper (2014) (Seok and Fu equally contributed to this study), Transcriptional regulation of autophagy by an FXR–CREB axis. _Nature_, 516(7529), 108.
-* Zhang, L., Ma, P., Collery, R., Trowbridge, S., Zhang, M., Zhong, W. and Leung, Y.F., (2014) Expression profiling of the RPE in zebrafish smarca4 mutant revealed altered signals that potentially affect RPE and retinal differentiation. _Molecular Vision_. 20:56-72
+* Seok SM, Fu T, Choi SE, Li Y, Zhu R, Kumar, S, Sun X, Yoon G, Kang Y, Zhong W, Ma, J, Kemper B, and J. K. Kemper (2014) (Seok and Fu equally contributed to this study), [Transcriptional regulation of autophagy by an FXR–CREB axis](https://www.nature.com/articles/nature13949). _Nature_, 516(7529), 108.
+* Zhang, L., Ma, P., Collery, R., Trowbridge, S., Zhang, M., Zhong, W. and Leung, Y.F., (2014) [Expression profiling of the RPE in zebrafish smarca4 mutant revealed altered signals that potentially affect RPE and retinal differentiation](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3888495/). _Molecular Vision_. 20:56-72
 # 2013
-* Zhang L, Ma, P., Collery R, Trowbridge S, Zhang M, Zhong, W., Leung YF (2013)  Expression profiling of the RPE in zebrafish smarca4 mutant revealed altered signals that potentially affect RPE and retinal differentiation.  _Molecular Vision_. 20:56-72.
-* Qian, T., Lu, S., Ma, H., Fang, J., Zhong, W., Wang, Y.  FRET Imaging of Microenvironment Effects on Calcium Signaling in Live Cells. _Integrative Biology_, 2013;5,431-438.
+* Qian, T., Lu, S., Ma, H., Fang, J., Zhong, W., Wang, Y.  [FRET Imaging of Microenvironment Effects on Calcium Signaling in Live Cells](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4165894/). _Integrative Biology_, 2013;5,431-438.
 # 2012
-* Zhang, Y., Yang, Y. , Trujillo, C., Zhong, W. and Leung, Y.F. The expression of irx7 in the inner nuclear layer of zebrafish retina is essential for the proper development of both inner and outer nuclear layers and formation of retinal lamination, _PLoS ONE_, 2012 7(4): e36145.
-* Zhong, W., Zhang, T., Zhu, M. and Liu, J. S. Correlation pursuit: forward stepwise variable selection for index models, _Journal of Royal Statistical Society, Ser B_. 2012:74(5) 849-870.
-* Li Z, Ptak D, Zhang LY, Walls EK, Zhong W, Leung YF. Phenylthiourea specifically reduces zebrafish eye size. _PLoS ONE_. 2012; 7(6):e40132.
+* Zhang, Y., Yang, Y. , Trujillo, C., Zhong, W. and Leung, Y.F. [The expression of irx7 in the inner nuclear layer of zebrafish retina is essential for the proper development of both inner and outer nuclear layers and formation of retinal lamination](https://pubmed.ncbi.nlm.nih.gov/22540019/), _PLoS ONE_, 2012 7(4): e36145.
+* Zhong, W., Zhang, T., Zhu, M. and Liu, J. S. [Correlation pursuit: forward stepwise variable selection for index models](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3519449/), _Journal of Royal Statistical Society, Ser B_. 2012:74(5) 849-870.
+* Li Z, Ptak D, Zhang LY, Walls EK, Zhong W, Leung YF. [Phenylthiourea specifically reduces zebrafish eye size](https://pubmed.ncbi.nlm.nih.gov/22761952/). _PLoS ONE_. 2012; 7(6):e40132.
 # 2010
-* Lindner, D., Song, X., Ma, P., Christensen, D. H. (2010) Inner core rotation and its variability from non-parametric modeling, _Journal of Geophysical Research_, doi:10.1029/2009JB006294.
-* Feng, L., Lim, S. Kemling, J., Musto, C., Jiang, M., Lin, H., Zhong, W., Suslick, K. A colorimetric sensor array for determination and identification of toxic industrial chemicals, _Analytical Chemistry_, 2010:82(22), 9433-9440.
+* Feng, L., Lim, S. Kemling, J., Musto, C., Jiang, M., Lin, H., Zhong, W., Suslick, K. [A colorimetric sensor array for determination and identification of toxic industrial chemicals](https://pubs.acs.org/doi/10.1021/ac1020886), _Analytical Chemistry_, 2010:82(22), 9433-9440.
 # 2009
-* Ma, P., Zhong, W., and Liu, J. S. (2009)  Identifying differentially expressed genes in time course microarray data, _Statistics in Biosciences_, 1(2), 144-159.
+* Ma, P., Zhong, W., and Liu, J. S. (2009) [Identifying differentially expressed genes in time course microarray data](https://pubmed.ncbi.nlm.nih.gov/17589962/), _Statistics in Biosciences_, 1(2), 144-159.
 # 2008
-* Ma, P. and Zhong, W.(2008) Penalized clustering of large scale functional data with multiple covariates, _Journal of the American Statistical Association_, 103 (482),
+* Ma, P. and Zhong, W.(2008) [Penalized clustering of large scale functional data with multiple covariates](https://www.jstor.org/stable/27640085), _Journal of the American Statistical Association_, 103 (482),
 625-636.
-* Ma, P., Zhong, W., Feng, Y., and Liu, J. S. (2008) Bayesian functional data clustering for temporal microarray data, _International Journal of Plant Genomics_, 2008 (2008) Article ID 231897.
-* Lim, S., Musto, C., Park, E., Zhong, W., and Suslick, K. A colorimetric sensor array for detection and identification of sugars, _Organic Letters_, 2008:10(20), 4405–4408.
+* Ma, P., Zhong, W., Feng, Y., and Liu, J. S. (2008) [Bayesian functional data clustering for temporal microarray data](https://pubmed.ncbi.nlm.nih.gov/18464908/), _International Journal of Plant Genomics_, 2008 (2008) Article ID 231897.
+* Lim, S., Musto, C., Park, E., Zhong, W., and Suslick, K. [A colorimetric sensor array for detection and identification of sugars](https://pubmed.ncbi.nlm.nih.gov/18783231/), _Organic Letters_, 2008:10(20), 4405–4408.
 # 2006
-* Yuan, G.C. §, Ma, P.§, Zhong, W., and Liu, J. S. (2006) Statistical assessment of the global regulatory role of histone acetylation in Saccharomyces cerevisiae, _Genome Biology_, 7(8): R70. [Supplementary material] (§ joint first authors)
-* Ma, P.§, Castillo-Davis, C.§, Zhong, W., and Liu, J. S. (2006) A data-driven clustering method for time course gene expression data, _Nucleic Acids Research_, 34(4), 1261-1269. (§ joint first authors)
+* Yuan, G.C. §, Ma, P.§, Zhong, W., and Liu, J. S. (2006) [Statistical assessment of the global regulatory role of histone acetylation in Saccharomyces cerevisiae](https://pubmed.ncbi.nlm.nih.gov/16884527/), _Genome Biology_, 7(8): R70. [Supplementary material] (§ joint first authors)
+* Ma, P.§, Castillo-Davis, C.§, Zhong, W., and Liu, J. S. (2006) [A data-driven clustering method for time course gene expression data](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1388097/), _Nucleic Acids Research_, 34(4), 1261-1269. (§ joint first authors)
 # 2005
-* Zhong, W., Zeng, P., Ma, P., Liu, J. S., and Zhu, Y. (2005) RSIR: regularized sliced inverse regression for motif discovery, _Bioinformatics_, 21(22), 4169-4175.
+* Zhong, W., Zeng, P., Ma, P., Liu, J. S., and Zhu, Y. (2005) [RSIR: regularized sliced inverse regression for motif discovery](https://academic.oup.com/bioinformatics/article/21/22/4169/194894), _Bioinformatics_, 21(22), 4169-4175.
 # 2004
-* Vio, R., Ma, P., Zhong, W., Nagy, J., Tenorio, L., and Wamsteker, W. (2004) Estimation of regularization parameters in multiple-image deblurring, _Astronomy &
+* Vio, R., Ma, P., Zhong, W., Nagy, J., Tenorio, L., and Wamsteker, W. (2004) [Estimation of regularization parameters in multiple-image deblurring](https://www.aanda.org/articles/aa/pdf/2004/33/aa0113-04.pdf), _Astronomy &
 Astrophysics_, 423, 1179–1186.
