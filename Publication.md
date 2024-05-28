@@ -27,30 +27,30 @@ Cheng,  W.,  Ling, F.,  Cheng, H. M.,
 * Zhang, J., Meng, C., Yu, J., Zhang, M., Zhong, W., and Ma, P. (2022) [An optimal transport approach for selecting a representative subsample](https://www.tandfonline.com/doi/full/10.1080/10618600.2022.2084404), _Journal of Computational and Graphical Statistics_, accepted.
 # 2021
 * Ganzen L., Ko M. J,  Zhang M., Xie R., Chen Y., Zhang L., James R., Mumm J., Van Rijn R., Zhong, W., Pang C., Zhang M., Tsujikawa M., Leung Y. F. (2021) [Drug Screening with Zebrafish Visual Behavior Identifies Carvedilol as a Potential Treatment for Retinitis Pigmentosa](https://pubmed.ncbi.nlm.nih.gov/34075074/#:~:text=Our%20screening%20identified%20a%20beta,like%20human%20Y79%20cell%20line.). _Scientific Reports_;11(1):1-4.
-Meng. C., Yu, J., Chen, Y., Zhong, W., and Ma, P. (2021) Smoothing splines approximation using Hilbert curve basis selection, _Journal of Computational and Graphical Statistics_, arXiv:2109.11727.
+* Meng. C., Yu, J., Chen, Y., Zhong, W., and Ma, P. (2021) [Smoothing splines approximation using Hilbert curve basis selection](https://www.tandfonline.com/doi/full/10.1080/10618600.2021.2002161), _Journal of Computational and Graphical Statistics_, arXiv:2109.11727.
 
-* Zhang, X., Datta, G., Ma, P., and Zhong, W.. (2021) Bayesian spline smoothing with ambiguous penalties, _Canadian Journal of Statistics_, 0319-5724.
+* Zhang, X., Datta, G., Ma, P., and Zhong, W.. (2021) [Bayesian spline smoothing with ambiguous penalties](https://onlinelibrary.wiley.com/doi/epdf/10.1002/cjs.11655), _Canadian Journal of Statistics_, 0319-5724.
 
-* Zhong, W., Ke, Y., Wang, Y., Chen, Y., Chen, J., Ma, P. (2021) Best Subset Selection: Statistical Computing Meets Quantum Computing, _arXiv_ 2107.08359.
-* Zhang, J., Zhu, H., Chen, Y., Yang, C., Cheng, H., Li, Y., Zhong, W.,  Wang, F.(2021) Ensemble machine learning approach for screening of coronary heart disease based on echocardiography and risk factors. _BMC Med Inform Decis Mak_ 21, 187.
-* Xing, X., Xie, R., Zhong, W., (2021). Model-based Sparse Coding Beyond Gaussian Independent Model, _Computational Statistics & Data Analysis_
-* Liu, Y., Sun, X., Zhong, W., and Li, B. (2021). B-scaling: a novel nonparametric data fusion method, _Annals of Applied Statistics_.
-* Cheng, H., Yu, J., Wang, Z., Ma, P., Guo, C., Wang, B., Zhong, W., Xu, B.(2021) Details of single-molecule force spectroscopy data decoded by network-based automatic clustering algorithm, _Journal of Physical Chemistry Part B_.
-* Zhong, W., Liu, Y. and Zeng, P., (2021) A model-free variable screening method based on leverage score. _The Journal of the American Statistical Association_.
-* Kaushal, R., Peng, L., Singh, S. K., Zhang, M., Zhang, X., Vílchez, J. I., Wang, Z., He, D., Yang, Y., Lv, S., Xu, Z., Morcillo, R. J., Wang, W., Huang, W., Paré, P.W., Song, C., Zhu, J., Liu, R., Zhong, W., Ma, P., Zhang, H. (2021) Dicer-Like proteins influence Arabidopsis root microbiota independent of RNA-directed DNA methylation, _Microbiome_.
+* Zhong, W., Ke, Y., Wang, Y., Chen, Y., Chen, J., Ma, P. (2021) [Best Subset Selection: Statistical Computing Meets Quantum Computing](https://www.semanticscholar.org/paper/Best-Subset-Selection%3A-Statistical-Computing-Meets-Zhong-Ke/3b0230a2c6a54938b4087c63824c33b57edb2799), _arXiv_ 2107.08359.
+* Zhang, J., Zhu, H., Chen, Y., Yang, C., Cheng, H., Li, Y., Zhong, W.,  Wang, F.(2021) [Ensemble machine learning approach for screening of coronary heart disease based on echocardiography and risk factors](https://bmcmedinformdecismak.biomedcentral.com/articles/10.1186/s12911-021-01535-5). _BMC Med Inform Decis Mak_ 21, 187.
+* Xing, X., Xie, R., Zhong, W., (2021). [Model-based Sparse Coding Beyond Gaussian Independent Model](https://dl.acm.org/doi/abs/10.1016/j.csda.2021.107336), _Computational Statistics & Data Analysis_
+* Liu, Y., Sun, X., Zhong, W., and Li, B. (2021). [B-scaling: a novel nonparametric data fusion method](https://projecteuclid.org/journals/annals-of-applied-statistics/volume-16/issue-3/B-scaling-A-novel-nonparametric-data-fusion-method/10.1214/21-AOAS1537.short), _Annals of Applied Statistics_.
+* Cheng, H., Yu, J., Wang, Z., Ma, P., Guo, C., Wang, B., Zhong, W., Xu, B.(2021) [Details of single-molecule force spectroscopy data decoded by network-based automatic clustering algorithm](https://pubs.acs.org/doi/10.1021/acs.jpcb.1c03552), _Journal of Physical Chemistry Part B_.
+* Zhong, W., Liu, Y. and Zeng, P., (2021) [A model-free variable screening method based on leverage score](https://www.tandfonline.com/doi/full/10.1080/01621459.2021.1918554). _The Journal of the American Statistical Association_.
+* Kaushal, R., Peng, L., Singh, S. K., Zhang, M., Zhang, X., Vílchez, J. I., Wang, Z., He, D., Yang, Y., Lv, S., Xu, Z., Morcillo, R. J., Wang, W., Huang, W., Paré, P.W., Song, C., Zhu, J., Liu, R., Zhong, W., Ma, P., Zhang, H. (2021) [Dicer-Like proteins influence Arabidopsis root microbiota independent of RNA-directed DNA methylation](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-020-00966-y), _Microbiome_.
 
 # 2020
-* Meng, C., Yu, J., Zhang, J., Zhong, W., and Ma, P. (2020) Sufficient dimension reduction for classification using principal optimal transport direction, _NeurIPS_ 2020.
-* Meng. C., Xie, R., Mandal, A., Zhang, X., Zhong, W., and Ma, P. (2020) LowCon: A design-based subsampling approach in a misspecified linear model, _Journal of Computational and Graphical Statistics_.
-* Zhang, J., Zhong, W., and Ma, P. (2020) A Review on Modern Computational Optimal Transport Methods with Applications in Biomedical Research, _Modern Statistical Methods for Health Research_, Springer.
-* Xing, X., Liu, M., Ma, P., and Zhong, W.. (2020) Minimax nonparametric parallelism test, _Journal of Machine Learning Research_, 21:1−47.
-* Sun, X., Zhong, W., and Ma, P. (2020) An asymmetrical smoothing parameters selection approach for smoothing spline ANOVA models in large samples, _Biometrika_, DOI: https://doi.org/10.1093/biomet/asaa047.
+* Meng, C., Yu, J., Zhang, J., Zhong, W., and Ma, P. (2020) [Sufficient dimension reduction for classification using principal optimal transport direction](https://proceedings.neurips.cc/paper/2020/file/29586cb449c90e249f1f09a0a4ee245a-Paper.pdf), _NeurIPS_ 2020.
+* Meng. C., Xie, R., Mandal, A., Zhang, X., Zhong, W., and Ma, P. (2020) [LowCon: A design-based subsampling approach in a misspecified linear model](https://www.tandfonline.com/doi/full/10.1080/10618600.2020.1844215), _Journal of Computational and Graphical Statistics_.
+* Zhang, J., Zhong, W., and Ma, P. (2020) [A Review on Modern Computational Optimal Transport Methods with Applications in Biomedical Research](https://link.springer.com/chapter/10.1007/978-3-030-72437-5_13), _Modern Statistical Methods for Health Research_, Springer.
+* Xing, X., Liu, M., Ma, P., and Zhong, W.. (2020) [Minimax nonparametric parallelism test](https://www.jmlr.org/papers/v21/19-800.html), _Journal of Machine Learning Research_, 21:1−47.
+* Sun, X., Zhong, W., and Ma, P. (2020) [An asymmetrical smoothing parameters selection approach for smoothing spline ANOVA models in large samples](https://pubmed.ncbi.nlm.nih.gov/34294943/), _Biometrika_, DOI: https://doi.org/10.1093/biomet/asaa047.
 
 # 2019
-* Meng, C., Zhang, X., Zhang, J., Zhong, W., Ma, P., (2019). More efficient approximation of smoothing splines via space-filling basis selection. _Biomatrica_.
-* Meng, C.,  Ke, Y., Zhang, J., Zhang, M., Zhong, W., Ma, P., (2019). Large-scale optimal transport map estimation using projection pursuit. _NeurIPS_ 2019.
-* Xie, R., Zhang, M., Venkatraman, P., Zhang, X., Zhang, G., Carmer, R., Kantola, S.A., Pang, C.P., Ma, P., Zhang, Mingzhi, Zhong, W., Leung, Y.F., 2019. Normalization of large-scale behavioral data collected from zebrafish. _PLOS ONE_ 14, e0212234. https://doi.org/10.1371/journal.pone.0212234
-* Xie, R., Wang, Z., Bai, R., Zhong, W. and Ma, P.(2019). Online decentralized leverage score sampling for streaming multidimensional time series. _AISTATS_ 2019.
+* Meng, C., Zhang, X., Zhang, J., Zhong, W., Ma, P., (2019). [More efficient approximation of smoothing splines via space-filling basis selection](https://academic.oup.com/biomet/article-abstract/107/3/723/5831923?redirectedFrom=fulltext). _Biomatrica_.
+* Meng, C.,  Ke, Y., Zhang, J., Zhang, M., Zhong, W., Ma, P., (2019). [Large-scale optimal transport map estimation using projection pursuit](https://chengzijunaixiaoli.github.io/files/Large_scale_optimal_transport_map_approximation_using_projection_pursuit.pdf). _NeurIPS_ 2019.
+* Xie, R., Zhang, M., Venkatraman, P., Zhang, X., Zhang, G., Carmer, R., Kantola, S.A., Pang, C.P., Ma, P., Zhang, Mingzhi, Zhong, W., Leung, Y.F., 2019. [Normalization of large-scale behavioral data collected from zebrafish](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0212234). _PLOS ONE_ 14, e0212234. https://doi.org/10.1371/journal.pone.0212234
+* Xie, R., Wang, Z., Bai, R., Zhong, W. and Ma, P.(2019). [Online decentralized leverage score sampling for streaming multidimensional time series](https://proceedings.mlr.press/v89/xie19a.html). _AISTATS_ 2019.
 
 # 2018
 * Liu, Y., Xing, X., and Zhong, W.(2018). Sufficient dimension reduction for tensor data, Handbook of Big Data Analytics, Springer Handbooks of Computational Statistics, _Springer_.
