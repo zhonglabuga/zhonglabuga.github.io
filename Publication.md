@@ -13,8 +13,8 @@ layout: page
 * Han, Y.,  Yu, J., Zhang, N., Meng, C.,  Ma, P., Zhong, W., and  Zou, C. (2023) [Leverage classifier: another look at support vector machine](https://www.researchgate.net/publication/373363893_Leverage_classifier_Another_look_at_support_vector_machine), _Statistica Sinica_. 
 * Wu, S., Fang, L., Zhang, J., Sriram, T. N., Coshatt, S. J., Zahiri, F., Mantooth, A., Ye, J., Zhong, W., Ma, P., Song, W. (2023) [Unsupervised Anomaly Detection and Diagnosis in Power Electronic Networks: Informative Leverage and Multivariate Functional Clustering Approaches](https://ieeexplore.ieee.org/document/10292588), _IEEE Transactions on Smart Grid_.
 * Xing, X., Shang, Z., Du, P., Ma, P., Zhong, W., and Liu, J. (2023) [Minimax Nonparametric Multi-sample Test under Smoothing](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11086968/), _Statistica Sinica_.
-* Zhang, M., Chen, Y., Yu, D., Zhong, W., Zhang, J., and Ma, P. (2023) Elucidating Dynamic Cell Lineages and Gene Networks in Time-Course Single Cell Differentiation, _Artificial Intelligence in the Life Sciences_.
-* Wu, S., Cheng, H., Cai, J., Ma, P., and Zhong, W.. (2023) Subsampling in Large Graphs Using Ricci Curvature, _International Conference on Learning Representations_.
+* Zhang, M., Chen, Y., Yu, D., Zhong, W., Zhang, J., and Ma, P. (2023) [Elucidating Dynamic Cell Lineages and Gene Networks in Time-Course Single Cell Differentiation](https://pubmed.ncbi.nlm.nih.gov/37426065/), _Artificial Intelligence in the Life Sciences_.
+* Wu, S., Cheng, H., Cai, J., Ma, P., and Zhong, W.. (2023) [Subsampling in Large Graphs Using Ricci Curvature](https://openreview.net/forum?id=w9WUQkBvpI), _International Conference on Learning Representations_.
 * He, Y. C., Martinez, L., Ge, Y., Feng, Y., Chen, Y. W.,
  Tan, J. B., Westbrook, A., Li, C. W.,
 Cheng,  W.,  Ling, F.,  Cheng, H. M.,
