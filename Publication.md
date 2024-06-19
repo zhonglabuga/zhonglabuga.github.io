@@ -7,7 +7,7 @@ layout: page
 # 2024
 * Liu, Y., Chen, Y., Lu, H., Zhong, W., Yuan, G., and Ma, P. (2024) [Orthogonal Multimodality Integration and Clustering in Single-cell Data](https://link.springer.com/content/pdf/10.1186/s12859-024-05773-y.pdf), BMC Bioinformatics.
 * Wang, Z., Cheng, H., Zhong, W., Ma, P., and Murdie, A. (2024) [Shifting Sands: How Change-Point and Community Detection Can Enrich our Understanding of International Politics](https://www.tandfonline.com/doi/full/10.1080/03050629.2024.2307934), International Interactions.
-* Fang, L. & Chen, Y., Zhong, W. & Ma, P. (2024) [Bayesian Knowledge Distillation: A Bayesian Perspective of Distillation with Uncertainty Quantification](https://icml.cc/virtual/2024/poster/33237), in _ICML_ 2024, accepted.
+* Fang, L. & Chen, Y., Zhong, W. & Ma, P. (2024) [Bayesian Knowledge Distillation: A Bayesian Perspective of Distillation with Uncertainty Quantification](https://openreview.net/pdf?id=knZ4NYzGUd), in _ICML_ 2024, accepted.
 
 # 2023
 * Han, Y.,  Yu, J., Zhang, N., Meng, C.,  Ma, P., Zhong, W., and  Zou, C. (2023) [Leverage classifier: another look at support vector machine](https://www.researchgate.net/publication/373363893_Leverage_classifier_Another_look_at_support_vector_machine), _Statistica Sinica_. 
