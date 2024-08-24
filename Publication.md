@@ -9,7 +9,7 @@ layout: page
 * Wang, Z., Cheng, H., Zhong, W., Ma, P., and Murdie, A. (2024) [Shifting Sands: How Change-Point and Community Detection Can Enrich our Understanding of International Politics](https://www.tandfonline.com/doi/full/10.1080/03050629.2024.2307934), International Interactions.
 * Fang, L. & Chen, Y., Zhong, W. & Ma, P. (2024) [Bayesian Knowledge Distillation: A Bayesian Perspective of Distillation with Uncertainty Quantification](https://openreview.net/pdf?id=knZ4NYzGUd), in _ICML_ 2024, accepted.
  
-* Wang, Zhen & Fang, L., Cai, J., Ma, P., Zhong, W. MultiCOP: An Association Analysis of Microbiome-Metabolome Relationships, _Statistics in biosciences_, accepted.
+* Wang, Zhen & Fang, L., Cai, J., Ma, P., Zhong, W. [MultiCOP: An Association Analysis of Microbiome-Metabolome Relationships](https://outlookuga-my.sharepoint.com/:b:/g/personal/lf01513_uga_edu/EftpWbaoRUJMjPGTnsfN8LYBelHOKtOHu1lkcSbBHphIHA?e=QPy70R), _Statistics in biosciences_, accepted.
 
 # 2023
 * Han, Y.,  Yu, J., Zhang, N., Meng, C.,  Ma, P., Zhong, W., and  Zou, C. (2023) [Leverage classifier: another look at support vector machine](https://www.researchgate.net/publication/373363893_Leverage_classifier_Another_look_at_support_vector_machine), _Statistica Sinica_. 
