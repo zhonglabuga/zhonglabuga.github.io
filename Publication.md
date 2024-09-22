@@ -5,6 +5,8 @@ mathjax: true
 layout: page
 ---
 # 2024
+* Wu, S., Yang, B., Yang, H., Gong, X., Coshatt, J. S., Nattanmai P., Ramviyas, C., J., Zhong, W., Ye, J., Ma, P., and Song, W.. (2024). Online Adaptively Anomaly Detection in Networked Electrical Machines by Enveloped Singular Spectrum Transformation, _IEEE Internet of Things Journal_, accepted.
+ 
 * Liu, Y., Chen, Y., Lu, H., Zhong, W., Yuan, G., and Ma, P. (2024) [Orthogonal Multimodality Integration and Clustering in Single-cell Data](https://link.springer.com/content/pdf/10.1186/s12859-024-05773-y.pdf), BMC Bioinformatics.
 * Wang, Z., Cheng, H., Zhong, W., Ma, P., and Murdie, A. (2024) [Shifting Sands: How Change-Point and Community Detection Can Enrich our Understanding of International Politics](https://www.tandfonline.com/doi/full/10.1080/03050629.2024.2307934), International Interactions.
 * Fang, L. & Chen, Y., Zhong, W. & Ma, P. (2024) [Bayesian Knowledge Distillation: A Bayesian Perspective of Distillation with Uncertainty Quantification](https://openreview.net/pdf?id=knZ4NYzGUd), in _ICML_ 2024, accepted.
