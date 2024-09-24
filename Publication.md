@@ -12,7 +12,8 @@ layout: page
 * Fang, L. & Chen, Y., Zhong, W. & Ma, P. (2024) [Bayesian Knowledge Distillation: A Bayesian Perspective of Distillation with Uncertainty Quantification](https://openreview.net/pdf?id=knZ4NYzGUd), in _ICML_ 2024, accepted.
  
 * Wang, Zhen & Fang, L., Cai, J., Ma, P., Zhong, W. [MultiCOP: An Association Analysis of Microbiome-Metabolome Relationships](https://link.springer.com/article/10.1007/s12561-024-09450-9), _Statistics in biosciences_, accepted.
-* Ma, P. & Chen, Y., Lu, H., Zhong, W. Bisection Grover’s Search Algorithm and Its Application in Analyzing CITE-seq Data, _Journal of the American Statistical Association_, accepted.
+  
+* Ma, P. & Chen, Y., Lu, H., Zhong, W. [Bisection Grover’s Search Algorithm and Its Application in Analyzing CITE-seq Data](https://www.tandfonline.com/doi/abs/10.1080/01621459.2024.2404259), _Journal of the American Statistical Association_, accepted.
 
 # 2023
 * Han, Y.,  Yu, J., Zhang, N., Meng, C.,  Ma, P., Zhong, W., and  Zou, C. (2023) [Leverage classifier: another look at support vector machine](https://www.researchgate.net/publication/373363893_Leverage_classifier_Another_look_at_support_vector_machine), _Statistica Sinica_. 
