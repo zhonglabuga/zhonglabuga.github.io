@@ -5,7 +5,7 @@ mathjax: true
 layout: page
 ---
 # 2024
-* Cai, J., Cheng, H., Wu, S., Zhong, W., Yuan, G., Ma, P. WEST: An Ensemble Method for Spatial Transcriptomics Analysis. _Cell Reports Methods_, accepted.
+* Cai, J., Cheng, H., Wu, S., Zhong, W., Yuan, G., Ma, P. [WEST: An Ensemble Method for Spatial Transcriptomics Analysis](https://www.cell.com/cell-reports-methods/fulltext/S2667-2375(24)00269-8). _Cell Reports Methods_, accepted.
 * Wu, S., Yang, B., Yang, H., Gong, X., Coshatt, J. S., Nattanmai P., Ramviyas, C., J., Zhong, W., Ye, J., Ma, P., and Song, W.. (2024). Online Adaptively Anomaly Detection in Networked Electrical Machines by Enveloped Singular Spectrum Transformation, _IEEE Internet of Things Journal_, accepted.
  
 * Liu, Y., Chen, Y., Lu, H., Zhong, W., Yuan, G., and Ma, P. (2024) [Orthogonal Multimodality Integration and Clustering in Single-cell Data](https://link.springer.com/content/pdf/10.1186/s12859-024-05773-y.pdf), BMC Bioinformatics.
