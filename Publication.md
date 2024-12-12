@@ -5,7 +5,9 @@ mathjax: true
 layout: page
 ---
 # 2024
+* Xing, X., Zeng, P.,Ye H. & Zhong, W.. [Parsimonious Tensor Dimension Reduction](https://www.tandfonline.com/doi/full/10.1080/10618600.2024.2362220), _Journal of Computational and Graphical Statistics_.
 * Wang, T.,Yang, Y., Lu, H., Cui, J., Chen, X., Ma, P., Zhong, W., Zhao, Y.. Functional Regression for SERS Spectrum Transformation Across Diverse Instruments, _Analyst_, accepected.
+
 * Cai, J., Cheng, H., Wu, S., Zhong, W., Yuan, G., Ma, P. [WEST: An Ensemble Method for Spatial Transcriptomics Analysis](https://www.cell.com/cell-reports-methods/fulltext/S2667-2375(24)00269-8). _Cell Reports Methods_.
   
 * Wu, S., Yang, B., Yang, H., Gong, X., Coshatt, J. S., Nattanmai P., Ramviyas, C., J., Zhong, W., Ye, J., Ma, P., and Song, W.. (2024). Online Adaptively Anomaly Detection in Networked Electrical Machines by Enveloped Singular Spectrum Transformation, _IEEE Internet of Things Journal_.
