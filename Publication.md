@@ -4,6 +4,10 @@ title: "Publication"
 mathjax: true
 layout: page
 ---
+# 2025
+* Lu, H., Cheng, H., Wang Y., Xie, Y., Yan, H., Wang, X., Ma, P., Zhong, W.. (2025). Mortgage Prepayment Modeling via a Smoothing Spline State
+Space Model. _Journal of Data Science_, accepted.
+
 # 2024
 * Xing, X., Zeng, P.,Ye H. & Zhong, W.. [Parsimonious Tensor Dimension Reduction](https://www.tandfonline.com/doi/full/10.1080/10618600.2024.2362220), _Journal of Computational and Graphical Statistics_.
 * Wang, T.,Yang, Y., Lu, H., Cui, J., Chen, X., Ma, P., Zhong, W., Zhao, Y.. Functional Regression for SERS Spectrum Transformation Across Diverse Instruments, _Analyst_, accepected.
