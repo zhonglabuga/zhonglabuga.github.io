@@ -7,6 +7,7 @@ layout: page
 # 2025
 * Lu, H., Cheng, H., Wang Y., Xie, Y., Yan, H., Wang, X., Ma, P., Zhong, W.. (2025). Mortgage Prepayment Modeling via a Smoothing Spline State
 Space Model. _Journal of Data Science_, accepted.
+* Ruan, W., Lyu, Y., Zhang, J., Cai, J., Shu, P., Ge, Y., Lu, Y., Gao, S., Wang, Y., Wang, P., Zhao, L., Wang, T., Liu, Y., Fang, L., Liu, Z., Li, Y., Wu, Z., Chen, J., Jiang, H., Pan, Y., Yang, Z., Chen, J., Liang, S., Zhang, W., Ma, T., Dou, Y., Zhang, J., Gong, X., Gan, Q., Zou, Y., Chen, Z., Qian, Y., Yu, S., Lu, J., Song, K., Wang, X., Sikora, A., Li, G., Li, X., Li, Q., Wang, Y., Lu, Z., Abate, Y., He, L., Zhong, W., Liu, R., Huang, C., Liu, W., Shen, Y., Ma, P., Zhu, H., Yan, Y., Zhu, D., Liu, T.. [Large Language Models for Bioinformatics](https://arxiv.org/abs/2501.06271), arXive.
 
 # 2024
 * Xing, X., Zeng, P.,Ye H. & Zhong, W.. [Parsimonious Tensor Dimension Reduction](https://www.tandfonline.com/doi/full/10.1080/10618600.2024.2362220), _Journal of Computational and Graphical Statistics_.
