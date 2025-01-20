@@ -7,8 +7,7 @@ layout: page
 # 2025
 * Fang, L., Meng, C., Zhao, L., Wang, T., Liu, T., Zhong, W., Ma, P.. SPOT: An Active Learning Framework for Deep Neural Networks, _Big Data Mining and Analytics_, accepted.
 * Chen, Y., Wu, S., Zhong, W., Ma, P.. [Fluid Correlation: A Novel Way to Assess the Dynamic Association.](https://www.tandfonline.com/doi/full/10.1080/10618600.2024.2444373?scroll=top&needAccess=true), _Journal of Computational and Graphical Statistics_.
-* Lu, H., Cheng, H., Wang Y., Xie, Y., Yan, H., Wang, X., Ma, P., Zhong, W.. (2025). Mortgage Prepayment Modeling via a Smoothing Spline State. _Journal of Data Science_
-Space Model. _Journal of Data Science_, accepted.
+* Lu, H., Cheng, H., Wang Y., Xie, Y., Yan, H., Wang, X., Ma, P., Zhong, W.. (2025). Mortgage Prepayment Modeling via a Smoothing Spline State Space Model. _Journal of Data Science_, accepted.
 * Ruan, W., Lyu, Y., Zhang, J., Cai, J., Shu, P., Ge, Y., Lu, Y., Gao, S., Wang, Y., Wang, P., Zhao, L., Wang, T., Liu, Y., Fang, L., Liu, Z., Li, Y., Wu, Z., Chen, J., Jiang, H., Pan, Y., Yang, Z., Chen, J., Liang, S., Zhang, W., Ma, T., Dou, Y., Zhang, J., Gong, X., Gan, Q., Zou, Y., Chen, Z., Qian, Y., Yu, S., Lu, J., Song, K., Wang, X., Sikora, A., Li, G., Li, X., Li, Q., Wang, Y., Lu, Z., Abate, Y., He, L., Zhong, W., Liu, R., Huang, C., Liu, W., Shen, Y., Ma, P., Zhu, H., Yan, Y., Zhu, D., Liu, T.. [Large Language Models for Bioinformatics](https://arxiv.org/abs/2501.06271), arXiv.
 
 # 2024
