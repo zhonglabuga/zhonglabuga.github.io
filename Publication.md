@@ -5,6 +5,7 @@ mathjax: true
 layout: page
 ---
 # 2025
+* Fang, L., Meng, C., Zhao, L., Wang, T., Liu, T., Zhong, W., Ma, P.. SPOT: An Active Learning Framework for Deep Neural Networks, _Big Data Mining and Analytics_.
 * Chen, Y., Wu, S., Zhong, W., Ma, P.. [Fluid Correlation: A Novel Way to Assess the Dynamic Association.](https://www.tandfonline.com/doi/full/10.1080/10618600.2024.2444373?scroll=top&needAccess=true), _Journal of Computational and Graphical Statistics_.
 * Lu, H., Cheng, H., Wang Y., Xie, Y., Yan, H., Wang, X., Ma, P., Zhong, W.. (2025). Mortgage Prepayment Modeling via a Smoothing Spline State
 Space Model. _Journal of Data Science_, accepted.
