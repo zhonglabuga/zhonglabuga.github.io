@@ -17,7 +17,7 @@ layout: page
 
 * Cai, J., Cheng, H., Wu, S., Zhong, W., Yuan, G., Ma, P. [WEST: An Ensemble Method for Spatial Transcriptomics Analysis](https://www.cell.com/cell-reports-methods/fulltext/S2667-2375(24)00269-8). _Cell Reports Methods_.
   
-* Wu, S., Yang, B., Yang, H., Gong, X., Coshatt, J. S., Nattanmai P., Ramviyas, C., J., Zhong, W., Ye, J., Ma, P., and Song, W.. (2024). Online Adaptively Anomaly Detection in Networked Electrical Machines by Enveloped Singular Spectrum Transformation, _IEEE Internet of Things Journal_.
+* Wu, S., Yang, B., Yang, H., Gong, X., Coshatt, J. S., Nattanmai P., Ramviyas, C., J., Zhong, W., Ye, J., Ma, P., and Song, W.. (2024). [Online Adaptively Anomaly Detection in Networked Electrical Machines by Enveloped Singular Spectrum Transformation](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10769069), _IEEE Internet of Things Journal_.
  
 * Liu, Y., Chen, Y., Lu, H., Zhong, W., Yuan, G., and Ma, P. (2024) [Orthogonal Multimodality Integration and Clustering in Single-cell Data](https://link.springer.com/content/pdf/10.1186/s12859-024-05773-y.pdf), BMC Bioinformatics.
 * Wang, Z., Cheng, H., Zhong, W., Ma, P., and Murdie, A. (2024) [Shifting Sands: How Change-Point and Community Detection Can Enrich our Understanding of International Politics](https://www.tandfonline.com/doi/full/10.1080/03050629.2024.2307934), International Interactions.
