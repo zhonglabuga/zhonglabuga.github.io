@@ -5,6 +5,7 @@ mathjax: true
 layout: page
 ---
 # 2025
+* Cai, J., Wu, S., Cheng, H., Zhong, W., Yuan, G., Ma, P., [Protocol to boost the robustness and accuracy of spatial transcriptomics algorithms using ensemble technique](https://www.sciencedirect.com/science/article/pii/S2666166725000140?via%3Dihub), _STAR Protocols_.
 * Fang, L., Meng, C., Zhao, L., Wang, T., Liu, T., Zhong, W., Ma, P.. SPOT: An Active Learning Framework for Deep Neural Networks, _Big Data Mining and Analytics_, accepted.
 * Chen, Y., Wu, S., Zhong, W., Ma, P.. [Fluid Correlation: A Novel Way to Assess the Dynamic Association](https://www.tandfonline.com/doi/full/10.1080/10618600.2024.2444373?scroll=top&needAccess=true), _Journal of Computational and Graphical Statistics_.
 * Lu, H., Cheng, H., Wang Y., Xie, Y., Yan, H., Wang, X., Ma, P., Zhong, W.. (2025). [Mortgage Prepayment Modeling via a Smoothing Spline State Space Model](https://jds-online.org/journal/JDS/article/1406/info). _Journal of Data Science_, 1-14, DOI 10.6339/25-JDS1165 (Special issue in honor of Professor Xizhi Wu).
