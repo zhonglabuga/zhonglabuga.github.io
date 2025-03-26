@@ -54,7 +54,7 @@ Cheng,  W.,  Ling, F.,  Cheng, H. M.,
 * Xing, X., Xie, R., Zhong, W., (2021). [Model-based Sparse Coding Beyond Gaussian Independent Model](https://dl.acm.org/doi/abs/10.1016/j.csda.2021.107336), _Computational Statistics & Data Analysis_
 * Liu, Y., Sun, X., Zhong, W., and Li, B. (2021). [B-scaling: a novel nonparametric data fusion method](https://projecteuclid.org/journals/annals-of-applied-statistics/volume-16/issue-3/B-scaling-A-novel-nonparametric-data-fusion-method/10.1214/21-AOAS1537.short), _Annals of Applied Statistics_.
 * Cheng, H., Yu, J., Wang, Z., Ma, P., Guo, C., Wang, B., Zhong, W., Xu, B.(2021) [Details of single-molecule force spectroscopy data decoded by network-based automatic clustering algorithm](https://pubs.acs.org/doi/10.1021/acs.jpcb.1c03552), _Journal of Physical Chemistry Part B_.
-* Zhong, W., Liu, Y. and Zeng, P., (2021) [A model-free variable screening method based on leverage score](https://www.tandfonline.com/doi/full/10.1080/01621459.2021.1918554). _The Journal of the American Statistical Association_.
+* Zhong, W., Liu, Y. and Zeng, P., (2021) [A model-free variable screening method based on leverage score](https://www.tandfonline.com/doi/full/10.1080/01621459.2021.1918554). _The Journal of the American Statistical Association_, 1-12. doi:10.1080/01621459.2021.1918554.
 * Kaushal, R., Peng, L., Singh, S. K., Zhang, M., Zhang, X., Vílchez, J. I., Wang, Z., He, D., Yang, Y., Lv, S., Xu, Z., Morcillo, R. J., Wang, W., Huang, W., Paré, P.W., Song, C., Zhu, J., Liu, R., Zhong, W., Ma, P., Zhang, H. (2021) [Dicer-Like proteins influence Arabidopsis root microbiota independent of RNA-directed DNA methylation](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-020-00966-y), _Microbiome_.
 
 # 2020
