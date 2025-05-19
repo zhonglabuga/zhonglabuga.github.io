@@ -5,6 +5,7 @@ mathjax: true
 layout: page
 ---
 # 2025
+* Liu, Y., Yang, Y., Lu, H., Cui, J., Chen, X., Ma, P.*, Zhong, W.*, Zhao, Y., [Extracting True Virus SERS Spectra from Concentration-Dependent Measurements and Data Augmentation for Virus Classification and Quantification](https://pubs.acs.org/doi/10.1021/acssensors.4c03397), _ACS Sensors_, in press.
 * Fang, L., Yu, X., Cai, J., Chen, Y., Wu, S., Liu, Z., Yang, Z., Lu, H., Gong, X., Liu, Y., Ma, T., Ruan, W., Abbasi, A., Zhang, J., Wang, T., Latif, E., Liu, W., Zhang, W., Kolouri, S., Zhai, X., Zhu, D., Zhong, W., Liu, T., Ma, P., [Knowledge Distillation and Dataset Distillation of Large Language Models: Emerging Trends, Challenges, and Future Directions](https://arxiv.org/abs/2504.14772), _arXiv_.
 * Cai, J., Wu, S., Cheng, H., Zhong, W., Yuan, G., Ma, P., [Protocol to boost the robustness and accuracy of spatial transcriptomics algorithms using ensemble technique](https://www.sciencedirect.com/science/article/pii/S2666166725000140?via%3Dihub), _STAR Protocols_.
 * Fang, L., Meng, C., Zhao, L., Wang, T., Liu, T., Zhong, W., Ma, P.. SPOT: An Active Learning Framework for Deep Neural Networks, _Big Data Mining and Analytics_, accepted.
