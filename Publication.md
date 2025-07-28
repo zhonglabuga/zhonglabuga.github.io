@@ -5,6 +5,8 @@ mathjax: true
 layout: page
 ---
 # 2025
+* Fang, L., Meng, C., Zhao, L., Wang, T., Liu, T., Zhong, W., Ma, P. (2025). [SPOT: An Active Learning Algorithm for Efficient Deep Neural Network Training](https://doi.org/10.26599/BDMA.2025.9020011). _Big Data Mining and Analytics_, 8(5), 1060–1074.
+
 * Wu, S.,  Feng, Y., Cheng, H.,  Huang, H.,  Li, Y.,  Ling, F.,   Ma, P.,  Zhong, W., and Shen, Y. (2025) Personalized Risk Score Prediction and Testing Policy Adaptations of a COVID-19 Population-based Contact Tracing Network, _Epidemiology and Infection_, accepted.
 * Liu, Y., Yang, Y., Lu, H., Cui, J., Chen, X., Ma, P.*, Zhong, W.*, Zhao, Y., [Extracting True Virus SERS Spectra from Concentration-Dependent Measurements and Data Augmentation for Virus Classification and Quantification](https://pubs.acs.org/doi/10.1021/acssensors.4c03397), _ACS Sensors_, in press.
 * Fang, L., Yu, X., Cai, J., Chen, Y., Wu, S., Liu, Z., Yang, Z., Lu, H., Gong, X., Liu, Y., Ma, T., Ruan, W., Abbasi, A., Zhang, J., Wang, T., Latif, E., Liu, W., Zhang, W., Kolouri, S., Zhai, X., Zhu, D., Zhong, W., Liu, T., Ma, P., [Knowledge Distillation and Dataset Distillation of Large Language Models: Emerging Trends, Challenges, and Future Directions](https://arxiv.org/abs/2504.14772), _arXiv_.
