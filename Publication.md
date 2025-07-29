@@ -5,6 +5,7 @@ mathjax: true
 layout: page
 ---
 # 2025
+* Lu, H., Fang, L., Zhang, R., Li, X., Cai, J., Cheng, H., Tang, L., Liu, Z., Sun, Z., Wang, T., Zhang, Y., Zidan, A. H., Xu, J., Yu, J., Yu, M., Jiang, H., Gong, X., Luo, W., Sun, B., Chen, Y., Ma, T., Wu, S., Zhou, Y., Chen, J., Xiang, H., Zhang, J., Jahin, A., Ruan, W., Deng, K., Pan, Y., Wang, P., Li, J., Liu, Z., Zhang, L., Zhao, L., Liu, W., Zhu, D., Xing, X., Dou, F., Zhang, W., Huang, C., Liu, R., Zhang, M., Liu, Y., Sun, X., Lu, Q., Xiang, Z., Zhong, W., Liu, T., & Ma, P. (2025). Alignment and Safety in Large Language Models: Safety Mechanisms, Training Paradigms, and Emerging Challenges. arXiv, arXiv:2507.19672 [cs.AI]
 * Fang, L., Meng, C., Zhao, L., Wang, T., Liu, T., Zhong, W., Ma, P. (2025). [SPOT: An Active Learning Algorithm for Efficient Deep Neural Network Training](https://doi.org/10.26599/BDMA.2025.9020011). _Big Data Mining and Analytics_, 8(5), 1060–1074.
 
 * Wu, S.,  Feng, Y., Cheng, H.,  Huang, H.,  Li, Y.,  Ling, F.,   Ma, P.,  Zhong, W., and Shen, Y. (2025) Personalized Risk Score Prediction and Testing Policy Adaptations of a COVID-19 Population-based Contact Tracing Network, _Epidemiology and Infection_, accepted.
