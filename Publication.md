@@ -5,6 +5,10 @@ mathjax: true
 layout: page
 ---
 # 2025
+
+* Lu, H., Fang, L., Zeng, O., Ma, P., Zhong, W., Yuan, G.-C.. [Optimal Gene Panel Selection for Targeted Spatial Transcriptomics Experiments](https://www.biorxiv.org/content/10.1101/2025.10.08.681071v1), _bioRxiv_, preprint.
+
+* Cai, J., Chen, Y., Fang, L., Zhong, W., Yuan, G.-C., Ma, P.. [SpaDiff: Denoising for Sequence-based Spatial Transcriptomics via Diffusion Process](https://www.biorxiv.org/content/10.1101/2025.10.07.681011v1), _bioRxiv_, preprint.
 * Wu, S., Feng, Y., Cheng, H., Huang, H., Li, Y., Ling, F., Ma, P., Zhong, W., Shen, Y. (2025). [Personalized risk score prediction and testing policy adaptations of a COVID-19 population-based contact tracing network](https://doi.org/10.1017/S0950268825100319). _Epidemiology & Infection_, 153, e90.
   
 * Lu, H., Fang, L., Zhang, R., Li, X., Cai, J., Cheng, H., Tang, L., Liu, Z., Sun, Z., Wang, T., Zhang, Y., Zidan, A. H., Xu, J., Yu, J., Yu, M., Jiang, H., Gong, X., Luo, W., Sun, B., Chen, Y., Ma, T., Wu, S., Zhou, Y., Chen, J., Xiang, H., Zhang, J., Jahin, A., Ruan, W., Deng, K., Pan, Y., Wang, P., Li, J., Liu, Z., Zhang, L., Zhao, L., Liu, W., Zhu, D., Xing, X., Dou, F., Zhang, W., Huang, C., Liu, R., Zhang, M., Liu, Y., Sun, X., Lu, Q., Xiang, Z., Zhong, W., Liu, T., & Ma, P. (2025). [Alignment and Safety in Large Language Models: Safety Mechanisms, Training Paradigms, and Emerging Challenges](https://arxiv.org/abs/2507.19672), arXiv:2507.19672.
