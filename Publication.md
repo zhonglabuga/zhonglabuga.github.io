@@ -6,6 +6,8 @@ layout: page
 ---
 # 2025
 
+* Cheng, H., Yu, X., Wu, S., Fang, L., Cao, C., Zhang, J., Liu, T., Zhu, D., Zhong, W., Ma, P. (2025). DCMM-Transformer: Degree-Corrected Mixed-Membership Attention for Medical Imaging. _The 40th Annual AAAI Conference on Artificial Intelligence (AAAI)_, accepted.
+
 * Lu, H., Fang, L., Zeng, O., Ma, P., Zhong, W., Yuan, G.-C.. [Optimal Gene Panel Selection for Targeted Spatial Transcriptomics Experiments](https://www.biorxiv.org/content/10.1101/2025.10.08.681071v1), _bioRxiv_, preprint.
 
 * Cai, J., Chen, Y., Fang, L., Zhong, W., Yuan, G.-C., Ma, P.. [SpaDiff: Denoising for Sequence-based Spatial Transcriptomics via Diffusion Process](https://www.biorxiv.org/content/10.1101/2025.10.07.681011v1), _bioRxiv_, preprint.
@@ -19,7 +21,7 @@ layout: page
 * Liu, Y., Yang, Y., Lu, H., Cui, J., Chen, X., Ma, P.*, Zhong, W.*, Zhao, Y., [Extracting True Virus SERS Spectra from Concentration-Dependent Measurements and Data Augmentation for Virus Classification and Quantification](https://pubs.acs.org/doi/10.1021/acssensors.4c03397), _ACS Sensors_, in press.
 * Fang, L., Yu, X., Cai, J., Chen, Y., Wu, S., Liu, Z., Yang, Z., Lu, H., Gong, X., Liu, Y., Ma, T., Ruan, W., Abbasi, A., Zhang, J., Wang, T., Latif, E., Liu, W., Zhang, W., Kolouri, S., Zhai, X., Zhu, D., Zhong, W., Liu, T., Ma, P., [Knowledge Distillation and Dataset Distillation of Large Language Models: Emerging Trends, Challenges, and Future Directions](https://arxiv.org/abs/2504.14772), _arXiv_.
 * Cai, J., Wu, S., Cheng, H., Zhong, W., Yuan, G., Ma, P., [Protocol to boost the robustness and accuracy of spatial transcriptomics algorithms using ensemble technique](https://www.sciencedirect.com/science/article/pii/S2666166725000140?via%3Dihub), _STAR Protocols_.
-* Fang, L., Meng, C., Zhao, L., Wang, T., Liu, T., Zhong, W., Ma, P.. SPOT: An Active Learning Framework for Deep Neural Networks, _Big Data Mining and Analytics_, accepted.
+
 * Chen, Y., Wu, S., Zhong, W., Ma, P.. [Fluid Correlation: A Novel Way to Assess the Dynamic Association](https://www.tandfonline.com/doi/full/10.1080/10618600.2024.2444373?scroll=top&needAccess=true), _Journal of Computational and Graphical Statistics_.
 * Lu, H., Cheng, H., Wang Y., Xie, Y., Yan, H., Wang, X., Ma, P., Zhong, W.. (2025). [Mortgage Prepayment Modeling via a Smoothing Spline State Space Model](https://jds-online.org/journal/JDS/article/1406/info). _Journal of Data Science_, 1-14, DOI 10.6339/25-JDS1165 (Special issue in honor of Professor Xizhi Wu).
 * Ruan, W., Lyu, Y., Zhang, J., Cai, J., Shu, P., Ge, Y., Lu, Y., Gao, S., Wang, Y., Wang, P., Zhao, L., Wang, T., Liu, Y., Fang, L., Liu, Z., Li, Y., Wu, Z., Chen, J., Jiang, H., Pan, Y., Yang, Z., Chen, J., Liang, S., Zhang, W., Ma, T., Dou, Y., Zhang, J., Gong, X., Gan, Q., Zou, Y., Chen, Z., Qian, Y., Yu, S., Lu, J., Song, K., Wang, X., Sikora, A., Li, G., Li, X., Li, Q., Wang, Y., Lu, Z., Abate, Y., He, L., Zhong, W., Liu, R., Huang, C., Liu, W., Shen, Y., Ma, P., Zhu, H., Yan, Y., Zhu, D., Liu, T. (2025) [Large Language Models for Bioinformatics](https://onlinelibrary.wiley.com/doi/full/10.1002/qub2.70014), _Quantitative Biology_, 14(1), p. 70014.
