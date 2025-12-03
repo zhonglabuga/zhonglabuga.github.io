@@ -4,9 +4,14 @@ title: "Publication"
 mathjax: true
 layout: page
 ---
+# 2026
+* Fang, L., Yu, X., Cai, J., Chen, Y., Wu, S., Liu, Z., Yang, Z., Lu, H., Gong, X., Liu, Y., Ma, T., Ruan, W., Abbasi, A., Zhang, J., Wang, T., Latif, E., Liu, W., Zhang, W., Kolouri, S., Zhai, X., Zhu, D., Zhong, W., Liu, T., Ma, P., [Knowledge Distillation and Dataset Distillation of Large Language Models: Emerging Trends, Challenges, and Future Directions](https://link.springer.com/article/10.1007/s10462-025-11423-3), _Artificial Intelligence Review_, 59, 17 (2026).
+
+* Cheng, H., Yu, X., Wu, S., Fang, L., Cao, C., Zhang, J., Liu, T., Zhu, D., Zhong, W., Ma, P.. DCMM-Transformer: Degree-Corrected Mixed-Membership Attention for Medical Imaging. _The 40th Annual AAAI Conference on Artificial Intelligence (AAAI)_, accepted.
+  
 # 2025
 
-* Cheng, H., Yu, X., Wu, S., Fang, L., Cao, C., Zhang, J., Liu, T., Zhu, D., Zhong, W., Ma, P. (2025). DCMM-Transformer: Degree-Corrected Mixed-Membership Attention for Medical Imaging. _The 40th Annual AAAI Conference on Artificial Intelligence (AAAI)_, accepted.
+
 
 * Lu, H., Fang, L., Zeng, O., Ma, P., Zhong, W., Yuan, G.-C.. [Optimal Gene Panel Selection for Targeted Spatial Transcriptomics Experiments](https://www.biorxiv.org/content/10.1101/2025.10.08.681071v1), _bioRxiv_, preprint.
 
@@ -19,7 +24,7 @@ layout: page
 
 * Wu, S.,  Feng, Y., Cheng, H.,  Huang, H.,  Li, Y.,  Ling, F.,   Ma, P.,  Zhong, W., and Shen, Y. (2025) Personalized Risk Score Prediction and Testing Policy Adaptations of a COVID-19 Population-based Contact Tracing Network, _Epidemiology and Infection_, accepted.
 * Liu, Y., Yang, Y., Lu, H., Cui, J., Chen, X., Ma, P.*, Zhong, W.*, Zhao, Y., [Extracting True Virus SERS Spectra from Concentration-Dependent Measurements and Data Augmentation for Virus Classification and Quantification](https://pubs.acs.org/doi/10.1021/acssensors.4c03397), _ACS Sensors_, in press.
-* Fang, L., Yu, X., Cai, J., Chen, Y., Wu, S., Liu, Z., Yang, Z., Lu, H., Gong, X., Liu, Y., Ma, T., Ruan, W., Abbasi, A., Zhang, J., Wang, T., Latif, E., Liu, W., Zhang, W., Kolouri, S., Zhai, X., Zhu, D., Zhong, W., Liu, T., Ma, P., [Knowledge Distillation and Dataset Distillation of Large Language Models: Emerging Trends, Challenges, and Future Directions](https://arxiv.org/abs/2504.14772), _arXiv_.
+  
 * Cai, J., Wu, S., Cheng, H., Zhong, W., Yuan, G., Ma, P., [Protocol to boost the robustness and accuracy of spatial transcriptomics algorithms using ensemble technique](https://www.sciencedirect.com/science/article/pii/S2666166725000140?via%3Dihub), _STAR Protocols_.
 
 * Chen, Y., Wu, S., Zhong, W., Ma, P.. [Fluid Correlation: A Novel Way to Assess the Dynamic Association](https://www.tandfonline.com/doi/full/10.1080/10618600.2024.2444373?scroll=top&needAccess=true), _Journal of Computational and Graphical Statistics_.
