@@ -5,6 +5,8 @@ mathjax: true
 layout: page
 ---
 # 2026
+
+* Cai, J., Feng, Y., Cheng, H., Ge, Y., Guo, Z., Huang, H., Li, C., Li, Y., Ling, F., Martinez, L., Ma, P., Zhong, W., Shen, Y., Pseudo-Time Reconstruction for Analyzing Transmission Direction in COVID-19 Contact-Tracing Data, _Epidemics_, 2026, accepted.
 * Fang, L., Yu, X., Cai, J., Chen, Y., Wu, S., Liu, Z., Yang, Z., Lu, H., Gong, X., Liu, Y., Ma, T., Ruan, W., Abbasi, A., Zhang, J., Wang, T., Latif, E., Liu, W., Zhang, W., Kolouri, S., Zhai, X., Zhu, D., Zhong, W., Liu, T., Ma, P., [Knowledge Distillation and Dataset Distillation of Large Language Models: Emerging Trends, Challenges, and Future Directions](https://link.springer.com/article/10.1007/s10462-025-11423-3), _Artificial Intelligence Review_, 59, 17 (2026).
 
 * Cheng, H., Yu, X., Wu, S., Fang, L., Cao, C., Zhang, J., Liu, T., Zhu, D., Zhong, W., Ma, P., [DCMM-Transformer: Degree-Corrected Mixed-Membership Attention for Medical Imaging](https://ojs.aaai.org/index.php/AAAI/article/view/37317), _The 40th Annual AAAI Conference on Artificial Intelligence (AAAI)_, accepted.
