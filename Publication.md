@@ -17,7 +17,7 @@ layout: page
   
 # 2025
 
-
+* Zheng, B., Liu, Y., Zhang, J., Ma, T. T., Zhou, Y., Chen, Y., Yang, Y., Ma, W., Fan, F., Jia, J., Zhang, Y., Li, J., Zhong, W. (2025). [A machine learning model using echocardiographic myocardial strain to detect myocardial ischemia](https://link.springer.com/article/10.1007/s11739-025-03968-6). Internal and Emergency Medicine, 20, 1425–1436.
 
 * Lu, H., Fang, L., Zeng, O., Ma, P., Zhong, W., Yuan, G.-C.. [Optimal Gene Panel Selection for Targeted Spatial Transcriptomics Experiments](https://www.biorxiv.org/content/10.1101/2025.10.08.681071v1), _bioRxiv_, preprint.
 
