@@ -7,11 +7,10 @@ layout: page
 # 2026
 
 * Cai, J., Feng, Y., Cheng, H., Ge, Y., Guo, Z., Huang, H., Li, C., Li, Y., Ling, F., Martinez, L., Ma, P., Zhong, W., Shen, Y., [Pseudo-Time Reconstruction for Analyzing Transmission Direction in COVID-19 Contact-Tracing Data](https://doi.org/10.1016/j.epidem.2026.100914), _Epidemics_, 2026, accepted.
+* Cheng, H., Chen, Y., Ma, P., Zhong, W. [Graphon Cross-Validation: Assessing Models on Network Data](https://iclr.cc/virtual/2026/poster/10011216). International Conference on Learning Representations, 2026.
 * Fang, L., Yu, X., Cai, J., Chen, Y., Wu, S., Liu, Z., Yang, Z., Lu, H., Gong, X., Liu, Y., Ma, T., Ruan, W., Abbasi, A., Zhang, J., Wang, T., Latif, E., Liu, W., Zhang, W., Kolouri, S., Zhai, X., Zhu, D., Zhong, W., Liu, T., Ma, P., [Knowledge Distillation and Dataset Distillation of Large Language Models: Emerging Trends, Challenges, and Future Directions](https://link.springer.com/article/10.1007/s10462-025-11423-3), _Artificial Intelligence Review_, 59, 17 (2026).
 
 * Cheng, H., Yu, X., Wu, S., Fang, L., Cao, C., Zhang, J., Liu, T., Zhu, D., Zhong, W., Ma, P., [DCMM-Transformer: Degree-Corrected Mixed-Membership Attention for Medical Imaging](https://ojs.aaai.org/index.php/AAAI/article/view/37317), _The 40th Annual AAAI Conference on Artificial Intelligence (AAAI)_, accepted.
-
-* Fang, L., Wang, T., Ma, P., Zhai, X., [Generalizable and Efficient Automated Scoring with a Knowledge-Distilled Multi-Task Mixture-of-Experts](https://ojs.aaai.org/index.php/AAAI/article/view/42115), _EAAI: The Symposium on Educational Advances in Artificial Intelligence_, accepted.
 
 * Chen, Y., Ma, P., Zhong, W., [Quantum Statistical Bootstrap](https://arxiv.org/abs/2604.00951), _arXiv preprint arXiv:2604.00951_ (2026).
   
