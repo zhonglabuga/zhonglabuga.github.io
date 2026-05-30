@@ -5,7 +5,7 @@ mathjax: true
 layout: page
 ---
 # 2026
-* Fang, L., Chen, Y., Cai, J., Ma, P., Zhong, W. (2026). [Multi-Teacher Knowledge Distillation via Teacher-Informed Mixture Priors](https://arxiv.org/abs/2605.27967), *arXiv preprint arXiv:2605.27967*.
+* Fang, L., Chen, Y., Cai, J., Ma, P., Zhong, W., [Multi-Teacher Knowledge Distillation via Teacher-Informed Mixture Priors](https://arxiv.org/abs/2605.27967), *arXiv preprint arXiv:2605.27967* (2026).
 * Lu, H., Fang, L., Zeng, O.,  Zhong, W., Yuan, G.-C. Ma, P. (2026). [Optimal Gene Panel Selection for Targeted Spatial Transcriptomics Experiments](https://www.biorxiv.org/content/10.1101/2025.10.08.681071v1.full), _Nucleic Acids Research_, in press.
 * Cai, J., Chen, Y., Fang, L., Zhong, W., Yuan, G.-C., Ma, P. (2026). [SpaDiff: Denoising for Sequence-based Spatial Transcriptomics via Diffusion Process](https://www.biorxiv.org/content/10.1101/2025.10.07.681011v1), _Cell Report Methods_, in press.
 * Lu, H., Fang, L., Zhong, W., Ma, P. (2026). [NeuroMAS: Multi-Agent Systems as Neural Networks with Joint Reinforcement Learning](https://arxiv.org/abs/2605.16757), _arXiv:2605.16757_.
