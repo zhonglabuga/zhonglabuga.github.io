@@ -5,6 +5,9 @@ mathjax: true
 layout: page
 ---
 # 2026
+* Fang, L., Chen, Y., Cai, J., Ma, P., Zhong, W. (2026). [Multi-Teacher Knowledge Distillation via Teacher-Informed Mixture Priors](https://arxiv.org/abs/2605.27967), *arXiv preprint arXiv:2605.27967*.
+* Lu, H., Fang, L., Zeng, O.,  Zhong, W., Yuan, G.-C. Ma, P. (2026). [Optimal Gene Panel Selection for Targeted Spatial Transcriptomics Experiments](https://www.biorxiv.org/content/10.1101/2025.10.08.681071v1.full), _Nucleic Acids Research_, in press.
+* Cai, J., Chen, Y., Fang, L., Zhong, W., Yuan, G.-C., Ma, P. (2026). [SpaDiff: Denoising for Sequence-based Spatial Transcriptomics via Diffusion Process](https://www.biorxiv.org/content/10.1101/2025.10.07.681011v1), _Cell Report Methods_, in press.
 * Lu, H., Fang, L., Zhong, W., Ma, P. (2026). [NeuroMAS: Multi-Agent Systems as Neural Networks with Joint Reinforcement Learning](https://arxiv.org/abs/2605.16757), _arXiv:2605.16757_.
 * Chen, Y., Zhong, W., Ma, P., [Wahkon: A Statistically Principled Deep RKHS Superposition Network](https://arxiv.org/abs/2605.14041), _arXiv preprint arXiv:2605.14041_ (2026).
 * Cai, J., Feng, Y., Cheng, H., Ge, Y., Guo, Z., Huang, H., Li, C., Li, Y., Ling, F., Martinez, L., Ma, P., Zhong, W., Shen, Y., [Pseudo-Time Reconstruction for Analyzing Transmission Direction in COVID-19 Contact-Tracing Data](https://doi.org/10.1016/j.epidem.2026.100914), _Epidemics_, 2026, accepted.
