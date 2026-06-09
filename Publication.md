@@ -1,141 +1,189 @@
 ---
-layout: default
+
 title: "Publication"
 mathjax: true
 layout: page
----
+------------
+
 # 2026
-* Fang, L., Wang, S., Chen, Y., Zhang, S., Liu, Z., Zhong, W. (2026). [Analyzing Complex Educational Data: A Data Analytic Framework for Integrating Structured and Unstructured Eye-Tracking Data](https://doi.org/10.1017/psy.2026.10096), _Psychometrika_, 1–29.
+
+* Fang, L., Wang, S., Chen, Y., Zhang, S., Liu, Z., Zhong, W. (2026). [Analyzing Complex Educational Data: A Data Analytic Framework for Integrating Structured and Unstructured Eye-Tracking Data](https://doi.org/10.1017/psy.2026.10096), *Psychometrika*, 1–29.
+
 * Fang, L., Chen, Y., Cai, J., Ma, P., Zhong, W., [Multi-Teacher Knowledge Distillation via Teacher-Informed Mixture Priors](https://arxiv.org/abs/2605.27967), *arXiv preprint arXiv:2605.27967* (2026).
-* Lu, H., Fang, L., Zeng, O.,  Zhong, W., Yuan, G.-C. Ma, P. (2026). [Optimal Gene Panel Selection for Targeted Spatial Transcriptomics Experiments](https://www.biorxiv.org/content/10.1101/2025.10.08.681071v1.full), _Nucleic Acids Research_, in press.
-* Cai, J., Chen, Y., Fang, L., Zhong, W., Yuan, G.-C., Ma, P. (2026). [SpaDiff: Denoising for Sequence-based Spatial Transcriptomics via Diffusion Process](https://www.biorxiv.org/content/10.1101/2025.10.07.681011v1), _Cell Report Methods_, in press.
-* Lu, H., Fang, L., Zhong, W., Ma, P. (2026). [NeuroMAS: Multi-Agent Systems as Neural Networks with Joint Reinforcement Learning](https://arxiv.org/abs/2605.16757), _arXiv:2605.16757_.
-* Chen, Y., Zhong, W., Ma, P., [Wahkon: A Statistically Principled Deep RKHS Superposition Network](https://arxiv.org/abs/2605.14041), _arXiv preprint arXiv:2605.14041_ (2026).
-* Cai, J., Feng, Y., Cheng, H., Ge, Y., Guo, Z., Huang, H., Li, C., Li, Y., Ling, F., Martinez, L., Ma, P., Zhong, W., Shen, Y., [Pseudo-Time Reconstruction for Analyzing Transmission Direction in COVID-19 Contact-Tracing Data](https://doi.org/10.1016/j.epidem.2026.100914), _Epidemics_, 2026, accepted.
+
+* Lu, H., Fang, L., Zeng, O., Zhong, W., Yuan, G.-C., Ma, P. (2026). [Optimal Gene Panel Selection for Targeted Spatial Transcriptomics Experiments](https://www.biorxiv.org/content/10.1101/2025.10.08.681071v1.full), *Nucleic Acids Research*, in press.
+
+* Cai, J., Chen, Y., Fang, L., Zhong, W., Yuan, G.-C., Ma, P. (2026). [SpaDiff: Denoising for Sequence-based Spatial Transcriptomics via Diffusion Process](https://www.biorxiv.org/content/10.1101/2025.10.07.681011v1), *Cell Reports Methods*, in press.
+
+* Lu, H., Fang, L., Zhong, W., Ma, P. (2026). [NeuroMAS: Multi-Agent Systems as Neural Networks with Joint Reinforcement Learning](https://arxiv.org/abs/2605.16757), *arXiv:2605.16757*.
+
+* Chen, Y., Zhong, W., Ma, P., [Wahkon: A Statistically Principled Deep RKHS Superposition Network](https://arxiv.org/abs/2605.14041), *arXiv preprint arXiv:2605.14041* (2026).
+
+* Cai, J., Feng, Y., Cheng, H., Ge, Y., Guo, Z., Huang, H., Li, C., Li, Y., Ling, F., Martinez, L., Ma, P., Zhong, W., Shen, Y., [Pseudo-Time Reconstruction for Analyzing Transmission Direction in COVID-19 Contact-Tracing Data](https://doi.org/10.1016/j.epidem.2026.100914), *Epidemics*, 2026, accepted.
+
 * Cheng, H., Chen, Y., Ma, P., Zhong, W. [Graphon Cross-Validation: Assessing Models on Network Data](https://openreview.net/pdf?id=8J3GTeQmwl). International Conference on Learning Representations, 2026.
-* Fang, L., Yu, X., Cai, J., Chen, Y., Wu, S., Liu, Z., Yang, Z., Lu, H., Gong, X., Liu, Y., Ma, T., Ruan, W., Abbasi, A., Zhang, J., Wang, T., Latif, E., Liu, W., Zhang, W., Kolouri, S., Zhai, X., Zhu, D., Zhong, W., Liu, T., Ma, P., [Knowledge Distillation and Dataset Distillation of Large Language Models: Emerging Trends, Challenges, and Future Directions](https://link.springer.com/article/10.1007/s10462-025-11423-3), _Artificial Intelligence Review_, 59, 17 (2026).
 
-* Cheng, H., Yu, X., Wu, S., Fang, L., Cao, C., Zhang, J., Liu, T., Zhu, D., Zhong, W., Ma, P., [DCMM-Transformer: Degree-Corrected Mixed-Membership Attention for Medical Imaging](https://ojs.aaai.org/index.php/AAAI/article/view/37317), _The 40th Annual AAAI Conference on Artificial Intelligence (AAAI)_, accepted.
+* Fang, L., Yu, X., Cai, J., Chen, Y., Wu, S., Liu, Z., Yang, Z., Lu, H., Gong, X., Liu, Y., Ma, T., Ruan, W., Abbasi, A., Zhang, J., Wang, T., Latif, E., Liu, W., Zhang, W., Kolouri, S., Zhai, X., Zhu, D., Zhong, W., Liu, T., Ma, P., [Knowledge Distillation and Dataset Distillation of Large Language Models: Emerging Trends, Challenges, and Future Directions](https://link.springer.com/article/10.1007/s10462-025-11423-3), *Artificial Intelligence Review*, 59, 17 (2026).
 
-* Chen, Y., Ma, P., Zhong, W., [Quantum Statistical Bootstrap](https://arxiv.org/abs/2604.00951), _arXiv preprint arXiv:2604.00951_ (2026).
-  
+* Cheng, H., Yu, X., Wu, S., Fang, L., Cao, C., Zhang, J., Liu, T., Zhu, D., Zhong, W., Ma, P., [DCMM-Transformer: Degree-Corrected Mixed-Membership Attention for Medical Imaging](https://ojs.aaai.org/index.php/AAAI/article/view/37317), *The 40th Annual AAAI Conference on Artificial Intelligence (AAAI)*, accepted.
+
+* Chen, Y., Ma, P., Zhong, W., [Quantum Statistical Bootstrap](https://arxiv.org/abs/2604.00951), *arXiv preprint arXiv:2604.00951* (2026).
+
 # 2025
 
 * Zheng, B., Liu, Y., Zhang, J., Ma, T. T., Zhou, Y., Chen, Y., Yang, Y., Ma, W., Fan, F., Jia, J., Zhang, Y., Li, J., Zhong, W. (2025). [A machine learning model using echocardiographic myocardial strain to detect myocardial ischemia](https://link.springer.com/article/10.1007/s11739-025-03968-6). Internal and Emergency Medicine, 20, 1425–1436.
 
-* Lu, H., Fang, L., Zeng, O., Ma, P., Zhong, W., Yuan, G.-C.. [Optimal Gene Panel Selection for Targeted Spatial Transcriptomics Experiments](https://www.biorxiv.org/content/10.1101/2025.10.08.681071v1), _bioRxiv_, preprint.
+* Wu, S., Feng, Y., Cheng, H., Huang, H., Li, Y., Ling, F., Ma, P., Zhong, W., Shen, Y. (2025). [Personalized risk score prediction and testing policy adaptations of a COVID-19 population-based contact tracing network](https://doi.org/10.1017/S0950268825100319). *Epidemiology & Infection*, 153, e90.
 
-* Cai, J., Chen, Y., Fang, L., Zhong, W., Yuan, G.-C., Ma, P.. [SpaDiff: Denoising for Sequence-based Spatial Transcriptomics via Diffusion Process](https://www.biorxiv.org/content/10.1101/2025.10.07.681011v1), _bioRxiv_, preprint.
-* Wu, S., Feng, Y., Cheng, H., Huang, H., Li, Y., Ling, F., Ma, P., Zhong, W., Shen, Y. (2025). [Personalized risk score prediction and testing policy adaptations of a COVID-19 population-based contact tracing network](https://doi.org/10.1017/S0950268825100319). _Epidemiology & Infection_, 153, e90.
-  
 * Lu, H., Fang, L., Zhang, R., Li, X., Cai, J., Cheng, H., Tang, L., Liu, Z., Sun, Z., Wang, T., Zhang, Y., Zidan, A. H., Xu, J., Yu, J., Yu, M., Jiang, H., Gong, X., Luo, W., Sun, B., Chen, Y., Ma, T., Wu, S., Zhou, Y., Chen, J., Xiang, H., Zhang, J., Jahin, A., Ruan, W., Deng, K., Pan, Y., Wang, P., Li, J., Liu, Z., Zhang, L., Zhao, L., Liu, W., Zhu, D., Xing, X., Dou, F., Zhang, W., Huang, C., Liu, R., Zhang, M., Liu, Y., Sun, X., Lu, Q., Xiang, Z., Zhong, W., Liu, T., & Ma, P. (2025). [Alignment and Safety in Large Language Models: Safety Mechanisms, Training Paradigms, and Emerging Challenges](https://arxiv.org/abs/2507.19672), arXiv:2507.19672.
-  
-* Fang, L., Meng, C., Zhao, L., Wang, T., Liu, T., Zhong, W., Ma, P. (2025). [SPOT: An Active Learning Algorithm for Efficient Deep Neural Network Training](https://doi.org/10.26599/BDMA.2025.9020011). _Big Data Mining and Analytics_, 8(5), 1060–1074.
 
-* Wu, S.,  Feng, Y., Cheng, H.,  Huang, H.,  Li, Y.,  Ling, F.,   Ma, P.,  Zhong, W., and Shen, Y. (2025) Personalized Risk Score Prediction and Testing Policy Adaptations of a COVID-19 Population-based Contact Tracing Network, _Epidemiology and Infection_, accepted.
-* Liu, Y., Yang, Y., Lu, H., Cui, J., Chen, X., Ma, P.*, Zhong, W.*, Zhao, Y., [Extracting True Virus SERS Spectra from Concentration-Dependent Measurements and Data Augmentation for Virus Classification and Quantification](https://pubs.acs.org/doi/10.1021/acssensors.4c03397), _ACS Sensors_, in press.
-  
-* Cai, J., Wu, S., Cheng, H., Zhong, W., Yuan, G., Ma, P., [Protocol to boost the robustness and accuracy of spatial transcriptomics algorithms using ensemble technique](https://www.sciencedirect.com/science/article/pii/S2666166725000140?via%3Dihub), _STAR Protocols_.
+* Fang, L., Meng, C., Zhao, L., Wang, T., Liu, T., Zhong, W., Ma, P. (2025). [SPOT: An Active Learning Algorithm for Efficient Deep Neural Network Training](https://doi.org/10.26599/BDMA.2025.9020011). *Big Data Mining and Analytics*, 8(5), 1060–1074.
 
-* Chen, Y., Wu, S., Zhong, W., Ma, P.. [Fluid Correlation: A Novel Way to Assess the Dynamic Association](https://www.tandfonline.com/doi/full/10.1080/10618600.2024.2444373?scroll=top&needAccess=true), _Journal of Computational and Graphical Statistics_.
-* Lu, H., Cheng, H., Wang Y., Xie, Y., Yan, H., Wang, X., Ma, P., Zhong, W.. (2025). [Mortgage Prepayment Modeling via a Smoothing Spline State Space Model](https://jds-online.org/journal/JDS/article/1406/info). _Journal of Data Science_, 1-14, DOI 10.6339/25-JDS1165 (Special issue in honor of Professor Xizhi Wu).
-* Ruan, W., Lyu, Y., Zhang, J., Cai, J., Shu, P., Ge, Y., Lu, Y., Gao, S., Wang, Y., Wang, P., Zhao, L., Wang, T., Liu, Y., Fang, L., Liu, Z., Li, Y., Wu, Z., Chen, J., Jiang, H., Pan, Y., Yang, Z., Chen, J., Liang, S., Zhang, W., Ma, T., Dou, Y., Zhang, J., Gong, X., Gan, Q., Zou, Y., Chen, Z., Qian, Y., Yu, S., Lu, J., Song, K., Wang, X., Sikora, A., Li, G., Li, X., Li, Q., Wang, Y., Lu, Z., Abate, Y., He, L., Zhong, W., Liu, R., Huang, C., Liu, W., Shen, Y., Ma, P., Zhu, H., Yan, Y., Zhu, D., Liu, T. (2025) [Large Language Models for Bioinformatics](https://onlinelibrary.wiley.com/doi/full/10.1002/qub2.70014), _Quantitative Biology_, 14(1), p. 70014.
+* Liu, Y., Yang, Y., Lu, H., Cui, J., Chen, X., Ma, P.*, Zhong, W.*, Zhao, Y., [Extracting True Virus SERS Spectra from Concentration-Dependent Measurements and Data Augmentation for Virus Classification and Quantification](https://pubs.acs.org/doi/10.1021/acssensors.4c03397), *ACS Sensors*, in press.
+
+* Cai, J., Wu, S., Cheng, H., Zhong, W., Yuan, G., Ma, P., [Protocol to boost the robustness and accuracy of spatial transcriptomics algorithms using ensemble technique](https://www.sciencedirect.com/science/article/pii/S2666166725000140?via%3Dihub), *STAR Protocols*.
+
+* Chen, Y., Wu, S., Zhong, W., Ma, P. [Fluid Correlation: A Novel Way to Assess the Dynamic Association](https://www.tandfonline.com/doi/full/10.1080/10618600.2024.2444373?scroll=top&needAccess=true), *Journal of Computational and Graphical Statistics*.
+
+* Lu, H., Cheng, H., Wang, Y., Xie, Y., Yan, H., Wang, X., Ma, P., Zhong, W. (2025). [Mortgage Prepayment Modeling via a Smoothing Spline State Space Model](https://jds-online.org/journal/JDS/article/1406/info). *Journal of Data Science*, 1-14, DOI 10.6339/25-JDS1165 (Special issue in honor of Professor Xizhi Wu).
+
+* Ruan, W., Lyu, Y., Zhang, J., Cai, J., Shu, P., Ge, Y., Lu, Y., Gao, S., Wang, Y., Wang, P., Zhao, L., Wang, T., Liu, Y., Fang, L., Liu, Z., Li, Y., Wu, Z., Chen, J., Jiang, H., Pan, Y., Yang, Z., Chen, J., Liang, S., Zhang, W., Ma, T., Dou, Y., Zhang, J., Gong, X., Gan, Q., Zou, Y., Chen, Z., Qian, Y., Yu, S., Lu, J., Song, K., Wang, X., Sikora, A., Li, G., Li, X., Li, Q., Wang, Y., Lu, Z., Abate, Y., He, L., Zhong, W., Liu, R., Huang, C., Liu, W., Shen, Y., Ma, P., Zhu, H., Yan, Y., Zhu, D., Liu, T. (2025) [Large Language Models for Bioinformatics](https://onlinelibrary.wiley.com/doi/full/10.1002/qub2.70014), *Quantitative Biology*, 14(1), p. 70014.
 
 # 2024
-* Xing, X., Zeng, P.,Ye H. & Zhong, W.. [Parsimonious Tensor Dimension Reduction](https://www.tandfonline.com/doi/full/10.1080/10618600.2024.2362220), _Journal of Computational and Graphical Statistics_.
-* Wang, T., Yang, Y., Lu, H., Cui, J., Chen, X., Ma, P., Zhong, W., Zhao, Y.. [Functional Regression for SERS Spectrum Transformation Across Diverse Instruments](https://pubs.rsc.org/en/content/articlepdf/2025/AN/D4AN01177E?page=search), _Analyst_.
 
-* Cai, J., Cheng, H., Wu, S., Zhong, W., Yuan, G., Ma, P. [WEST: An Ensemble Method for Spatial Transcriptomics Analysis](https://www.cell.com/cell-reports-methods/fulltext/S2667-2375(24)00269-8). _Cell Reports Methods_.
-  
-* Wu, S., Yang, B., Yang, H., Gong, X., Coshatt, J. S., Nattanmai P., Ramviyas, C., J., Zhong, W., Ye, J., Ma, P., and Song, W.. (2024). [Online Adaptively Anomaly Detection in Networked Electrical Machines by Enveloped Singular Spectrum Transformation](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10769069), _IEEE Internet of Things Journal_,  DOI: 10.1109/JIOT.2024.3476268.
- 
+* Xing, X., Zeng, P., Ye, H., & Zhong, W. [Parsimonious Tensor Dimension Reduction](https://www.tandfonline.com/doi/full/10.1080/10618600.2024.2362220), *Journal of Computational and Graphical Statistics*.
+
+* Wang, T., Yang, Y., Lu, H., Cui, J., Chen, X., Ma, P., Zhong, W., Zhao, Y. [Functional Regression for SERS Spectrum Transformation Across Diverse Instruments](https://pubs.rsc.org/en/content/articlepdf/2025/AN/D4AN01177E?page=search), *Analyst*.
+
+* Cai, J., Cheng, H., Wu, S., Zhong, W., Yuan, G., Ma, P. [WEST: An Ensemble Method for Spatial Transcriptomics Analysis](https://www.cell.com/cell-reports-methods/fulltext/S2667-2375%2824%2900269-8). *Cell Reports Methods*.
+
+* Wu, S., Yang, B., Yang, H., Gong, X., Coshatt, J. S., Nattanmai P., Ramviyas, C., J., Zhong, W., Ye, J., Ma, P., and Song, W. (2024). [Online Adaptively Anomaly Detection in Networked Electrical Machines by Enveloped Singular Spectrum Transformation](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10769069), *IEEE Internet of Things Journal*,  DOI: 10.1109/JIOT.2024.3476268.
+
 * Liu, Y., Chen, Y., Lu, H., Zhong, W., Yuan, G., and Ma, P. (2024) [Orthogonal Multimodality Integration and Clustering in Single-cell Data](https://link.springer.com/content/pdf/10.1186/s12859-024-05773-y.pdf), BMC Bioinformatics.
+
 * Wang, Z., Cheng, H., Zhong, W., Ma, P., and Murdie, A. (2024) [Shifting Sands: How Change-Point and Community Detection Can Enrich our Understanding of International Politics](https://www.tandfonline.com/doi/full/10.1080/03050629.2024.2307934), International Interactions.
-* Fang, L. & Chen, Y., Zhong, W. & Ma, P. (2024) [Bayesian Knowledge Distillation: A Bayesian Perspective of Distillation with Uncertainty Quantification](https://openreview.net/pdf?id=knZ4NYzGUd), in _ICML_ 2024.
- 
-* Wang, Zhen & Fang, L., Cai, J., Ma, P., Zhong, W. [MultiCOP: An Association Analysis of Microbiome-Metabolome Relationships](https://link.springer.com/article/10.1007/s12561-024-09450-9), _Statistics in biosciences_.
-  
-* Ma, P. & Chen, Y., Lu, H., Zhong, W. [Bisection Grover’s Search Algorithm and Its Application in Analyzing CITE-seq Data](https://www.tandfonline.com/doi/abs/10.1080/01621459.2024.2404259), _Journal of the American Statistical Association_.
+
+* Fang, L. & Chen, Y., Zhong, W. & Ma, P. (2024) [Bayesian Knowledge Distillation: A Bayesian Perspective of Distillation with Uncertainty Quantification](https://openreview.net/pdf?id=knZ4NYzGUd), in *ICML* 2024.
+
+* Wang, Zhen & Fang, L., Cai, J., Ma, P., Zhong, W. [MultiCOP: An Association Analysis of Microbiome-Metabolome Relationships](https://link.springer.com/article/10.1007/s12561-024-09450-9), *Statistics in Biosciences*.
+
+* Ma, P. & Chen, Y., Lu, H., Zhong, W. [Bisection Grover’s Search Algorithm and Its Application in Analyzing CITE-seq Data](https://www.tandfonline.com/doi/abs/10.1080/01621459.2024.2404259), *Journal of the American Statistical Association*.
 
 # 2023
-* Han, Y.,  Yu, J., Zhang, N., Meng, C.,  Ma, P., Zhong, W., and  Zou, C. (2023) [Leverage classifier: another look at support vector machine](https://www.researchgate.net/publication/373363893_Leverage_classifier_Another_look_at_support_vector_machine), _Statistica Sinica_. 
-* Wu, S., Fang, L., Zhang, J., Sriram, T. N., Coshatt, S. J., Zahiri, F., Mantooth, A., Ye, J., Zhong, W., Ma, P., Song, W. (2023) [Unsupervised Anomaly Detection and Diagnosis in Power Electronic Networks: Informative Leverage and Multivariate Functional Clustering Approaches](https://ieeexplore.ieee.org/document/10292588), _IEEE Transactions on Smart Grid_.
-* Xing, X., Shang, Z., Du, P., Ma, P., Zhong, W., and Liu, J. (2023) [Minimax Nonparametric Multi-sample Test under Smoothing](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11086968/), _Statistica Sinica_.
-* Zhang, M., Chen, Y., Yu, D., Zhong, W., Zhang, J., and Ma, P. (2023) [Elucidating Dynamic Cell Lineages and Gene Networks in Time-Course Single Cell Differentiation](https://pubmed.ncbi.nlm.nih.gov/37426065/), _Artificial Intelligence in the Life Sciences_.
-* Wu, S., Cheng, H., Cai, J., Ma, P., and Zhong, W.. (2023) [Subsampling in Large Graphs Using Ricci Curvature](https://openreview.net/forum?id=w9WUQkBvpI), _International Conference on Learning Representations_.
+
+* Han, Y.,  Yu, J., Zhang, N., Meng, C.,  Ma, P., Zhong, W., and  Zou, C. (2023) [Leverage classifier: another look at support vector machine](https://www.researchgate.net/publication/373363893_Leverage_classifier_Another_look_at_support_vector_machine), *Statistica Sinica*.
+* Wu, S., Fang, L., Zhang, J., Sriram, T. N., Coshatt, S. J., Zahiri, F., Mantooth, A., Ye, J., Zhong, W., Ma, P., Song, W. (2023) [Unsupervised Anomaly Detection and Diagnosis in Power Electronic Networks: Informative Leverage and Multivariate Functional Clustering Approaches](https://ieeexplore.ieee.org/document/10292588), *IEEE Transactions on Smart Grid*.
+* Xing, X., Shang, Z., Du, P., Ma, P., Zhong, W., and Liu, J. (2023) [Minimax Nonparametric Multi-sample Test under Smoothing](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11086968/), *Statistica Sinica*.
+* Zhang, M., Chen, Y., Yu, D., Zhong, W., Zhang, J., and Ma, P. (2023) [Elucidating Dynamic Cell Lineages and Gene Networks in Time-Course Single Cell Differentiation](https://pubmed.ncbi.nlm.nih.gov/37426065/), *Artificial Intelligence in the Life Sciences*.
+* Wu, S., Cheng, H., Cai, J., Ma, P., and Zhong, W. (2023) [Subsampling in Large Graphs Using Ricci Curvature](https://openreview.net/forum?id=w9WUQkBvpI), *International Conference on Learning Representations*.
 * He, Y. C., Martinez, L., Ge, Y., Feng, Y., Chen, Y. W.,
- Tan, J. B., Westbrook, A., Li, C. W.,
-Cheng,  W.,  Ling, F.,  Cheng, H. M.,
- Wu, S. S., Zhong, W. X.,
- Handel, A.,  Huang, H.,  Sun, J. M., and Shen, Y. (2023).
-[Social mixing and network characteristics of COVID-19 patients before and after widespread interventions: A population-based study](https://pubmed.ncbi.nlm.nih.gov/37577939/).  _Epidemiology and Infection_, 151, e141.
+  Tan, J. B., Westbrook, A., Li, C. W.,
+  Cheng,  W.,  Ling, F.,  Cheng, H. M.,
+  Wu, S. S., Zhong, W. X.,
+  Handel, A.,  Huang, H.,  Sun, J. M., and Shen, Y. (2023).
+  [Social mixing and network characteristics of COVID-19 patients before and after widespread interventions: A population-based study](https://pubmed.ncbi.nlm.nih.gov/37577939/).  *Epidemiology and Infection*, 151, e141.
+
 # 2022
-* Zhang, J., Ma, P., Zhong, W., & Meng, C. (2022). [Projection-based techniques for high-dimensional optimal transport problems](https://arxiv.org/pdf/2212.00354), _Wiley Interdisciplinary Reviews: Computational Statistics_, e1587.
-* Yu, J., Cheng, H., Zhang, J., Li, F., Zhong, W., Ye, J., Song, W., and Ma, P.(2022) [CONGO^2: Colored-node graph square model for anomaly detection and localization in smart grids](https://sensorweb.engr.uga.edu/wp-content/uploads/2022/01/yu2022congo.pdf), _IEEE Internet of Things Journal_, in press.
-* Zhang, J., Meng, C., Yu, J., Zhang, M., Zhong, W., and Ma, P. (2022) [An optimal transport approach for selecting a representative subsample](https://www.tandfonline.com/doi/full/10.1080/10618600.2022.2084404), _Journal of Computational and Graphical Statistics_, accepted.
+
+* Zhang, J., Ma, P., Zhong, W., & Meng, C. (2022). [Projection-based techniques for high-dimensional optimal transport problems](https://arxiv.org/pdf/2212.00354), *Wiley Interdisciplinary Reviews: Computational Statistics*, e1587.
+* Yu, J., Cheng, H., Zhang, J., Li, F., Zhong, W., Ye, J., Song, W., and Ma, P.(2022) [CONGO^2: Colored-node graph square model for anomaly detection and localization in smart grids](https://sensorweb.engr.uga.edu/wp-content/uploads/2022/01/yu2022congo.pdf), *IEEE Internet of Things Journal*, in press.
+* Zhang, J., Meng, C., Yu, J., Zhang, M., Zhong, W., and Ma, P. (2022) [An optimal transport approach for selecting a representative subsample](https://www.tandfonline.com/doi/full/10.1080/10618600.2022.2084404), *Journal of Computational and Graphical Statistics*, accepted.
+
 # 2021
-* Ganzen L., Ko M. J,  Zhang M., Xie R., Chen Y., Zhang L., James R., Mumm J., Van Rijn R., Zhong, W., Pang C., Zhang M., Tsujikawa M., Leung Y. F. (2021) [Drug Screening with Zebrafish Visual Behavior Identifies Carvedilol as a Potential Treatment for Retinitis Pigmentosa](https://pubmed.ncbi.nlm.nih.gov/34075074/#:~:text=Our%20screening%20identified%20a%20beta,like%20human%20Y79%20cell%20line.). _Scientific Reports_;11(1):1-4.
-* Meng. C., Yu, J., Chen, Y., Zhong, W., and Ma, P. (2021) [Smoothing splines approximation using Hilbert curve basis selection](https://www.tandfonline.com/doi/full/10.1080/10618600.2021.2002161), _Journal of Computational and Graphical Statistics_, arXiv:2109.11727.
 
-* Zhang, X., Datta, G., Ma, P., and Zhong, W.. (2021) [Bayesian spline smoothing with ambiguous penalties](https://onlinelibrary.wiley.com/doi/epdf/10.1002/cjs.11655), _Canadian Journal of Statistics_, 0319-5724.
+* Ganzen L., Ko M. J,  Zhang M., Xie R., Chen Y., Zhang L., James R., Mumm J., Van Rijn R., Zhong, W., Pang C., Zhang M., Tsujikawa M., Leung Y. F. (2021) [Drug Screening with Zebrafish Visual Behavior Identifies Carvedilol as a Potential Treatment for Retinitis Pigmentosa](https://pubmed.ncbi.nlm.nih.gov/34075074/#:~:text=Our%20screening%20identified%20a%20beta,like%20human%20Y79%20cell%20line.). *Scientific Reports*;11(1):1-4.
 
-* Zhong, W., Ke, Y., Wang, Y., Chen, Y., Chen, J., Ma, P. (2021) [Best Subset Selection: Statistical Computing Meets Quantum Computing](https://www.semanticscholar.org/paper/Best-Subset-Selection%3A-Statistical-Computing-Meets-Zhong-Ke/3b0230a2c6a54938b4087c63824c33b57edb2799), _arXiv_ 2107.08359.
-* Zhang, J., Zhu, H., Chen, Y., Yang, C., Cheng, H., Li, Y., Zhong, W.,  Wang, F.(2021) [Ensemble machine learning approach for screening of coronary heart disease based on echocardiography and risk factors](https://bmcmedinformdecismak.biomedcentral.com/articles/10.1186/s12911-021-01535-5). _BMC Med Inform Decis Mak_ 21, 187.
-* Xing, X., Xie, R., Zhong, W., (2021). [Model-based Sparse Coding Beyond Gaussian Independent Model](https://dl.acm.org/doi/abs/10.1016/j.csda.2021.107336), _Computational Statistics & Data Analysis_
-* Liu, Y., Sun, X., Zhong, W., and Li, B. (2021). [B-scaling: a novel nonparametric data fusion method](https://projecteuclid.org/journals/annals-of-applied-statistics/volume-16/issue-3/B-scaling-A-novel-nonparametric-data-fusion-method/10.1214/21-AOAS1537.short), _Annals of Applied Statistics_.
-* Cheng, H., Yu, J., Wang, Z., Ma, P., Guo, C., Wang, B., Zhong, W., Xu, B.(2021) [Details of single-molecule force spectroscopy data decoded by network-based automatic clustering algorithm](https://pubs.acs.org/doi/10.1021/acs.jpcb.1c03552), _Journal of Physical Chemistry Part B_.
-* Zhong, W., Liu, Y. and Zeng, P., (2021) [A model-free variable screening method based on leverage score](https://www.tandfonline.com/doi/full/10.1080/01621459.2021.1918554). _The Journal of the American Statistical Association_, 1-12. doi:10.1080/01621459.2021.1918554.
-* Kaushal, R., Peng, L., Singh, S. K., Zhang, M., Zhang, X., Vílchez, J. I., Wang, Z., He, D., Yang, Y., Lv, S., Xu, Z., Morcillo, R. J., Wang, W., Huang, W., Paré, P.W., Song, C., Zhu, J., Liu, R., Zhong, W., Ma, P., Zhang, H. (2021) [Dicer-Like proteins influence Arabidopsis root microbiota independent of RNA-directed DNA methylation](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-020-00966-y), _Microbiome_.
+* Meng, C., Yu, J., Chen, Y., Zhong, W., and Ma, P. (2021) [Smoothing splines approximation using Hilbert curve basis selection](https://www.tandfonline.com/doi/full/10.1080/10618600.2021.2002161), *Journal of Computational and Graphical Statistics*, arXiv:2109.11727.
+
+* Zhang, X., Datta, G., Ma, P., and Zhong, W. (2021) [Bayesian spline smoothing with ambiguous penalties](https://onlinelibrary.wiley.com/doi/epdf/10.1002/cjs.11655), *Canadian Journal of Statistics*, 0319-5724.
+
+* Zhong, W., Ke, Y., Wang, Y., Chen, Y., Chen, J., Ma, P. (2021) [Best Subset Selection: Statistical Computing Meets Quantum Computing](https://www.semanticscholar.org/paper/Best-Subset-Selection%3A-Statistical-Computing-Meets-Zhong-Ke/3b0230a2c6a54938b4087c63824c33b57edb2799), *arXiv* 2107.08359.
+
+* Zhang, J., Zhu, H., Chen, Y., Yang, C., Cheng, H., Li, Y., Zhong, W.,  Wang, F.(2021) [Ensemble machine learning approach for screening of coronary heart disease based on echocardiography and risk factors](https://bmcmedinformdecismak.biomedcentral.com/articles/10.1186/s12911-021-01535-5). *BMC Med Inform Decis Mak* 21, 187.
+
+* Xing, X., Xie, R., Zhong, W., (2021). [Model-based Sparse Coding Beyond Gaussian Independent Model](https://dl.acm.org/doi/abs/10.1016/j.csda.2021.107336), *Computational Statistics & Data Analysis*
+
+* Liu, Y., Sun, X., Zhong, W., and Li, B. (2021). [B-scaling: a novel nonparametric data fusion method](https://projecteuclid.org/journals/annals-of-applied-statistics/volume-16/issue-3/B-scaling-A-novel-nonparametric-data-fusion-method/10.1214/21-AOAS1537.short), *Annals of Applied Statistics*.
+
+* Cheng, H., Yu, J., Wang, Z., Ma, P., Guo, C., Wang, B., Zhong, W., Xu, B.(2021) [Details of single-molecule force spectroscopy data decoded by network-based automatic clustering algorithm](https://pubs.acs.org/doi/10.1021/acs.jpcb.1c03552), *Journal of Physical Chemistry Part B*.
+
+* Zhong, W., Liu, Y. and Zeng, P., (2021) [A model-free variable screening method based on leverage score](https://www.tandfonline.com/doi/full/10.1080/01621459.2021.1918554). *The Journal of the American Statistical Association*, 1-12. doi:10.1080/01621459.2021.1918554.
+
+* Kaushal, R., Peng, L., Singh, S. K., Zhang, M., Zhang, X., Vílchez, J. I., Wang, Z., He, D., Yang, Y., Lv, S., Xu, Z., Morcillo, R. J., Wang, W., Huang, W., Paré, P.W., Song, C., Zhu, J., Liu, R., Zhong, W., Ma, P., Zhang, H. (2021) [Dicer-Like proteins influence Arabidopsis root microbiota independent of RNA-directed DNA methylation](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-020-00966-y), *Microbiome*.
 
 # 2020
-* Meng, C., Yu, J., Zhang, J., Zhong, W., and Ma, P. (2020) [Sufficient dimension reduction for classification using principal optimal transport direction](https://proceedings.neurips.cc/paper/2020/file/29586cb449c90e249f1f09a0a4ee245a-Paper.pdf), _NeurIPS_ 2020.
-* Meng. C., Xie, R., Mandal, A., Zhang, X., Zhong, W., and Ma, P. (2020) [LowCon: A design-based subsampling approach in a misspecified linear model](https://www.tandfonline.com/doi/full/10.1080/10618600.2020.1844215), _Journal of Computational and Graphical Statistics_.
-* Zhang, J., Zhong, W., and Ma, P. (2020) [A Review on Modern Computational Optimal Transport Methods with Applications in Biomedical Research](https://link.springer.com/chapter/10.1007/978-3-030-72437-5_13), _Modern Statistical Methods for Health Research_, Springer.
-* Xing, X., Liu, M., Ma, P., and Zhong, W.. (2020) [Minimax nonparametric parallelism test](https://www.jmlr.org/papers/v21/19-800.html), _Journal of Machine Learning Research_, 21:1−47.
-* Sun, X., Zhong, W., and Ma, P. (2020) [An asymmetrical smoothing parameters selection approach for smoothing spline ANOVA models in large samples](https://pubmed.ncbi.nlm.nih.gov/34294943/), _Biometrika_, DOI: https://doi.org/10.1093/biomet/asaa047.
+
+* Meng, C., Yu, J., Zhang, J., Zhong, W., and Ma, P. (2020) [Sufficient dimension reduction for classification using principal optimal transport direction](https://proceedings.neurips.cc/paper/2020/file/29586cb449c90e249f1f09a0a4ee245a-Paper.pdf), *NeurIPS* 2020.
+* Meng, C., Xie, R., Mandal, A., Zhang, X., Zhong, W., and Ma, P. (2020) [LowCon: A design-based subsampling approach in a misspecified linear model](https://www.tandfonline.com/doi/full/10.1080/10618600.2020.1844215), *Journal of Computational and Graphical Statistics*.
+* Zhang, J., Zhong, W., and Ma, P. (2020) [A Review on Modern Computational Optimal Transport Methods with Applications in Biomedical Research](https://link.springer.com/chapter/10.1007/978-3-030-72437-5_13), *Modern Statistical Methods for Health Research*, Springer.
+* Xing, X., Liu, M., Ma, P., and Zhong, W. (2020) [Minimax nonparametric parallelism test](https://www.jmlr.org/papers/v21/19-800.html), *Journal of Machine Learning Research*, 21:1−47.
+* Sun, X., Zhong, W., and Ma, P. (2020) [An asymmetrical smoothing parameters selection approach for smoothing spline ANOVA models in large samples](https://pubmed.ncbi.nlm.nih.gov/34294943/), *Biometrika*, DOI: https://doi.org/10.1093/biomet/asaa047.
 
 # 2019
-* Meng, C., Zhang, X., Zhang, J., Zhong, W., Ma, P., (2019). [More efficient approximation of smoothing splines via space-filling basis selection](https://academic.oup.com/biomet/article-abstract/107/3/723/5831923?redirectedFrom=fulltext). _Biomatrica_.
-* Meng, C.,  Ke, Y., Zhang, J., Zhang, M., Zhong, W., Ma, P., (2019). [Large-scale optimal transport map estimation using projection pursuit](https://chengzijunaixiaoli.github.io/files/Large_scale_optimal_transport_map_approximation_using_projection_pursuit.pdf). _NeurIPS_ 2019.
-* Xie, R., Zhang, M., Venkatraman, P., Zhang, X., Zhang, G., Carmer, R., Kantola, S.A., Pang, C.P., Ma, P., Zhang, Mingzhi, Zhong, W., Leung, Y.F., 2019. [Normalization of large-scale behavioral data collected from zebrafish](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0212234). _PLOS ONE_ 14, e0212234. https://doi.org/10.1371/journal.pone.0212234
-* Xie, R., Wang, Z., Bai, R., Zhong, W. and Ma, P.(2019). [Online decentralized leverage score sampling for streaming multidimensional time series](https://proceedings.mlr.press/v89/xie19a.html). _AISTATS_ 2019.
+
+* Meng, C., Zhang, X., Zhang, J., Zhong, W., Ma, P., (2019). [More efficient approximation of smoothing splines via space-filling basis selection](https://academic.oup.com/biomet/article-abstract/107/3/723/5831923?redirectedFrom=fulltext). *Biometrika*.
+* Meng, C.,  Ke, Y., Zhang, J., Zhang, M., Zhong, W., Ma, P., (2019). [Large-scale optimal transport map estimation using projection pursuit](https://chengzijunaixiaoli.github.io/files/Large_scale_optimal_transport_map_approximation_using_projection_pursuit.pdf). *NeurIPS* 2019.
+* Xie, R., Zhang, M., Venkatraman, P., Zhang, X., Zhang, G., Carmer, R., Kantola, S.A., Pang, C.P., Ma, P., Zhang, Mingzhi, Zhong, W., Leung, Y.F., 2019. [Normalization of large-scale behavioral data collected from zebrafish](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0212234). *PLOS ONE* 14, e0212234. https://doi.org/10.1371/journal.pone.0212234
+* Xie, R., Wang, Z., Bai, R., Zhong, W. and Ma, P.(2019). [Online decentralized leverage score sampling for streaming multidimensional time series](https://proceedings.mlr.press/v89/xie19a.html). *AISTATS* 2019.
 
 # 2018
-* Liu, Y., Xing, X., and Zhong, W.(2018). [Sufficient dimension reduction for tensor data, Handbook of Big Data Analytics](https://link.springer.com/chapter/10.1007/978-3-319-18284-1_13), Springer Handbooks of Computational Statistics, _Springer_.
-* Zhang, J., Jin, H., Ye, W., Sun, X., Zhong, W., and Ma, P., [Smoothing Spline ANOVA Models and Their Applications in Complex and Massive Datasets](https://www.intechopen.com/chapters/61455), Handbook of Big Data Analytics. Springer Handbooks of Computational Statistics, _InTechOpen_.
+
+* Liu, Y., Xing, X., and Zhong, W.(2018). [Sufficient dimension reduction for tensor data, Handbook of Big Data Analytics](https://link.springer.com/chapter/10.1007/978-3-319-18284-1_13), Springer Handbooks of Computational Statistics, *Springer*.
+* Zhang, J., Jin, H., Ye, W., Sun, X., Zhong, W., and Ma, P., [Smoothing Spline ANOVA Models and Their Applications in Complex and Massive Datasets](https://www.intechopen.com/chapters/61455), Handbook of Big Data Analytics. Springer Handbooks of Computational Statistics, *InTechOpen*.
+
 # 2017
-* Xing, X., Liu J. S., and Zhong, W. (2017). [MetaGen: reference-free learning with multiple metagenomic samples](https://link.springer.com/article/10.1186/s13059-017-1323-y). _Genome biology_, 18(1), 187.
-* Zhang, L., Zhang, X., Zhang G., Pang, C., Leung, Y., Zhang, M., and Zhong, W. (2017). [Expression profiling of the retina of pde6c, a zebrafish model of retinal degeneration](https://www.nature.com/articles/sdata2017182). _Scientific data_, 4, 170182.
-* Ma, P., Zhong, W..(2017) [New Statistics for Smelling Out Disease](https://www.scientia.global/wp-content/uploads/2017/09/Wenxuan-Zhong.pdf), _Scientia_.
-* Liu, Y., Ma, P., Cassidy, P. A., Carmer, R., Zhang, G., Venkatraman, P., Brown, P. A., Pang, C.P., Zhong, W., Zhang, M., and Leung, Y. F.(2017) [Statistical Analysis of Zebrafish Locomotor Behaviour by Generalized Linear Mixed Models](https://www.nature.com/articles/s41598-017-02822-w). _Scientific Reports_, 7(1), 2937.
+
+* Xing, X., Liu J. S., and Zhong, W. (2017). [MetaGen: reference-free learning with multiple metagenomic samples](https://link.springer.com/article/10.1186/s13059-017-1323-y). *Genome Biology*, 18(1), 187.
+* Zhang, L., Zhang, X., Zhang G., Pang, C., Leung, Y., Zhang, M., and Zhong, W. (2017). [Expression profiling of the retina of pde6c, a zebrafish model of retinal degeneration](https://www.nature.com/articles/sdata2017182). *Scientific Data*, 4, 170182.
+* Ma, P., Zhong, W.(2017) [New Statistics for Smelling Out Disease](https://www.scientia.global/wp-content/uploads/2017/09/Wenxuan-Zhong.pdf), *Scientia*.
+* Liu, Y., Ma, P., Cassidy, P. A., Carmer, R., Zhang, G., Venkatraman, P., Brown, P. A., Pang, C.P., Zhong, W., Zhang, M., and Leung, Y. F.(2017) [Statistical Analysis of Zebrafish Locomotor Behaviour by Generalized Linear Mixed Models](https://www.nature.com/articles/s41598-017-02822-w). *Scientific Reports*, 7(1), 2937.
+
 # 2016
-* Ma, P., Zhang, N., Huang, J. Z., and Zhong, W.(2016) [Adaptive Basis Selection for Exponential Family Smoothing Splines with Application in Joint Modeling of Multiple Sequencing Samples](https://www.jstor.org/stable/26384099), _Statistica Sinica_.
-* Sun, X., Dalpiaz, D., Wu, D., Liu, J. S., Zhong, W., and Ma, P.(2016) [Statistical inference for time course RNA-Seq data using a negative binomial mixed-effect model](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-016-1180-9). _BMC bioinformatics_, 17(1), 324.
+
+* Ma, P., Zhang, N., Huang, J. Z., and Zhong, W.(2016) [Adaptive Basis Selection for Exponential Family Smoothing Splines with Application in Joint Modeling of Multiple Sequencing Samples](https://www.jstor.org/stable/26384099), *Statistica Sinica*.
+* Sun, X., Dalpiaz, D., Wu, D., Liu, J. S., Zhong, W., and Ma, P.(2016) [Statistical inference for time course RNA-Seq data using a negative binomial mixed-effect model](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-016-1180-9). *BMC Bioinformatics*, 17(1), 324.
+
 # 2014
-* Zhang Y., Askim J., Zhong W., Orlean P., and Suslick K., [Identification of pathogenic fungi with an optoelectronic nose](https://pubmed.ncbi.nlm.nih.gov/24570999/#:~:text=We%20report%20here%20an%20optoelectronic,grown%20on%20standard%20agar%20medium.). _Analyst_, 139(8), 1922-1928.
-* Zhong, W. and Suslick, K., Penalized classification for matrix predictors with application to colorimetric sensor arrays. _Technometrics_,  doi 10.1080/00401706.2014.965347.
-* Seok SM, Fu T, Choi SE, Li Y, Zhu R, Kumar, S, Sun X, Yoon G, Kang Y, Zhong W, Ma, J, Kemper B, and J. K. Kemper (2014) (Seok and Fu equally contributed to this study), [Transcriptional regulation of autophagy by an FXR–CREB axis](https://www.nature.com/articles/nature13949). _Nature_, 516(7529), 108.
-* Zhang, L., Ma, P., Collery, R., Trowbridge, S., Zhang, M., Zhong, W. and Leung, Y.F., (2014) [Expression profiling of the RPE in zebrafish smarca4 mutant revealed altered signals that potentially affect RPE and retinal differentiation](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3888495/). _Molecular Vision_. 20:56-72
+
+* Zhang Y., Askim J., Zhong W., Orlean P., and Suslick K., [Identification of pathogenic fungi with an optoelectronic nose](https://pubmed.ncbi.nlm.nih.gov/24570999/#:~:text=We%20report%20here%20an%20optoelectronic,grown%20on%20standard%20agar%20medium.). *Analyst*, 139(8), 1922-1928.
+* Zhong, W. and Suslick, K., Penalized classification for matrix predictors with application to colorimetric sensor arrays. *Technometrics*,  doi 10.1080/00401706.2014.965347.
+* Seok SM, Fu T, Choi SE, Li Y, Zhu R, Kumar, S, Sun X, Yoon G, Kang Y, Zhong W, Ma, J, Kemper B, and J. K. Kemper (2014) (Seok and Fu equally contributed to this study), [Transcriptional regulation of autophagy by an FXR–CREB axis](https://www.nature.com/articles/nature13949). *Nature*, 516(7529), 108.
+* Zhang, L., Ma, P., Collery, R., Trowbridge, S., Zhang, M., Zhong, W. and Leung, Y.F., (2014) [Expression profiling of the RPE in zebrafish smarca4 mutant revealed altered signals that potentially affect RPE and retinal differentiation](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3888495/). *Molecular Vision*. 20:56-72
+
 # 2013
-* Qian, T., Lu, S., Ma, H., Fang, J., Zhong, W., Wang, Y.  [FRET Imaging of Microenvironment Effects on Calcium Signaling in Live Cells](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4165894/). _Integrative Biology_, 2013;5,431-438.
+
+* Qian, T., Lu, S., Ma, H., Fang, J., Zhong, W., Wang, Y.  [FRET Imaging of Microenvironment Effects on Calcium Signaling in Live Cells](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4165894/). *Integrative Biology*, 2013;5,431-438.
+
 # 2012
-* Zhang, Y., Yang, Y. , Trujillo, C., Zhong, W. and Leung, Y.F. [The expression of irx7 in the inner nuclear layer of zebrafish retina is essential for the proper development of both inner and outer nuclear layers and formation of retinal lamination](https://pubmed.ncbi.nlm.nih.gov/22540019/), _PLoS ONE_, 2012 7(4): e36145.
-* Zhong, W., Zhang, T., Zhu, M. and Liu, J. S. [Correlation pursuit: forward stepwise variable selection for index models](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3519449/), _Journal of Royal Statistical Society, Ser B_. 2012:74(5) 849-870.
-* Li Z, Ptak D, Zhang LY, Walls EK, Zhong W, Leung YF. [Phenylthiourea specifically reduces zebrafish eye size](https://pubmed.ncbi.nlm.nih.gov/22761952/). _PLoS ONE_. 2012; 7(6):e40132.
+
+* Zhang, Y., Yang, Y. , Trujillo, C., Zhong, W. and Leung, Y.F. [The expression of irx7 in the inner nuclear layer of zebrafish retina is essential for the proper development of both inner and outer nuclear layers and formation of retinal lamination](https://pubmed.ncbi.nlm.nih.gov/22540019/), *PLoS ONE*, 2012 7(4): e36145.
+* Zhong, W., Zhang, T., Zhu, M. and Liu, J. S. [Correlation pursuit: forward stepwise variable selection for index models](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3519449/), *Journal of the Royal Statistical Society, Series B*. 2012:74(5) 849-870.
+* Li Z, Ptak D, Zhang LY, Walls EK, Zhong W, Leung YF. [Phenylthiourea specifically reduces zebrafish eye size](https://pubmed.ncbi.nlm.nih.gov/22761952/). *PLoS ONE*. 2012; 7(6):e40132.
+
 # 2010
-* Feng, L., Lim, S. Kemling, J., Musto, C., Jiang, M., Lin, H., Zhong, W., Suslick, K. [A colorimetric sensor array for determination and identification of toxic industrial chemicals](https://pubs.acs.org/doi/10.1021/ac1020886), _Analytical Chemistry_, 2010:82(22), 9433-9440.
+
+* Feng, L., Lim, S. Kemling, J., Musto, C., Jiang, M., Lin, H., Zhong, W., Suslick, K. [A colorimetric sensor array for determination and identification of toxic industrial chemicals](https://pubs.acs.org/doi/10.1021/ac1020886), *Analytical Chemistry*, 2010:82(22), 9433-9440.
+
 # 2009
-* Ma, P., Zhong, W., and Liu, J. S. (2009) [Identifying differentially expressed genes in time course microarray data](https://pubmed.ncbi.nlm.nih.gov/17589962/), _Statistics in Biosciences_, 1(2), 144-159.
+
+* Ma, P., Zhong, W., and Liu, J. S. (2009) [Identifying differentially expressed genes in time course microarray data](https://pubmed.ncbi.nlm.nih.gov/17589962/), *Statistics in Biosciences*, 1(2), 144-159.
+
 # 2008
-* Ma, P. and Zhong, W.(2008) [Penalized clustering of large scale functional data with multiple covariates](https://www.jstor.org/stable/27640085), _Journal of the American Statistical Association_, 103 (482),
-625-636.
-* Ma, P., Zhong, W., Feng, Y., and Liu, J. S. (2008) [Bayesian functional data clustering for temporal microarray data](https://pubmed.ncbi.nlm.nih.gov/18464908/), _International Journal of Plant Genomics_, 2008 (2008) Article ID 231897.
-* Lim, S., Musto, C., Park, E., Zhong, W., and Suslick, K. [A colorimetric sensor array for detection and identification of sugars](https://pubmed.ncbi.nlm.nih.gov/18783231/), _Organic Letters_, 2008:10(20), 4405–4408.
+
+* Ma, P. and Zhong, W.(2008) [Penalized clustering of large scale functional data with multiple covariates](https://www.jstor.org/stable/27640085), *Journal of the American Statistical Association*, 103 (482),
+  625-636.
+* Ma, P., Zhong, W., Feng, Y., and Liu, J. S. (2008) [Bayesian functional data clustering for temporal microarray data](https://pubmed.ncbi.nlm.nih.gov/18464908/), *International Journal of Plant Genomics*, 2008 (2008) Article ID 231897.
+* Lim, S., Musto, C., Park, E., Zhong, W., and Suslick, K. [A colorimetric sensor array for detection and identification of sugars](https://pubmed.ncbi.nlm.nih.gov/18783231/), *Organic Letters*, 2008:10(20), 4405–4408.
+
 # 2006
-* Yuan, G.C. §, Ma, P.§, Zhong, W., and Liu, J. S. (2006) [Statistical assessment of the global regulatory role of histone acetylation in Saccharomyces cerevisiae](https://pubmed.ncbi.nlm.nih.gov/16884527/), _Genome Biology_, 7(8): R70. [Supplementary material] (§ joint first authors)
-* Ma, P.§, Castillo-Davis, C.§, Zhong, W., and Liu, J. S. (2006) [A data-driven clustering method for time course gene expression data](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1388097/), _Nucleic Acids Research_, 34(4), 1261-1269. (§ joint first authors)
+
+* Yuan, G.C. §, Ma, P.§, Zhong, W., and Liu, J. S. (2006) [Statistical assessment of the global regulatory role of histone acetylation in Saccharomyces cerevisiae](https://pubmed.ncbi.nlm.nih.gov/16884527/), *Genome Biology*, 7(8): R70. [Supplementary material] (§ joint first authors)
+* Ma, P.§, Castillo-Davis, C.§, Zhong, W., and Liu, J. S. (2006) [A data-driven clustering method for time course gene expression data](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1388097/), *Nucleic Acids Research*, 34(4), 1261-1269. (§ joint first authors)
+
 # 2005
-* Zhong, W., Zeng, P., Ma, P., Liu, J. S., and Zhu, Y. (2005) [RSIR: regularized sliced inverse regression for motif discovery](https://academic.oup.com/bioinformatics/article/21/22/4169/194894), _Bioinformatics_, 21(22), 4169-4175.
+
+* Zhong, W., Zeng, P., Ma, P., Liu, J. S., and Zhu, Y. (2005) [RSIR: regularized sliced inverse regression for motif discovery](https://academic.oup.com/bioinformatics/article/21/22/4169/194894), *Bioinformatics*, 21(22), 4169-4175.
+
 # 2004
-* Vio, R., Ma, P., Zhong, W., Nagy, J., Tenorio, L., and Wamsteker, W. (2004) [Estimation of regularization parameters in multiple-image deblurring](https://www.aanda.org/articles/aa/pdf/2004/33/aa0113-04.pdf), _Astronomy &
-Astrophysics_, 423, 1179–1186.
+
+* Vio, R., Ma, P., Zhong, W., Nagy, J., Tenorio, L., and Wamsteker, W. (2004) [Estimation of regularization parameters in multiple-image deblurring](https://www.aanda.org/articles/aa/pdf/2004/33/aa0113-04.pdf), *Astronomy & Astrophysics*, 423, 1179–1186.
