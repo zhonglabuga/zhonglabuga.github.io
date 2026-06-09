@@ -1,9 +1,9 @@
 ---
-
 title: "Publication"
 mathjax: true
 layout: page
-------------
+---
+
 
 # 2026
 
