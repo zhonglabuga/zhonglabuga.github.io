@@ -11,6 +11,8 @@ permalink: /people/
     <div class="description" style="margin-left: 20px;">
         <h3>UGA Athletic Association Professor Wenxuan Zhong</h3>
         <!-- More description if necessary -->
+        <h3>Department of Statistics<h3>
+        <h3>University of Georgia<h3>
     </div>
 </div>
 
