@@ -7,6 +7,8 @@ layout: page
 
 # 2026
 
+* Fang, L., Lu, H., Chen, Y., Zhong, W., Ma, P. (2026). [Knowledge Cascade: Reverse Knowledge Distillation on Nonparametric Multivariate Functional Estimation](https://www.jmlr.org/papers/v27/23-0359.html), *Journal of Machine Learning Research*, 27(54), 1–38.
+
 * Fang, L., Wang, S., Chen, Y., Zhang, S., Liu, Z., Zhong, W. (2026). [Analyzing Complex Educational Data: A Data Analytic Framework for Integrating Structured and Unstructured Eye-Tracking Data](https://doi.org/10.1017/psy.2026.10096), *Psychometrika*, 1–29.
 
 * Fang, L., Chen, Y., Cai, J., Ma, P., Zhong, W., [Multi-Teacher Knowledge Distillation via Teacher-Informed Mixture Priors](https://arxiv.org/abs/2605.27967), *arXiv preprint arXiv:2605.27967* (2026).
