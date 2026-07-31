@@ -7,9 +7,9 @@ layout: page
 
 # 2026
 
-* Lu, H., Fang, L., Zhong, W., Ma, P. (2026). [NeuroMAS: Multi-Agent Systems as Neural Networks with Joint Reinforcement Learning](https://openreview.net/forum?id=psCz7NClif), *Proceedings of Machine Learning Research*, 335, forthcoming. **STAI-X 2026 Paper Honorable Mention.**
+* Lu, H., Fang, L., Zhong, W., Ma, P. (2026). [NeuroMAS: Multi-Agent Systems as Neural Networks with Joint Reinforcement Learning](https://openreview.net/forum?id=psCz7NClif), *Proceedings of Machine Learning Research*, 335, forthcoming. 
 
-* Chen, Y., Zhong, W., Ma, P. (2026). [Wahkon: A Statistically Principled Deep RKHS Superposition Network](https://openreview.net/forum?id=pbHIU8XWtM), *Proceedings of Machine Learning Research*, 335, forthcoming. **STAI-X 2026 Paper Award.**
+* Chen, Y., Zhong, W., Ma, P. (2026). [Wahkon: A Statistically Principled Deep RKHS Superposition Network](https://openreview.net/forum?id=pbHIU8XWtM), *Proceedings of Machine Learning Research*, 335, forthcoming. 
 
 * Fang, L., Lu, H., Chen, Y., Zhong, W., Ma, P. (2026). [Knowledge Cascade: Reverse Knowledge Distillation on Nonparametric Multivariate Functional Estimation](https://www.jmlr.org/papers/v27/23-0359.html), *Journal of Machine Learning Research*, 27(54), 1–38.
 
