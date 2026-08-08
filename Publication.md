@@ -7,7 +7,9 @@ layout: page
 
 # 2026
 
-* Lu, H., Fang, L., Zhong, W., Ma, P. (2026). [NeuroMAS: Multi-Agent Systems as Neural Networks with Joint Reinforcement Learning](https://openreview.net/forum?id=psCz7NClif), *Proceedings of Machine Learning Research*, 335, forthcoming. 
+* Fang, L., Zhang, Y., Park, J., Wang, Z., Ma, P., Zhai, X. (2027). [Confidence-Aware Automated Assessment of Student-Drawn Scientific Models](https://link.springer.com/chapter/10.1007/978-3-032-29760-0_38), *Artificial Intelligence in Education (AIED 2026), Lecture Notes in Computer Science*, 16583, 342–350.
+
+* Najar, A., Wu, S., Yang, H., Wang, T., Ye, J., Zhong, W., Ma, P., Song, W. (2025). [Domain-adaptive Anomaly Detection and Severity Prediction of Electric Machine Drives at the Point of Common Coupling](https://www.techrxiv.org/doi/full/10.36227/techrxiv.176101231.19551555/v2), *TechRxiv preprint*.
 
 * Chen, Y., Zhong, W., Ma, P. (2026). [Wahkon: A Statistically Principled Deep RKHS Superposition Network](https://openreview.net/forum?id=pbHIU8XWtM), *Proceedings of Machine Learning Research*, 335, forthcoming. 
 
@@ -19,7 +21,7 @@ layout: page
 
 * Lu, H., Fang, L., Zeng, O., Zhong, W., Yuan, G.-C., Ma, P. (2026). [Optimal Gene Panel Selection for Targeted Spatial Transcriptomics Experiments](https://www.biorxiv.org/content/10.1101/2025.10.08.681071v1.full), *Nucleic Acids Research*, in press.
 
-* Cai, J., Chen, Y., Fang, L., Zhong, W., Yuan, G.-C., Ma, P. (2026). [SpaDiff: Denoising for Sequence-based Spatial Transcriptomics via Diffusion Process](https://www.biorxiv.org/content/10.1101/2025.10.07.681011v1), *Cell Reports Methods*, in press.
+* Cai, J., Chen, Y., Fang, L., Zhong, W., Yuan, G.-C., Ma, P. (2026). [SpaDiff: Denoising for Sequence-based Spatial Transcriptomics via Diffusion Process](https://www.cell.com/cell-reports-methods/fulltext/S2667-2375(26)00231-6), *Cell Reports Methods*, in press.
 
 * Lu, H., Fang, L., Zhong, W., Ma, P. (2026). [NeuroMAS: Multi-Agent Systems as Neural Networks with Joint Reinforcement Learning](https://arxiv.org/abs/2605.16757), *arXiv:2605.16757*.
 
