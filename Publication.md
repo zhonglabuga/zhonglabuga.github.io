@@ -7,8 +7,6 @@ layout: page
 
 # 2026
 
-* Fang, L., Zhang, Y., Park, J., Wang, Z., Ma, P., Zhai, X. (2027). [Confidence-Aware Automated Assessment of Student-Drawn Scientific Models](https://link.springer.com/chapter/10.1007/978-3-032-29760-0_38), *Artificial Intelligence in Education (AIED 2026), Lecture Notes in Computer Science*, 16583, 342–350.
-
 * Najar, A., Wu, S., Yang, H., Wang, T., Ye, J., Zhong, W., Ma, P., Song, W. (2025). [Domain-adaptive Anomaly Detection and Severity Prediction of Electric Machine Drives at the Point of Common Coupling](https://www.techrxiv.org/doi/full/10.36227/techrxiv.176101231.19551555/v2), *TechRxiv preprint*.
 
 * Chen, Y., Zhong, W., Ma, P. (2026). [Wahkon: A Statistically Principled Deep RKHS Superposition Network](https://openreview.net/forum?id=pbHIU8XWtM), *Proceedings of Machine Learning Research*, 335, forthcoming. 
