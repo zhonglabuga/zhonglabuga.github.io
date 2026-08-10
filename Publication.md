@@ -23,8 +23,6 @@ layout: page
 
 * Lu, H., Fang, L., Zhong, W., Ma, P. (2026). [NeuroMAS: Multi-Agent Systems as Neural Networks with Joint Reinforcement Learning](https://arxiv.org/abs/2605.16757), *arXiv:2605.16757*.
 
-* Chen, Y., Zhong, W., Ma, P., [Wahkon: A Statistically Principled Deep RKHS Superposition Network](https://arxiv.org/abs/2605.14041), *arXiv preprint arXiv:2605.14041* (2026).
-
 * Cai, J., Feng, Y., Cheng, H., Ge, Y., Guo, Z., Huang, H., Li, C., Li, Y., Ling, F., Martinez, L., Ma, P., Zhong, W., Shen, Y., [Pseudo-Time Reconstruction for Analyzing Transmission Direction in COVID-19 Contact-Tracing Data](https://doi.org/10.1016/j.epidem.2026.100914), *Epidemics*, 2026, accepted.
 
 * Cheng, H., Chen, Y., Ma, P., Zhong, W. [Graphon Cross-Validation: Assessing Models on Network Data](https://openreview.net/pdf?id=8J3GTeQmwl). International Conference on Learning Representations, 2026.
