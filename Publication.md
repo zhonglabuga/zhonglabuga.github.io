@@ -7,6 +7,8 @@ layout: page
 
 # 2026
 
+- Zhang, Y., Lu, H., Zhong, W., Ma, P. (2026). [K2P: Label-Free Knowledge to Prompt Distillation](https://arxiv.org/abs/2609.38898), _arXiv preprint arXiv:2609.38898_.
+
 - Cai, J., Wang, T., Zhang, R., Li, S., Ma, T., Fang, L., Lu, H., Cheng, H., Zhang, Y., Wu, S., Xie, R., Tang, L., Huang, C., Liu, R., Liu, Z., Yu, M., Chen, Y., Zhou, Y., Sun, Z., Liu, C., Xiang, Z., Xiao, W., Rao, Z., Liu, X., Hu, Y., Zhang, M., Zhang, J., Luo, W., Yu, J., Liu, Z., You, W., Jiang, H., Pan, Y., Chen, J., Li, X., Liu, T., Zhong, W., Ma, P. (2026). [Complex Problem Solving in Large Language Models: A Statistical Control Survey and Diagnostic Framework](https://arxiv.org/abs/2609.20973), _arXiv preprint arXiv:2609.20973_.
   
 * Najar, A., Wu, S., Yang, H., Wang, T., Ye, J., Zhong, W., Ma, P., Song, W. (2025). [Domain-adaptive Anomaly Detection and Severity Prediction of Electric Machine Drives at the Point of Common Coupling](https://www.techrxiv.org/doi/full/10.36227/techrxiv.176101231.19551555/v2), *TechRxiv preprint*.
